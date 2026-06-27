@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/part-1-toatd/","dg-note-properties":{}}
 ---
 
+# Part 1 TOATD
 You're the bad guy. (Canon ending is Dark Ending)
 # Tale Of A Thousand Deaths
 # [[TALE OF A THOUSAND/Part 1/Locations/World Map P1\|WORLD MAP]]

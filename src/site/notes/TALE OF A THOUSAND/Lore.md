@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/lore/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+# Lore
 # [[TALE OF A THOUSAND/Ideas\|Ideas]]
 # [[TALE OF A THOUSAND/Characters/Characters\|Characters]]
 

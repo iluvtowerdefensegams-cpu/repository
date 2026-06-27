@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/ideas/","dg-note-properties":{}}
 ---
 
+# Ideas
 # [[TALE OF A THOUSAND/Lore\|Lore]]
 
 ... Heck if I'm writing all that in here. Just use your notepad bro. 
