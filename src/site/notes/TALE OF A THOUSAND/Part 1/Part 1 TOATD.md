@@ -20,8 +20,3 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 9 The Fun Begins\|Chapter 9 The Fun Begins]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 10 The Sword Locked In A Tower\|Chapter 10 The Sword Locked In A Tower]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
-
-
----
-dg-publish: true
----

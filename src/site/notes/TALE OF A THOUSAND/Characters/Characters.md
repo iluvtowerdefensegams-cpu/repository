@@ -10,6 +10,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 - ## [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 - ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+- ## [[Alice/Alice-Aid\|Alice-Aid]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 

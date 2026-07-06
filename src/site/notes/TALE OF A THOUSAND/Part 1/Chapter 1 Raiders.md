@@ -58,7 +58,7 @@ That's why I need [[TALE OF A THOUSAND/Characters/You\|YOU]]." -[[TALE OF A THOU
 "Me?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 "Let's make a deal. If you help me 'acquire' a hundred souls, enough to restore my full power, and find my torn pages, I'll help you survive your [[TALE OF A THOUSAND/Part 1/Others/Curse\|curse]]" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|Tome]]
 "I'm not sure..." -[[TALE OF A THOUSAND/Characters/You\|You]]
-"Trust me, I'll make your journey *[[worthwhile\|worthwhile]]*
+"Trust me, I'll make your journey *[[TALE OF A THOUSAND/Extras/worthwhile\|worthwhile]]*
 And anyway, it's not as if your village is burning down as we speak." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|Tome]]
 
 (Elections: Yes/No. If you deny, on easier difficulties he'll be more persistent. On hard mode, he just lets you die on the ground. "Alright, your choice. I'll find someone else.")
