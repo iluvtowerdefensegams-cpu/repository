@@ -3,3 +3,6 @@
 ---
 
 Your friend
+
+Final phrase:
+"I want you to remember this. No matter where you go, or what you do... don't forget who you are inside."
