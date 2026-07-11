@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/part-1-toatd/","dg-note-properties":{}}
 ---
 
+---
+dg-publish: true
+---
 # Part 1 TOATD
 You're the bad guy. (Canon ending is Dark Ending)
 # Tale Of A Thousand Deaths
@@ -20,3 +23,6 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 9 The Fun Begins\|Chapter 9 The Fun Begins]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 10 The Sword Locked In A Tower\|Chapter 10 The Sword Locked In A Tower]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
+---
+dg-publish: true
+---

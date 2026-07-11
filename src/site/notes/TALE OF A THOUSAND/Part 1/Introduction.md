@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/introduction/","dg-note-properties":{}}
 ---
 
+---
+dg-publish: true
+---
 # Introduction 
 - ## Dream:
 You are in a dark world. A pathway with a black carpet stands in front of you. At the sides, the hundred souls, each on it's pillar. The pillar size is based off their importance in the story. (Screentime)

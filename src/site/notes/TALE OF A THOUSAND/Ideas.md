@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/ideas/","dg-note-properties":{}}
 ---
 
+---
+dg-publish: true
+---
 # Ideas
 # [[TALE OF A THOUSAND/Lore\|Lore]]
 

@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/chapter-1-raiders/","dg-note-properties":{}}
 ---
 
+---
+dg-publish: true
+---
 # Chapter 1: Raiders
 You're in your bed. You hear a voice calling for you.
 "`<username>`... 
