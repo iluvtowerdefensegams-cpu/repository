@@ -30,7 +30,7 @@ The player defeats the Raider. The enemy collapses.
 
 A horrific tearing sound echoes as the Tome forcibly tears the Raider's soul from their chest and devours it. A sudden, intoxicating rush of raw strength surges through your character's veins—accompanied by a dark, dangerous urge to feel it again. Your curse runes pulse with a violent dark glow.
 
-"Feels good, doesn't it? That is the taste of power, human. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely."
+"Feels good, doesn't it? That is the taste of power, human. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🛡️ Second Encounter: Loot & Parrying
 The player engages and defeats a second Raider.
 
@@ -84,7 +84,7 @@ Peter's eyes gently close. His head slumps. He falls unconscious—drifting clos
 
 "You're not suggesting..." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-I am telling you. Reap him." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"I am telling you. Reap him." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 "I won't ever do that!!!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
