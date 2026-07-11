@@ -5,4 +5,7 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 # Chapter 8: A Scientist's Head Quarters

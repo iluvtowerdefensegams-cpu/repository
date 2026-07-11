@@ -5,4 +5,7 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 # Chapter 4: Pirate Docks

@@ -5,7 +5,13 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 Cool text effect plz
+---
+dg-publish: true
+---
 ---
 dg-publish: true
 ---

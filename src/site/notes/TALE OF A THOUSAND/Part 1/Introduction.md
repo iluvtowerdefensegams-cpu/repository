@@ -5,6 +5,9 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 # Introduction 
 - ## Dream:
 You are in a dark world. A pathway with a black carpet stands in front of you. At the sides, the hundred souls, each on it's pillar. The pillar size is based off their importance in the story. (Screentime)

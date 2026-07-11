@@ -5,6 +5,9 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 Your friend
 
 Final phrase:

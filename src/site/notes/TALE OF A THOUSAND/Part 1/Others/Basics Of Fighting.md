@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/others/basics-of-fighting/","dg-note-properties":{}}
 ---
 
+---
+dg-publish: true
+---
 # Basics Of Fighting 
 MB1 to Attack
 MB1Hold for Strong Attack

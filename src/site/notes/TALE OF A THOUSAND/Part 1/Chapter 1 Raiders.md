@@ -5,6 +5,9 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 # Chapter 1: Raiders
 You're in your bed. You hear a voice calling for you.
 "`<username>`... 

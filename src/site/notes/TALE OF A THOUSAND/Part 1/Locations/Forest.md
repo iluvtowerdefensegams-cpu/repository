@@ -5,5 +5,8 @@
 ---
 dg-publish: true
 ---
+---
+dg-publish: true
+---
 ![Screenshot_20260627_210830_Gallery.jpg](/img/user/TALE%20OF%20A%20THOUSAND/Images/Screenshot_20260627_210830_Gallery.jpg)
 ![20260627_211003.jpg](/img/user/TALE%20OF%20A%20THOUSAND/Images/20260627_211003.jpg)
