@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/chapter-9-the-fun-begins/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
----
-dg-publish: true
----
-# Chapter 9: The Fun Begins
+
+
+-
+ Chapter 9: The Fun Begins

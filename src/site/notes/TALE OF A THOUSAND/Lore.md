@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/tale-of-a-thousand/lore/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tale-of-a-thousand/lore/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
----
-dg-publish: true
-dg-home: true
----
 # Lore
 # [[TALE OF A THOUSAND/Ideas\|Ideas]]
 # [[TALE OF A THOUSAND/Characters/Characters\|Characters]]
@@ -16,6 +12,6 @@ dg-home: true
 - #  [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 # Lore Part 3:
 - # [[TALE OF A THOUSAND/Part 3/Part 3 TOATE\|Part 3 TOATE]] 
----
-dg-publish: true
----
+
+
+

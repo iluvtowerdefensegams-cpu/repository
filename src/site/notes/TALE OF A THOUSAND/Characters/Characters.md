@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/characters/characters/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
----
-dg-publish: true
----
 # Characters
 # Part 1 Characters
 ## [[TALE OF A THOUSAND/Part 1/Part 1 TOATD\|Part 1 TOATD]]
@@ -26,9 +20,6 @@ dg-publish: true
 - ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 
----
-dg-publish: true
----
----
-dg-publish: true
----
+
+
+

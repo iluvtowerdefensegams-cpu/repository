@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/characters/peter/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
----
-dg-publish: true
----
 Your friend
 
 Final phrase:

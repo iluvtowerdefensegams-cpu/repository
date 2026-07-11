@@ -2,12 +2,6 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/chapter-2-fighting-back/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
----
-dg-publish: true
----
 # Chapter 2: Fighting Back
 You arrive back at the burning [[TALE OF A THOUSAND/Part 1/Locations/Town\|Town]], the air thick with smoke and the shouts of invading [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]].
 

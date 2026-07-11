@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-2/introduction-2/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
 # Introduction
 Once upon a time there was nothing. Just an endless void. It was all empty, but for two beings.
 One, a being of pure goodness and light, Lampros (Brilliant/Radiant in Greek)

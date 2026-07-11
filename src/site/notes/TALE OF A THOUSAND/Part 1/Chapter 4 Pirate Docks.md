@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/chapter-4-pirate-docks/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
----
-dg-publish: true
----
+
+
+
+
+
+
 # Chapter 4: Pirate Docks

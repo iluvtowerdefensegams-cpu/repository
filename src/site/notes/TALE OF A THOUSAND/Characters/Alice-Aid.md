@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/characters/alice-aid/","dg-note-properties":{}}
 ---
 
----
-dg-publish: true
----
 Instead of a passive Cleric who just stands in the back chanting prayers, making Alice/Aid a long-range marksman gives her so much utility. In combat, she can be completely out of reach, picking at your health bar from across the map, and the moment you finally land a devastating combo on Mike or Wignus, she just shoots them with a healing dart or uses a holy arrow to restore their HP.
 It makes her a high-priority target for a villain. If you don't hunt her down first, she's going to undo all your hard work while chipping away at you from safety!
 Naming & Aesthetic Ideas for Her:
