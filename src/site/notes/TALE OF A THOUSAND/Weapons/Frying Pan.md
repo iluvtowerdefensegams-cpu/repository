@@ -3,4 +3,4 @@
 ---
 
 Bonk enemies like Rapunzel
-![images (2).jpeg](/img/user/TALE%20OF%20A%20THOUSAND/Images/images%20(2).jpeg)
+![images (2).jpeg](/img/user/images%20(2).jpeg)
