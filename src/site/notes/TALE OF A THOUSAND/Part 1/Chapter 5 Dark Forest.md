@@ -3,3 +3,4 @@
 ---
 
 # Chapter 5: Dark Forest
+The forest is a bit of a maze. You don't 

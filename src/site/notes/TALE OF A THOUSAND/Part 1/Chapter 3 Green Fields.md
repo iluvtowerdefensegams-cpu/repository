@@ -34,7 +34,7 @@ The boy drops his sword onto its sheath and immediately wraps the giant, squishy
 
 "Repulsive. Truly sickening. If I had hands, human, I would be rubbing my temples right now. Do not let this child interfere with our itinerary. Dispose of them both." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-Looking up from the slime, completely ignoring your dark aura "Hey, what's your name anyway?" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+*Looking up from the slime, completely ignoring your dark aura* "Hey, what's your name anyway?" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 "Why should I tell you?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 

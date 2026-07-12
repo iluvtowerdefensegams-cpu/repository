@@ -61,7 +61,7 @@ The final pirate falls. Jaw collapses against a stack of cargo crates, gripping 
 
 Mike enthusiastically sprints down the pier, turning the corner out of sight. The moment he leaves, the warm ambient lighting instantly drops into a cold, shadowy hue. You turn back to Jaw, your face twisting into a cold, devilish grin.
 
-*Struggling to back away, terror filling his eyes*"W-what are ye doing? Your friend said—" -[[TALE OF A THOUSAND/Characters/Jaw\|Jaw]]
+*Struggling to back away, terror filling his eyes* "W-what are ye doing? Your friend said—" -[[TALE OF A THOUSAND/Characters/Jaw\|Jaw]]
 
 You draw your weapon, your curse marks flaring with a violent purple light. The screen cuts to black for a split second as a swift, brutal striking sound plays, followed by the heavy, echoing sound of a soul being violently torn away.
 
@@ -127,9 +127,10 @@ You step down onto the beach, heading toward the treasure chest. But right befor
 
 Hearing Peter’s exact final words echoes like a thunderclap in your mind. Your character takes a step back, visibly shaken, drawing their weapon defensively.
 
-*Draws his traveler's blade, a brilliant, blinding light emanating from the steel* "Very well then. If you're going to let that darkness completely consume you... -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+*Draws his traveler's blade, a brilliant, blinding light emanating from the steel* "Very well then. If you're going to let that darkness completely consume you...
 
-# I shall be the one to stop you."
+# I shall be the one to stop you." 
+-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 ## BOSS BATTLE: Mike (Pirate )
 *   **The Reality:** Mike is utilizing his full strength now. Armed with incredible stats and fast, devastating parries, **he absolutely kicks your ass.** This is a scripted, overwhelming battle to show his true potential.
