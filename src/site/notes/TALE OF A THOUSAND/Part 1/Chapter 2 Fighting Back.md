@@ -11,10 +11,10 @@ You arrive back at the burning [[TALE OF A THOUSAND/Part 1/Locations/Town\|Town]
 *   **Stealth Phase:** The player must avoid the line of sight of the [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]]. 
 *   **Pre-Combat Strike:** Like *Super Paper Mario*, once a weapon is equipped, striking an enemy in the overworld before they touch you will transition you into the arena with that enemy in a **weakened state**.
 *   **Available Weapons:**
-    *   [[TALE OF A THOUSAND/Weapons/Branch\|Branch]] (Basic)
-    *   [[TALE OF A THOUSAND/Weapons/Frying Pan\|Frying Pan]] (Blunt)
-    *   [[TALE OF A THOUSAND/Weapons/Dagger\|Dagger]] (Fast)
-    *   Eating Utensils Pack ([[TALE OF A THOUSAND/Weapons/Spoon\|Spoon]], [[TALE OF A THOUSAND/Weapons/Fork\|Fork]], and [[TALE OF A THOUSAND/Weapons/Knife\|Knife]])
+    *   [[TALE OF A THOUSAND/Equipment/Weapons/Branch\|Branch]] (Basic)
+    *   [[TALE OF A THOUSAND/Equipment/Weapons/Frying Pan\|Frying Pan]] (Blunt)
+    *   [[TALE OF A THOUSAND/Equipment/Weapons/Dagger\|Dagger]] (Fast)
+    *   Eating Utensils Pack ([[TALE OF A THOUSAND/Equipment/Weapons/Spoon\|Spoon]], [[TALE OF A THOUSAND/Equipment/Weapons/Fork\|Fork]], and [[TALE OF A THOUSAND/Equipment/Weapons/Knife\|Knife]])
     *   [[TALE OF A THOUSAND/Part 1/Easter Eggs/The Legendary Banana\|The Legendary Banana]] 🌟 *(Easter Egg)*
 Upon picking up your first weapon, a surge of oppressive dark energy flows from the book, imbuing the item with a violet, smoky aura.
 "Crude, but it will do for now. Now... let us find a stray dog to practice on." - [[TALE OF A THOUSAND/Characters/The Dark Tome\|Tome]]

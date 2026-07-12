@@ -12,6 +12,8 @@
 - ## [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]]
 - ## [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
 - ## [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+- ## [[TALE OF A THOUSAND/Characters/Jaw\|Jaw]]
+- ## [[TALE OF A THOUSAND/Characters/Captain\|Captain]]
 - ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 - ## [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
