@@ -14,7 +14,7 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 3 Green Fields\|Chapter 3 Green Fields]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 4 Pirate Docks\|Chapter 4 Pirate Docks]]
 ---
-#
+# Pending:
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 5 Dark Forest\|Chapter 5 Dark Forest]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 6 The Curse Dimension\|Chapter 6 The Curse Dimension]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 7 Mike Returns\|Chapter 7 Mike Returns]]
