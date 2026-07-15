@@ -108,3 +108,5 @@ Your vision blurs. The screen tilts wildly as your character falls to their knee
 
 # Soul Count: 28
 # PageStone Count: 2
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 6 The Curse Dimension\|Chapter 6 The Curse Dimension]]

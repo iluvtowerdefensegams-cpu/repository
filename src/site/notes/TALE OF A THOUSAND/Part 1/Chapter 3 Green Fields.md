@@ -63,3 +63,5 @@ The sheer, unbothered optimism of his answer catches you completely off guard. Y
 *   **The Tome's Reaction:** Every time you get ragdolled, the Tome will deeply sigh or mock your lack of authority.
 #  Soul Count: 10
 #  PageStone Count: 1
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 4 Pirate Docks\|Chapter 4 Pirate Docks]]

@@ -16,6 +16,12 @@
 - ## [[TALE OF A THOUSAND/Characters/Captain\|Captain]]
 - ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 - ## [[TALE OF A THOUSAND/Characters/Witch\|Witch]]
+- ## [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+- ## [[TALE OF A THOUSAND/Characters/Brandon The Baker\|Brandon The Baker]]
+- ## [[TALE OF A THOUSAND/Characters/Steve The BlackSmith-Smithy Steve\|Steve The BlackSmith-Smithy Steve]]
+- ## [[TALE OF A THOUSAND/Characters/Scratch\|Scratch]]
+- ## [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
+- ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
 - ## [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]

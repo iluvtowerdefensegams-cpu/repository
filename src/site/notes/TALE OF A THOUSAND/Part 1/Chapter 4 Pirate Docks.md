@@ -155,3 +155,5 @@ You look up from the chest. Directly ahead of the beach lies an incredibly dense
 
 # Soul Count: 20
 # PageStone Count: 2
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 5 Dark Forest\|Chapter 5 Dark Forest]]

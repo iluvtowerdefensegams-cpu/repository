@@ -133,3 +133,5 @@ Upon accepting, the dark light from the book surges into your arm, forcibly anch
 
 You pick up the Tome and rush back to your village.
 
+# [[TALE OF A THOUSAND/Part 1/Chapter 2 Fighting Back\|Chapter 2 Fighting Back]]
+

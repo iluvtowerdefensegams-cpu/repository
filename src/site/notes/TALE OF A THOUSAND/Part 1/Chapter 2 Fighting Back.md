@@ -148,3 +148,5 @@ Your character turns their back on the flaming ruins of their home and walks out
 
 - # Soul Count: 10
 - # PageStone Count: 1
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 3 Green Fields\|Chapter 3 Green Fields]]
