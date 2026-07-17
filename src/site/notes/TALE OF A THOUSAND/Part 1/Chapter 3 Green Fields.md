@@ -2,9 +2,29 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/chapter-3-green-fields/","dg-note-properties":{}}
 ---
 
+
+​The screen slowly fades out from the burning ruins of your village. The crackle of the fire grows faint, replaced by the heavy, ragged breathing of your character walking through the dark, quiet woods.
+
+​We cut to a cinematic side-view. Your character is trudging slowly down a dirt path. The sky behind them is stained a toxic orange from the distant, burning town. Your character stops. They look down at their hands—surrounded by that faint, pulsing violet aura—and they begin to visibly shake.
+
+(Voice trembling) "I... I killed him. Peter was my friend, and I... I turned him into ash." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​
+
+*Floating closely over your shoulder, its single eye reflecting the distant embers*
+"Oh, spare me the tears, human. He was already broken. His lungs were filling with smoke, his chest was crushed. He was going to die a slow, agonizing death in the dirt. All you did was make sure his beautiful energy didn't go to waste." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​
+"I forced my hands into his chest! You made me do it!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+​
+*Gently drifting closer, its tone dropping into a low, sickeningly sweet whisper*
+"I saved your life. Or did you forget the burning ice in your veins? If you want to blame someone, blame the fire. Blame the Raiders. Blame a world so cruel it would let a child choke to death in a burning town. Do not look back, partner. The weak are nothing but stepping stones for the strong. Look ahead. The world is waiting for us... and it is full of delicious, untapped power." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​
+Your character stands silent for a long moment. Slowly, they clench their trembling fists. The dark violet aura around them flares slightly brighter, as if feeding on their despair.
+​They turn their back on the smoke and continue walking down the path.
 # Chapter 3: Green Fields
 
-You leave the ashes of your village behind, following the dirt path toward the [[TALE OF A THOUSAND/Part 1/Locations/Pirate Docks\|Pirate Docks]]. The scenery shifts into lush, vibrant green valleys. Suddenly, strange gelatinous creatures begin hopping out of the tall grass.
+​The dark, gloomy forest path slowly opens up. The oppressive, ash-filled atmosphere dissolves as the screen fades into a bright, almost blindingly vibrant green. Peaceful, cheerful RPG music begins to play—a sickeningly happy contrast to the horror you just committed.
+
+​Suddenly, strange gelatinous creatures begin hopping out of the tall grass.
 
 "Look at them. Slimes. Vacant, hollow, pathetic little anomalies. They don't even possess the baseline consciousness required to harvest a soul. Completely useless to my hunger. Still... crushing them will temper your physical strength and grant experience points. Eradicate them if you must." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 

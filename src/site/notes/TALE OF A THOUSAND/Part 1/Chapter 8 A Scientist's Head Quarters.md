@@ -119,11 +119,11 @@ You walk back out to the plaza. Salariem's shop is wide open, decorated with col
 "What do you know about the theme park on the way to Wignus Tower?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 *Instantly stops playing, gasping dramatically, and begins talking at a blistering, hyper-fast speed, gesticulating wildly with his hands*
-"Oh! You mean **Super Fun Land**! Where the fun *never* ends! Or, well, where the fun *used* to never end! It's run by my dear, wonderful, absolutely cuckoo-in-the-brain old friend, **Septer**!  -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+"Oh! You mean **[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]**! Where the fun *never* ends! Or, well, where the fun *used* to never end! It's run by my dear, wonderful, absolutely cuckoo-in-the-brain old friend, **Septer**!  
 
 Though, sad story, really—nobody has set foot in that park for years. Septer went completely off his rocker! He filled the entire place with automated, killer steam-robots, and he's running the whole park using a glowing Chaos Beacon as a battery! 
 
-You're going there to take it, aren't you? Oh, I knew it! If you fight him, do me a favor and try not to break his Sceptre—I absolutely *adore* his Sceptre. Might even buy it off you if you bring it back!"
+You're going there to take it, aren't you? Oh, I knew it! If you fight him, do me a favor and try not to break his Sceptre—I absolutely *adore* his Sceptre. Might even buy it off you if you bring it back!" -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
 
 ## 🛣️ The Road to Super Fun Land
 
@@ -134,7 +134,7 @@ You leave the safety of the HQ, following the map coordinates. The sky grows dim
     *   *The Combat:* You easily dispatch the four bandits, harvesting their strength.
 *   **🏔️ The Trial Cave:** Nearby, you spot a glowing cave entrance—another one of **Lyze's Trials**. It is guarded by high-level monsters. Beating the trial doesn't yield souls (as they are artificial constructs), but completing it rewards you with valuable upgrade materials.
 
-Wiping the dirt from your blade, you stand before the rusted, towering iron gates of *Super Fun Land*. The creepy, distorted sound of carnival music echoes from within...
+Wiping the dirt from your blade, you stand before the rusted, towering iron gates of *[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]*. The creepy, distorted sound of carnival music echoes from within...
 
 - # Soul Count: 33 
 - # PageStone Count: 4
