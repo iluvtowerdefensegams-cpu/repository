@@ -14,12 +14,12 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 3 Green Fields\|Chapter 3 Green Fields]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 4 Pirate Docks\|Chapter 4 Pirate Docks]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 5 Dark Forest\|Chapter 5 Dark Forest]]
----
-# Pending:
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 6 The Curse Dimension\|Chapter 6 The Curse Dimension]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 7 Mike Returns\|Chapter 7 Mike Returns]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 8 A Scientist's Head Quarters\|Chapter 8 A Scientist's Head Quarters]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 9 The Fun Begins\|Chapter 9 The Fun Begins]]
+- ---
+# Pending:
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 10 The Sword Locked In A Tower\|Chapter 10 The Sword Locked In A Tower]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
 
