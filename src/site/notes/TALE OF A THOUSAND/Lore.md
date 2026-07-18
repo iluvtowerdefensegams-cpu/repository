@@ -3,7 +3,7 @@
 ---
 
 # Lore
-# [[TALE OF A THOUSAND/Ideas\|Ideas]]
+# [[TALE OF A THOUSAND/Dev Stuff/Ideas\|Ideas]]
 # [[TALE OF A THOUSAND/Characters/Characters\|Characters]]
 
 # Lore Part 1:

@@ -24,7 +24,9 @@
 - ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 - ## [[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
-- ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadowspeaker\|Sebastian The Shadowspeaker]]
+- ## [[TALE OF A THOUSAND/Characters/Samuel The Storymaster\|Samuel The Storymaster]]
+- ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
+- ## [[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 
