@@ -22,4 +22,6 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 12 Silhouette Of A Soul\|Chapter 12 Silhouette Of A Soul]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 13 From The Beginning\|Chapter 13 From The Beginning]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 14 The Steep Ascent\|Chapter 14 The Steep Ascent]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 15  Back Into The Forest\|Chapter 15  Back Into The Forest]]
 

@@ -27,6 +27,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Samuel The Storymaster\|Samuel The Storymaster]]
 - ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
 - ## [[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+- ## [[TALE OF A THOUSAND/Characters/Jack The Two-Axed\|Jack The Two-Axed]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 
