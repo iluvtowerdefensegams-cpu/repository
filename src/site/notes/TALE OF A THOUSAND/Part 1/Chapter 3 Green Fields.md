@@ -9,7 +9,6 @@
 
 (Voice trembling) "I... I killed him. Peter was my friend, and I... I turned him into ash." -[[TALE OF A THOUSAND/Characters/You\|You]]
 ​
-
 *Floating closely over your shoulder, its single eye reflecting the distant embers*
 "Oh, spare me the tears, human. He was already broken. His lungs were filling with smoke, his chest was crushed. He was going to die a slow, agonizing death in the dirt. All you did was make sure his beautiful energy didn't go to waste." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ​

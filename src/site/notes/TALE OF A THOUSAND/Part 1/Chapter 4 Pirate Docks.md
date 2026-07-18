@@ -133,7 +133,7 @@ Hearing Peter’s exact final words echoes like a thunderclap in your mind. Your
 -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 ## BOSS BATTLE: Mike (Pirate )
-*   **The Reality:** Mike is utilizing his full strength now. Armed with incredible stats and fast, devastating parries, **he absolutely kicks your ass.** This is a scripted, overwhelming battle to show his true potential.
+*   **The Reality:** Mike is utilizing his full strength now. Armed with incredible stats and fast, devastating parries, **he absolutely kicks your ass.** This is an overwhelming battle to show his true potential.
 
 The battle ends. Mike stands over you, panting, his blade lowered slightly but his gaze unwavering.
 

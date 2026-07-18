@@ -93,7 +93,7 @@ Peter's eyes gently close. His head slumps. He falls unconscious—drifting clos
 "I don't care! I'd rather die than hurt Peter!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "He is dying anyway. Why let such a magnificent meal go to waste? 
-# DO IT."
+# DO IT.
 "- [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 "No!" -[[TALE OF A THOUSAND/Characters/You\|You]]
