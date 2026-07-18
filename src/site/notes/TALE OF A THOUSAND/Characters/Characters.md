@@ -22,9 +22,9 @@
 - ## [[TALE OF A THOUSAND/Characters/Scratch\|Scratch]]
 - ## [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
 - ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
-
-- ## [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+- ## [[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
+- ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadowspeaker\|Sebastian The Shadowspeaker]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 

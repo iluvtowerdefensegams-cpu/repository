@@ -77,7 +77,7 @@ Just as your hand is about to pull the lever down, a golden sceptre flies throug
 *Floating down, his ringmaster suit tattered, his face twisted in manic betrayal*
 "Now, now... where's the fun in cutting the power?" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
-*(Drawing your weapon, your face completely shadowed)* "Game Over." -[[Y\|Y]]
+*(Drawing your weapon, your face completely shadowed)* "Game Over." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "Huh. So you want to play *that* game, eh? Alrighty then... **LET'S HAVE SOME FUN, SHALL WE?!**" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ## ⚔️ RIVAL BOSS BATTLE: Septer, The Mad Ringmaster
