@@ -77,8 +77,18 @@ The stage lights flare a violent, mocking purple. Hovering above you in the raft
  * **Phase 1 (The Swarm):** Poppy stays in the rafters, manipulating the battlefield. She fires iron chains downward while summoning waves of wooden puppets that perfectly imitate the lesser enemies you've faced (Shadow Goblins, Raiders, and Docks Slimes). They drop no souls—they are just empty wood designed to overwhelm you.
  * **Phase 2 (The Mid-Show Boss):** When her HP hits 50%, Poppy snarls and drops a massive, heavily armored boss puppet into the center of the arena (a wood-carved replica of a past major threat). While you deal with this heavy-hitter, Poppy rains down tracking projectile strings from above.
 With a final, shattering blow, you destroy the giant puppet and use your grappling hook to yank Poppy out of the rafters, slamming her onto the stage floor. Your Dark Sword pierces her core.
-The iron chains binding her arms and legs shatter one by one with heavy, metallic echoes. She doesn't scream or beg. She just smiles coldly, her multiple eyes fading as her form turns to splintered ash.
-"Haha... perfect. You cut my strings... But tell me, little monster... can you cut yours?" -[[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+
+The heavy iron chains binding her wrists and limbs rattle violently, but instead of snapping, they pull taut, suspending her broken form like a discarded doll. She doesn't scream or beg. She just lifts her head, her multiple glowing eyes locking dead onto yours as a cold, knowing smile spreads across her face.
+
+"I may be a puppet because these metal chains tie me to my body... But I'm a free puppet. What about you?" -[[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+
+Slowly, rigidly, she raises a wooden finger, pointing directly at the dark, pulsing runes of the curse spreading across your arm.
+
+"Do those strings let *YOU* be free? I wonder who is really pulling them... Teeheehee..." -[[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+
+(Her words have triple meaning. You are puppeteered by The Tome, Player and Writer)
+
+Her eyes suddenly go completely dark. Her wooden joints splinter, and her form dissolves into a pile of cold, white ash on the stage floor, leaving the iron chains to clatter uselessly into the dirt.
 
 A single, glowing violet soul rises from her remains. Your soul counter rolls up.
 
