@@ -139,3 +139,5 @@ Upon accepting, the dark violet light from the book surges into your arm, forcib
 "Excellent. Now pick me up. Your precious little village is burning to the ground as we speak, and I wouldn't want you to miss the buffet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 You grab the Tome and rush back toward the smoke of your village.
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 2 Fighting Back\|Chapter 2 Fighting Back]]
