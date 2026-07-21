@@ -27,5 +27,7 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 16 The Orchid Of Power\|Chapter 16 The Orchid Of Power]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 17 Scrambled Chemistry\|Chapter 17 Scrambled Chemistry]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 18 Frozen Vessel\|Chapter 18 Frozen Vessel]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 19 The Ashland Desert\|Chapter 19 The Ashland Desert]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 20 Core Integrity\|Chapter 20 Core Integrity]]
 
 

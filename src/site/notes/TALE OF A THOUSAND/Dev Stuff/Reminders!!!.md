@@ -58,5 +58,4 @@ Jack thinks you're a good guy (hey bro) until you attempt backstab.
 When they duo, Jack realises you're the guy Samuel told him about (bc Samuel actually told him about the Bearer of the Tome. But he was too dumb to recognise you)
 Mary's flowers feel your dark presence and speak to her of it.
 Pike? He knows you're sent by Salariem, feels you're a killer (the veteran himself) but is just too old to care about it.
-Btw if The Tome is your guide, and The Sword smells souls, what special attribute should The Armour have? What would make him distinct? (We said it lets you carry 50+ souls and let's the Tome grip you tighter physically. Also grants "spider sense")
 -Btw these are just reminders

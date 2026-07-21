@@ -62,3 +62,6 @@ Suddenly, your communicator buzzes back to life.
 You close the map UI, looking out over the mountain ridge with your new, heavy armor gleaming in the frost.
 # Soul Count: 50
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 19 The Ashland Desert\|Chapter 19 The Ashland Desert]]
+

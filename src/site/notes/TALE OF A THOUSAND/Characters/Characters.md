@@ -23,6 +23,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
 - ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+- ## [[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
 - ## [[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 - ## [[TALE OF A THOUSAND/Characters/Samuel The Storymaster\|Samuel The Storymaster]]
 - ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
@@ -31,6 +32,10 @@
 - ## [[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
 - ## [[TALE OF A THOUSAND/Characters/Pike The Poisoner\|Pike The Poisoner]]
 - ## [[TALE OF A THOUSAND/Characters/Yeti\|Yeti]]
+- ## [[TALE OF A THOUSAND/Equipment/Armours/The Dark Armour\|The Dark Armour]]
+- ## [[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+- ## [[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+- ## [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 
