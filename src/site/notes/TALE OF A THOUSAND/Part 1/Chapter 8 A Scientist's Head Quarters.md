@@ -135,7 +135,7 @@ You leave the safety of the HQ, following the map coordinates. The sky grows dim
     *   *The Combat:* You easily dispatch the four bandits, harvesting their strength.
 *   **🏔️ The Trial Cave:** Nearby, you spot a glowing cave entrance—another one of **Lyze's Trials**. It is guarded by high-level monsters. Beating the trial doesn't yield souls (as they are artificial constructs), but completing it rewards you with valuable upgrade materials.
 
-Wiping the dirt from your blade, you stand before the rusted, towering iron gates of *[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]*. The creepy, distorted sound of carnival music echoes from within...
+Wiping the dust from your blade, you stand before the rusted, towering iron gates of *[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]*. The creepy, distorted sound of carnival music echoes from within...
 
 - # Soul Count: 33 
 - # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 4
