@@ -89,5 +89,5 @@ You march back out through the sliding doors, stepping back into the shadows of 
 # Soul Count: 50
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 
-# [[TALE OF A THOUSAND/Part 1/Chapter 18 Froze Vessel\|Chapter 18 Froze Vessel]]
+# [[TALE OF A THOUSAND/Part 1/Chapter 18 Frozen Vessel\|Chapter 18 Frozen Vessel]]
 

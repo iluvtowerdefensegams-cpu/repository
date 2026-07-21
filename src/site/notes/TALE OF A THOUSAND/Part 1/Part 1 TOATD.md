@@ -26,6 +26,6 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 15  Back Into The Forest\|Chapter 15  Back Into The Forest]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 16 The Orchid Of Power\|Chapter 16 The Orchid Of Power]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 17 Scrambled Chemistry\|Chapter 17 Scrambled Chemistry]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapter 18 Froze Vessel\|Chapter 18 Froze Vessel]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 18 Frozen Vessel\|Chapter 18 Frozen Vessel]]
 
 
