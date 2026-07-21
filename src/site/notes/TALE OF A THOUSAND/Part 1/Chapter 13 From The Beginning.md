@@ -8,7 +8,6 @@ Sebastian’s giant silhouette form violently collapses back into the 3D theater
 
 "Hmph... not bad. You actually passed the test. I figured you'd be a lot dumber than that." -[[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
 
-
 *"What?"* -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 *"Too bad you aren't fighting a real person. Because I am actually..."* -[[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
@@ -90,7 +89,7 @@ Slowly, rigidly, she raises a wooden finger, pointing directly at the dark, puls
 
 Her eyes suddenly go completely dark. Her wooden joints splinter, and her form dissolves into a pile of cold, white ash on the stage floor, leaving the iron chains to clatter uselessly into the dirt.
 
-A single, glowing violet soul rises from her remains. Your soul counter rolls up.
+A single, glowing violet soul rises from her remains alongside a sharp, violet crystal embedded in her splintered wooden core. You reach into the ash and claim the ninth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]! Your soul counter rolls up.
 
 ## 🔮 The Second Chaos Beacon
 With Poppy defeated, the illusory theater violently dissolves into dust, revealing the true hidden chamber behind the stage.
@@ -140,6 +139,6 @@ ANCIENT VOICE:
 With **46 Souls** burning in your blade, two Chaos Beacons shattered, and your new companion floating by your side, the path ahead leads out of the subterranean darkness.
 As you head toward the light of the cavern exit, the heavy, rhythmic thud of a massive battle axe echoes from the surface.
 # Soul Count: 46
-# PageStone Count: 7
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 8
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 14 The Steep Ascent\|Chapter 14 The Steep Ascent]]

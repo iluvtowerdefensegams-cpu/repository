@@ -15,7 +15,15 @@ Samuel's health drops to 1%. He stumbles back, adjusting his glasses in pure dis
 
 The quiz UI violently shatters and glitches out. Before Samuel can finish his thought, a colossal, pitch-black shadow hand erupts directly from the pages of the Dark Tome. It clamps around Samuel like a squeaky toy, lifts him high into the air, and absolutely **YEETS** him across the horizon into the distant mountain peaks.
 
-"He was monologueing. I hate monologueing. Let's move, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"He was monologueing. I hate monologueing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​In the distance, a faint *ding!* echoes as Samuel vanishes over the mountains, leaving two glowing items fluttering down onto the dirt path.
+​You walk forward and pick them up. The first is the seventh [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]! The second is a weathered, ancient title page.
+
+### 📜 **SPECIAL ITEM RECOVERY: The Tale's Front Page**
+*It reads: "Tale Of A Thousand Deaths. By: The Writer."*
+*(The Dark Tome shudders violently at your hip, its pages rustling as its eye fixates on the parchment)*
+"Tale of a... Thousand Deaths? That name... it feels distantly, agonizingly familiar. Like a forgotten whisper in the back of my mind... BAH! It's probably nothing. Toss it in your pack and let's proceed." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 With Samuel cleared from the path, you step inside the yawning mouth of the cavern. The moment you cross the threshold, the ambient light completely vanishes. The camera seamlessly swivels from its standard 3D perspective, locking into a strict, stylistic 2D side-scroller view.
 Everything—your character, the terrain, the enemies—is rendered as a stark, pitch-black silhouette against a glowing, deep violet background. Only the glowing runes on your arm and the sharp purple eye of the Dark Sword pierce the darkness.
@@ -39,5 +47,5 @@ With a heavy strike, you shatter Sebastian's physical form. He dissolves into a 
 
 After defeating him... (Body drops a PageStone)
 # Soul Count: 45
-# PageStone Count: 7
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 8
 # [[TALE OF A THOUSAND/Part 1/Chapter 13 From The Beginning\|Chapter 13 From The Beginning]]

@@ -46,7 +46,7 @@ Wignus slams his staff into the stone floor. A massive, blinding magic circle er
 
 "The boy again?! Pest! Absolute parasite! Slaughter them both!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## ⚔️ TRUE BOSS BATTLE: The Dynamic Duo (Phase 2)
- * **The Vibe:** This is an incredibly brutal, high-difficulty encounter. **This is NOT a scripted loss**—you have to play perfectly to survive.
+ * **The Vibe:** This is an incredibly brutal, high-difficulty encounter. **This is NOT a scripted loss**—you have to play perfectly to survive. (Mike is using 99% of his power + he has an ally)
  * **The Mechanics:** You are locked in direct, aggressive melee combat against **Mike**, who fights with renewed, desperate fury. Meanwhile, **Wignus** hovers safely in the background, constantly throwing shields onto Mike, healing his damage, and firing disruptive area-of-effect spells to break your combos. You must find small openings to disrupt Wignus while parrying Mike's relentless assault.
 ## 💨 The Escape
 With a final, shattering combo, you break through their combined defense. Mike is thrown back, his weapon slipping from his grip, while Wignus drops to one knee, completely exhausted.
@@ -61,7 +61,8 @@ Before you can deliver the killing blow, Wignus throws a glass vial at the groun
 ## 🗡️ Unlocking the Dark Blade
 The storm clears slightly. With the enemies gone, you search the ruined rooftop. Hidden behind the central altar, you discover a glowing chest. Inside lies a collection of high-tier potions, rare materials, ancient spell scrolls, and the sixth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]].
 But sitting beneath the stone is a pitch-black, jagged katana—**The Dark Sword**.
-The moment your hand grips the hilt, the Dark Tome flies open. A violent surge of dark violet energy flows from the book, pouring directly down your arm and into the blade. The obsidian metal crackles, a glowing purple eye snapping open on the guard.
+
+The moment your hand grips the hilt, the Dark Tome at your hip violently snaps open. A violent surge of dark violet energy flows from the book, pouring directly down your arm and into the blade. The obsidian metal crackles, a glowing purple eye snapping open on the guard.
 
 *(A cold, echoing, fiercely loyal voice resonates in your mind)*
 "Master... you have awakened me from the long night. My edge is yours. I am under your absolute command." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
@@ -77,7 +78,7 @@ The moment your hand grips the hilt, the Dark Tome flies open. A violent surge o
 
 You step out of the tower gates, the living dark blade resting on your hip. You look out toward the horizon, the weight of the sword making your movements feel heavier, colder, and more precise.
 # Soul Count: 44
-# PageStone Count: 6
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 6
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
 

@@ -47,7 +47,7 @@ In a side workshop filled with orange gears and wires, Lyze's first apprentice i
 Hidden in the dark, trash-strewn alleyway behind Lyze's main lab, a twitchy, fast-talking merchant pops his head out of a dumpster.
 
 "HEY! YOU! YES, YOU, THE `[[Valued Customer]]`! GOT ANY OF THAT SWEET, SWEET `[5CЯ4P]`? BRING IT TO ME! I GIVE YOU THE MOST `<R4D>` DEALS OF YOUR LIFE! DO NOT TRUST THE `[[Upper Class]]` IN THE LAB! BUY FROM THE TRASH!" -[[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
-*   **The Mechanic:** Bring Scrappy unique scrap metal found on your journeys to trade for highly powerful, chaotic, and sketchy items that you can't get anywhere else. 
+*   **The Mechanic:** Bring Scrappy unique scrap metal found on your journeys to trade for highly powerful, chaotic, and sketchy items that you can't get anywhere else. (Btw he sells 1 [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]])
 
 # The Lab & The Grand Map
 
@@ -61,7 +61,7 @@ She plugs a heavy, glowing cable directly into your Watch. Holographic screens b
 
 But this is just a baseline. I need you out there gathering more real-world combat data. I also wanted to ask you about—wait. What on earth is *that*?" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
-Lyze's eyes lock onto the ancient, leather-bound book floating slightly at your hip. She reaches out to touch its weathered binding.
+Lyze's eyes lock onto the ancient, leather-bound book resting at your hip. She reaches out to touch its weathered binding.
 
 *Violently snapping its pages shut, nearly biting her fingers*
 "Hands off the merchandise, girl! I am not a museum piece!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -97,9 +97,10 @@ Your watch pings. A massive overlay of the world map displays four shining beaco
 *Its pages tremble, sensing something in the air*
 "I... I can feel it. The Dark Sword is near. It's calling to me from a high place... a place of cold stone." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
+
 "High place? That's got to be [[TALE OF A THOUSAND/Part 1/Locations/Wignus Tower\|Wignus Tower]], just past the valley." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
-"[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus]]... That miserable, wretched insect." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+"[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus]]... That miserable, wretched insect." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 "You know him?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -137,6 +138,6 @@ You leave the safety of the HQ, following the map coordinates. The sky grows dim
 Wiping the dirt from your blade, you stand before the rusted, towering iron gates of *[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]*. The creepy, distorted sound of carnival music echoes from within...
 
 - # Soul Count: 33 
-- # PageStone Count: 4
+- # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 4
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 9 The Fun Begins\|Chapter 9 The Fun Begins]]

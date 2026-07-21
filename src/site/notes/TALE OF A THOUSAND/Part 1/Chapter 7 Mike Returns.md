@@ -30,10 +30,10 @@ You halt. Your character slowly turns around to face him. [[TALE OF A THOUSAND/C
 
 *(Flapping its pages aggressively on your hip)* "Oh, this kid is such a colossal DRAG! I am sick of his whining, partner. Finish him off. Take his soul and let's move on!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*His eyes lock onto the floating, talking book. A spark of cold realization hits his face.* "Huh. So that's what's whispering in your ear... Alright then. If that's how things are going to be. If you want a fight... let's fight." [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+*His eyes lock onto the chattering, iron-bound book resting at your hip.* "Huh. So that's what's whispering in your ear... Alright then. If that's how things are going to be. If you want a fight... let's fight." [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 ## ⚔️ RIVAL BOSS BATTLE: Mike, The Unyielding Resolve
-*   **The Difficulty:** Extremely Brutal. Mike has upgraded his gear, and his parry windows are incredibly tight. He is here to actively put an end to your rampage. **He kicks your ass even harder than before.** 
+*   **The Difficulty:** Extremely Brutal. Mike has upgraded his gear, and his parry windows are incredibly tight. He is here to actively put an end to your rampage. **He kicks your ass even harder than before.** (and he's only using 90% of his power)
 
 The clash ends. Mike is forced to one knee, heavily damaged, but he still holds his blade up. He looks up—not at your character's face, but **directly at the screen**, staring right into the eyes of you, the player, for a long, quiet, chilling moment.
 
@@ -56,6 +56,6 @@ The map on your [[TALE OF A THOUSAND/Part 1/Gadgets/Watch\|Watch]] blinks, guidi
 
 
 - # Soul Count: 29
-- # PageStone Count: 4
+- # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 4
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 8 A Scientist's Head Quarters\|Chapter 8 A Scientist's Head Quarters]]

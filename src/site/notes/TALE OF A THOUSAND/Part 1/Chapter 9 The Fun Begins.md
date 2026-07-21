@@ -45,8 +45,7 @@ After winning enough points, you walk into the **Gift Shop (3)** and purchase th
  
 "Hooray! You got the ultimate Surprise Toy! Isn't this just the most **FUN** you've ever had?!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
-*(Floating up, its eye narrowed in pure disgust)*
-"This is mind-numbing. Pathetic. We came here for the Beacon, human. Stop playing with this lunatic and let's get this over with." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+*(Shaking furiously at your hip, its pages fluttering in pure disgust)* "This is mind-numbing. Pathetic. We came here for the Beacon, human. Stop playing with this lunatic and let's get this over with." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 *(Coldly, ignoring the toy)* "I want to see the Beacon now." -[[TALE OF A THOUSAND/Characters/You\|You]]
 SEPTER:
@@ -86,7 +85,8 @@ The battle ends. The machinery in the room sparks and dies. Septer falls to his 
 
 "Heh... it really was... nice having a visitor... after all these years..." -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
-Step forward, the dark violet aura around you flaring intensely. You look down at him with cold, emotionless eyes.
+You step forward. A thick, dark violet aura violently erupts around your body, casting a cold shadow over your eyes.
+
 "Well, why don't you visit **Hell**?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 Your weapon flashes in a brutal, final downward strike. The screen cuts to black for a millisecond with a crushing slash sound. Septer disintegrates into ash.
  * **Loot Acquired:** You pick up the fifth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
@@ -115,6 +115,6 @@ Your soul snaps back into your body. You open your eyes. The park around you is 
 "Our next objective is Wignus. Let us climb his tower and make him bleed." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
  * *(As your character walks out of the dead theme park, their posture is colder. The purple runes on their arm burn brighter, and they don't even look back at the ruin they left behind...)*
  * # Soul Count: 34 
- * # PageStone Count: 5
+ * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 5
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 10 The Sword Locked In A Tower\|Chapter 10 The Sword Locked In A Tower]]

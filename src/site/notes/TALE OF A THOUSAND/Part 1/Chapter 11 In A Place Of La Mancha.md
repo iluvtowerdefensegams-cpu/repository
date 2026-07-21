@@ -42,7 +42,8 @@ The terrified children scream and scatter into the woods.
 
 "Hold! To make this duel right, worthy, and just, we must combat as equals!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 
-Knox waves a glowing, gauntleted hand. In a burst of chivalric magic, a majestic, dark obsidian stallion materializes right beside you. In your hands, your weapon morphs, extending into a heavy, dark-infused **Lance**.
+Knox waves a glowing, gauntleted hand. In a burst of chivalric magic, a majestic, dark obsidian stallion materializes right beside you. 
+In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]])
 
 "To arms, villain! **LET US JOUST!**" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 ## 🏇 THE MINIGAME: Horse-Ram-With-A-Long-Stick Simulator
@@ -67,6 +68,6 @@ You continue North on horseback, using your blade to effortlessly run down and b
 
 You halt your stallion at the dark, yawning entrance of the cave. The air turns freezing cold. You step off your mount, drawing the dark blade, and look into the abyss...
  * # Soul Count: 45
- * # PageStone Count: 6
+ * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 6
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 12 Silhouette Of A Soul\|Chapter 12 Silhouette Of A Soul]]

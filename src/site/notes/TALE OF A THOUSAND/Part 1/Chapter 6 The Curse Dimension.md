@@ -44,14 +44,13 @@ With a final, devastating blow, you strike the Witch. Her eyes widen as she begi
 
 "This... this isn't how the story... ends..." -[[TALE OF A THOUSAND/Characters/Witch\|Witch]]
 
-The Witch turns completely to dust. The glowing violet [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] she held clatters onto the wooden floor. You pick it up, and the moment it touches your hand, [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] on your hip hungrily flies open. The stone is pulled right into the blank binding, snapping into place as a brand-new, glowing page materializes.
-
+The Witch turns completely to dust. The glowing violet [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] she held clatters onto the wooden floor. You pick it up. The moment your fingers touch the fragment, the heavy iron clasp on [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] at your hip violently snaps open. The stone is pulled straight into the binding by a surge of purple magic, snapping into place as a brand-new page materializes.
 ## 🌀 REWARD UNLOCKED: Summoning Magic
 *   **PageStone Integrated:** By retrieving the third [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]], you unlock the ability to summon spectral allies (like the shadow monsters you fought) to fight by your side in combat.
 
 "Ah... yes! Feel the power returning to these pages, partner! With this page restored, we can now bend the spirits of this forest to our absolute will. Let us leave this wretched shack. The scent of blood is calling." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 - # Soul Count: 29
-- # PageStone Count: 3
+- # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 3
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 7 Mike Returns\|Chapter 7 Mike Returns]]

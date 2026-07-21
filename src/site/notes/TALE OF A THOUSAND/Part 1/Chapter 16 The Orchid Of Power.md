@@ -15,15 +15,17 @@ The "brutally harder" nature of the game spikes completely here. Your standard s
  * **The Combat:** Mary plays complex, aggressive violin solos that send rows of sharp, toxic floral notes flying down your screen. Since you are playing on the post-Judgement difficulty, the perfect-input hitboxes are incredibly narrow, and **there is no dodge invulnerability**. You must hit the keys with absolute precision to counter her melodies.
  * **The Punishment:** Missing a sequence doesn't just lower your score; it causes the toxic herbs around your feet to detonate, inflicting a stacking magic wound that chunks your HP. You have to chain perfect "Symphony Combos" together to build a magic bar and blast her barrier apart.
 With a final, frantic crescendo, you execute a perfect sequence, hitting a massive chord that sends a surge of distortion through Mary's crystalline violin. The instrument shatters in her hands, and the surrounding thorned barriers violently wither into ash.
+
 Mary falls to her knees, clutching her chest as her life force fades into the forest soil.
 
-"The melody... it's gone... The silence... is deafening..." -[[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
+​"The melody... it's gone... The silence... is deafening..." -[[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
 
-A glowing purple soul rises from her remains, bringing you one step closer to the barrier limit.
+​A glowing purple soul rises from her remains. As she dissolves into ash, a single, glowing crimson tear drips from the Orchid of Power, calcifying into a sharp, resonant crystal upon the altar stone. You reach out and claim the tenth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
 ### 🎒 Plucking the Orchid
 With Mary defeated, the path to the altar is completely clear. You approach the glowing pedestal and pluck the volatile **Orchid Of Power**. The moment the stem snaps, the deep crimson petals flare with a strange, highly concentrated chemical energy, filling your inventory with a strong, aromatic scent.
 
-*The eye on your blade narrows, inspecting the flower.*
+*(The glowing purple eye on the Dark Sword's guard shifts toward the altar, its blade humming softly while the Tome snaps open at your hip)*
+
 "A fascinating specimen, partner. It drips with potential. Let's head back to the merchant before the perfume fades." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 You retrace your steps through the shadowed canopies of the forest, the crimson herb tucked safely away. You push open the heavy pneumatic doors of Lyze HQ, the hum of machinery greeting you once more. You walk right up to the inventory counter, standing directly in front of Salariem.
@@ -43,6 +45,6 @@ Salariem reaches under the counter and tosses a heavy, industrial **Gas Mask** a
 You strap the gas mask to your belt. The dark runes on your arm flare with a cold impatience, but the path to the mountain remains locked behind this errand. You turn back toward the heavy exit doors, setting your coordinates for the deep, foggy swamplands.
 
 # Should Count: 49
-# PageStone Count: 7
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 17 Scrambled Chemistry\|Chapter 17 Scrambled Chemistry]]

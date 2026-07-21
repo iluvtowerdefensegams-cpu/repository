@@ -47,6 +47,21 @@ Dozens of volatile flasks shatter over him, his body instantly dissolving into a
 "Salariem... you... brilliant... bastard..." -[[TALE OF A THOUSAND/Characters/Pike The Poisoner\|Pike The Poisoner]]
 
 From the chemical ash, a glowing green perk token floats into your inventory: **[POISON BREWING UNLOCKED]**. Alongside it, you snatch the finalized violet potion from the counter.
+A glowing purple soul rises from the ash, surging directly into your blade. **Soul Count: 50!**
+Suddenly, a violent, agonizing pain shoots through your chest. Your character drops to one knee, coughing harshly as dark, jagged cracks erupt across the skin of your arms and neck!
+
+*(The Dark Tome shudders violently at your hip, its pages slamming open and shut in frantic, genuine panic)*
+"PARTNER! STOP! LISTEN TO ME RIGHT NOW!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*"What... is this...?"* -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"Your body is cracking, you fool! Fifty souls! A mortal frame cannot contain this much concentrated energy without shattering to dust! Your mind and body will be pulverized in minutes if we keep pushing forward like this!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*(The glowing purple eye on the Dark Sword's guard flares with a sharp, pulsing light, pointing its tip directly toward the frozen peaks above)*
+"Master... I sense it... High above... encased in ancient, unyielding ice... **The Dark Armour**! We must reach it before your vessel gives out!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+
+You force yourself back to your feet, gritting your teeth as the dark runes pulse under your skin, holding your cracking form together just long enough to move.
+
 The iron shutters automatically screech upward. With the toxic room clearing, you step out into the forest air, holding the exact leverage Salariem wanted—and fully aware that the shopkeeper just tried to use you as a weapon.
 
 You step back through the heavy pneumatic doors of Lyze HQ, the hum of servers feeling a lot colder this time. You don't even look at the other stations. You walk straight up to the inventory counter, your heavy boots thudding against the metal floor.
@@ -72,7 +87,7 @@ Leaving Salariem sighing with immense relief behind his counter, you turn on you
 You march back out through the sliding doors, stepping back into the shadows of the forest shortcut, and begin your trek straight back up toward the steep, freezing borders of the mountain peak.
 
 # Soul Count: 50
-# PageStone Count: 7
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 
-# [[TALE OF A THOUSAND/Part 1/Chapter 18 Climbing Mountains\|Chapter 18 Climbing Mountains]]
+# [[TALE OF A THOUSAND/Part 1/Chapter 18 Froze Vessel\|Chapter 18 Froze Vessel]]
 

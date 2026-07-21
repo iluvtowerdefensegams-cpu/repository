@@ -30,6 +30,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Jack The Two-Axed\|Jack The Two-Axed]]
 - ## [[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
 - ## [[TALE OF A THOUSAND/Characters/Pike The Poisoner\|Pike The Poisoner]]
+- ## [[TALE OF A THOUSAND/Characters/Yeti\|Yeti]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 
