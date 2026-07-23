@@ -36,6 +36,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
 - ## [[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
 - ## [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
+- ## [[TALE OF A THOUSAND/Characters/Tengaro, Master of Swordplay\|Tengaro, Master of Swordplay]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 

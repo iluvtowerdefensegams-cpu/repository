@@ -92,3 +92,5 @@ From the shattered husk of Haz-Guard, a glowing purple soul floats upward, drawn
 "One step closer." -[[TALE OF A THOUSAND/Characters/You\|You]]
 # Soul Count: 53
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 21 Cyber City\|Chapter 21 Cyber City]]
