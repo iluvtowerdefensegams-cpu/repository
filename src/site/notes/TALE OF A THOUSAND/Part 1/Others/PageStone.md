@@ -16,3 +16,6 @@ Stones that formed from the original pages of [[TALE OF A THOUSAND/Characters/Th
 10. Orchid Of Power's Tear 
 11. Lazarus Shade's Drops 
 12. Nuclear Factory Boss Drops
+13. CEO Desk
+14. Scrappy's Shop
+15. Necromancer Drops

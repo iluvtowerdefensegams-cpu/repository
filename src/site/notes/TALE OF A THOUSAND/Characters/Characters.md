@@ -37,6 +37,14 @@
 - ## [[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
 - ## [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
 - ## [[TALE OF A THOUSAND/Characters/Tengaro, Master of Swordplay\|Tengaro, Master of Swordplay]]
+- ## [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+- ## [[TALE OF A THOUSAND/Characters/CW, The Construction Worker\|CW, The Construction Worker]]
+- ## [[TALE OF A THOUSAND/Characters/Ignis, The Pyrotechnic Specialist\|Ignis, The Pyrotechnic Specialist]]
+- ## [[TALE OF A THOUSAND/Characters/CEO Sterling\|CEO Sterling]]
+- ## [[TALE OF A THOUSAND/Characters/Apex, The Executive Guard\|Apex, The Executive Guard]]
+- ## [[TALE OF A THOUSAND/Characters/Wind Boy\|Wind Boy]]
+- ## [[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
+- ## [[TALE OF A THOUSAND/Characters/Vanth, The Nightmare Necromancer\|Vanth, The Nightmare Necromancer]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 

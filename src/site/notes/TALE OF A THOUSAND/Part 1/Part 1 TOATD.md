@@ -30,5 +30,8 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 19 The Ashland Desert\|Chapter 19 The Ashland Desert]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 20 Core Integrity\|Chapter 20 Core Integrity]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 21 Cyber City\|Chapter 21 Cyber City]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 22 The Long Walk\|Chapter 22 The Long Walk]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 23 The Sweep\|Chapter 23 The Sweep]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 24 The Last Chapter Of The Tale\|Chapter 24 The Last Chapter Of The Tale]]
 
 

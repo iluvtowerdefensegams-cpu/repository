@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/dev-stuff/reminders/","dg-note-properties":{}}
 ---
 
+# Tyne quest!!! (Btw you don't kill him)
 Btw reminders
 -No wimpy 
 -No physical blood (there can be blood lines like pay with your blood as long as they're not too gorey)
