@@ -42,7 +42,7 @@ You swing your blade down with full force—but right before it connects, a flas
 
 "You almost killed it! It was just sleeping!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
-"That was exactly my intention..." -[[TALE OF A THOUSAND/Characters/You\|You]]
+"It's a monster. It's in the way... and I need to get stronger." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "Aww, but how could you want to hurt such an adorable, cute little thing?" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
@@ -57,11 +57,13 @@ The boy sheathes his sword and immediately wraps the giant, squishy slime into a
 
 "Because I need to know what to call my new best friend, obviously!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
+​(Your character flinches slightly at the word "best friend," taking a small step back. A quick visual flicker of Peter's ash appears over Mike for half a second before vanishing.)
+
 The sheer, unbothered optimism of his answer catches you completely off guard. You hesitate.
 
-"Uhh... `<username>`." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"I'm not your friend. I don't... do friends." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Hi, `<username>`! I'm Mike!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+​"Hi not-my-friend, I'm Mike!"-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 "I don't care." -[[TALE OF A THOUSAND/Characters/You\|You]]
 

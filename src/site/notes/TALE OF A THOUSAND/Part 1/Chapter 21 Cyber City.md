@@ -48,10 +48,12 @@ With a precise counter-slash, you disarm Tengaro, sending his rapier clattering 
 "Heh... perhaps I needed more spice..." -[[TALE OF A THOUSAND/Characters/Tengaro, Master of Swordplay\|Tengaro, Master of Swordplay]]
 ### 💔 The Betrayal
 Tengaro falls to one knee. Lying on a velvet pedestal right behind him is **The Dark Tome**.
-You walk over and pick up the leather-bound book. The second your fingers make contact with the cover, a violent, surging wave of dark violet energy erupts through your veins. The whispers violently return, instantly flooding your mind with cold, unyielding malice.
+The moment your gauntlet grips the Tome's cover, the violet flame surges back into your eyes. You look down at the kneeling Tengaro. The temporary softness in your heart vanishes, replaced by a cold, practical realization: he is worth a soul
 
-*(The Dark Tome snaps open, its voice dripping with cruel demand)*
-"Do not dare hesitate, human! Strike him down! Feed his soul to me!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"A promise to a thief is worth nothing," you whisper, raising the Dark Sword high above his neck. -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​(The Dark Tome cackles in dark delight)
+"Yes! Yield to the hunger!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 Your face goes dark. Raised high, your Dark Sword begins to descend straight toward Tengaro's neck—completely breaking the promise you just made!
 **CRACK!**
@@ -180,7 +182,7 @@ CEO Sterling drops his champagne glass, backed up against the outer window, weep
 "Wait! Please! I have billions! Offshore accounts! Pure gold! Anything you want—!" -[[TALE OF A THOUSAND/Characters/CEO Sterling\|CEO Sterling]]
 
 *(Coldly, stepping over Apex's body)*
-"I want the Beacon." -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I want your soul. And the Beacon." -[[TALE OF A THOUSAND/Characters/You\|You]]
 You drive your sword through his chest without hesitation. His purple soul surges directly into your hilt.
  * **Loot Acquired:** You pick up the thirteenth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]], which was on his desk
 ### 🌐 INSIDE THE 4TH MINOR BEACON: The Digital Matrix
@@ -276,10 +278,10 @@ Alice steps up onto a high highway billboard above, racking the bolt of her mass
 
 Wignus leans back against a steel pillar, twirling his glowing wooden staff with a lazy, amused smirk. He glances past you, locking eyes directly with the book on your hip.
 
-"Well, well. Look who grew a pair of dark wings," Wignus chuckles softly, leaning casually on his staff. "Still carrying that ancient trash on your hip, huh? Though last time we fought, it was driving the bus. Now you're the one holding the reins? Man... you really lost your grip, old book." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+"Well, look who grew dark wings," Wignus chuckles, leaning lazily on his staff. "And look at that... the ancient, scary book isn't driving the bus anymore. Look at you, Tome—you're just a battery in his holster now. How embarrassing." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 
-*(The Dark Tome snarls furiously)*
-"Silence, spell-caster! Human, slaughter them all!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​The Dark Tome vibrates with frustrated, helpless rage, unable to deny it
+"SILENCE! Human, rip his tongue out!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### ⚔️ BOSS BATTLE: The Holy Trinity
 *(3-v-1 Tactical Showdown)*
 ### 👥 THE ENEMY ROLES:

@@ -9,6 +9,8 @@ You reach the long stone bridge where Mike warned you. The bridge is empty now, 
 Your pocket gadget blinks with a static-filled transmission from Lyze.
 
 *"Test subject! I see you got the gear from Salariem! Perfect timing! To reach the highest peak fast enough, I'm overriding your gadget and unlocking the experimental **Jetpack**! But watch out—the altitude causes extreme air density pockets!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+The dark cracks on your chest pulse with blinding agony as her voice buzzes in your ear. You don't waste breath arguing with her over the nickname—your focus is entirely on keeping your body from exploding before you reach the peak.
  * **The Mechanics:** A high-speed vertical flight mini-game (resembling Mettaton's Jetpack ascent). You blast upward through the blizzard, using thrusters to maneuver left and right.
  * **The Hazards:** You must dodge falling ice spikes, frozen debris, and sudden wind gusts while collecting glowing **Heat Canisters** scattered in the air. Missing canisters causes your jetpack engines to freeze, dropping you backward, while grabbing them keeps your momentum bursting upward.
 With a final boost of thrusters, you blast through the storm clouds, landing hard on the icy metallic platform of the summit.
@@ -20,8 +22,9 @@ The tower hums to life, flashing a brilliant electric blue. A sweeping pulse of 
 
 *(She pauses, her voice dropping into a colder, analytical tone as she reads your vitals through the satellite)*
 
-*"...Wait. Your internal energy readings are spiking past critical levels. What is happening to your cellular structure? You need to—"*
-You abruptly shut off the communicator. There’s no time.
+"...Wait. Your internal energy readings are spiking past critical levels. What is happening to your cellular structure? You need to—" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+(Without a word, you press your thumb against the pocket gadget, killing the feed mid-sentence. You drop the gadget back into your pouch as the dark runes bleed through your sleeve.
 ### ❄️ THE CAVERN OF ICE: The Race for Survival
 As you turn to begin your descent, your body violently contorts. Dark, jagged cracks glow through your thermal suit as the raw weight of 50 souls threatens to pulverize your physical frame. You collapse to your knees, gasping for breath.
 
@@ -55,11 +58,25 @@ With a sharp metallic shatter effect, the red 3-minute timer on your screen crac
 
 *(The Tome lets out a long, satisfied sigh)* "Ah... absolute stability. Look at you, partner. You look like a walking calamity." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
+You flex your dark, steel-clad gauntlets, feeling the immense weight of 50 souls locked under the heavy obsidian plates, your voice echoing with a low, metallic resonance
+
+"Good. Then let them try to stop a calamity." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 Your steps now ring out with heavy, metallic thuds.
 Suddenly, your communicator buzzes back to life.
 
-*"Test subject? Are you there? The TP network is fully calibrated now! You can use the map to Teleport straight back to the Green Fields hub anytime you're ready. My long-range scanners show the next Chaos Beacon—the **Uranium Beacon**—is located far to the south, deep inside an abandoned Nuclear Facility. But to reach it, you'll have to traverse the burning wastes of the **Ashland Desert**. Gear up and move out!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
-You close the map UI, looking out over the mountain ridge with your new, heavy armor gleaming in the frost.
+​"Hey, test subject... I mean, Bipedal Anomaly! You still breathing under all that ice, or did you freeze into a popsicle?" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+You press a steel glove to the comms unit, your deep, distorted voice booming through the speaker
+
+"I gave you one warning about the names, Lyze." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​Lyze sighs loudly over the comms, completely unbothered by the scary voice, snapping right back
+"Yeah, yeah, growl at me all you want, Bozo, but I literally just built you a global satellite grid and unlocked instant Teleportation across the map out of the goodness of my heart. You're welcome, by the way! Anyway... long-range scanners show the next Chaos Beacon—the Uranium Beacon—is located far to the south, deep inside an abandoned Nuclear Facility. But to get there, you'll have to cross the burning wastes of the Ashland Desert. Try not to melt the cool new suit. Gear up and move out!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+​(The feed cuts out with a playful click)
+
+​You close the map UI, looking out over the mountain ridge with your new, heavy armor gleaming in the frost.
 # Soul Count: 50
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 

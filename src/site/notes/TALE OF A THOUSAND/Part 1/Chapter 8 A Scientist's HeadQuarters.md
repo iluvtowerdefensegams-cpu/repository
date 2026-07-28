@@ -130,10 +130,12 @@ You're going there to take it, aren't you? Oh, I knew it! If you fight him, do m
 
 You leave the safety of the HQ, following the map coordinates. The sky grows dim as you trek down the mountain path.
 
-*   **⚔️ The Bandit Encounter:** Along the rocky road, you run into a group of four hostile bandits. They are coughing and searching the cliffs, muttering about finding a "poisoner's hideout" to settle a deadly score. 
-    *   Due to a thick, green toxic fog blocking the way to the hideout, they cannot proceed. Frustrated and desperate, they spot you and draw their weapons.
-    *   *The Combat:* You easily dispatch the four bandits, harvesting their strength.
-*   **🏔️ The Trial Cave:** Nearby, you spot a glowing cave entrance—another one of **Lyze's Trials**. It is guarded by high-level monsters. Beating the trial doesn't yield souls (as they are artificial constructs), but completing it rewards you with valuable upgrade materials.
+## ⚔️ The Bandit Encounter: 
+- Along the rocky road, four coughing bandits block the misty path, muttering about a "poisoner's hideout." Trapped by toxic fog, they turn, spot you, and draw their rusty weapons in desperation.
+- ​You don't offer words or mercy. In three fluid, cold strikes, you cut them down. Their souls rise in pale wisps, vanishing into the Tome's open pages.
+- "Weak. Barely worth the energy to harvest," -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] mutters, snapping shut.
+## **🏔️ The Trial Cave:** 
+- Nearby, you spot a glowing cave entrance—another one of **Lyze's Trials**. It is guarded by high-level monsters. Beating the trial doesn't yield souls (as they are artificial constructs), but completing it rewards you with valuable upgrade materials.
 
 Wiping the dust from your blade, you stand before the rusted, towering iron gates of *[[TALE OF A THOUSAND/Part 1/Locations/Super Fun Land\|Super Fun Land]]*. The creepy, distorted sound of carnival music echoes from within...
 

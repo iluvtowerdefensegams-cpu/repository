@@ -5,7 +5,13 @@
 # Chapter 11: In a Place of La Mancha
 Your Watch buzzes with a holographic incoming call from Lyze as you trek through the rocky northern badlands.
 
-"Hey, test subject! Checking your vitals—looks like you're still breathing. I assume you managed to siphon that first Chaos Beacon? Good. I'm tracking another massive energy signature directly North of your position. It looks like it’s buried inside a deep cavern system. Be careful out there. Lyze out!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+​"Hey, test subject! Checking your vitals—looks like you're still breathing. I assume you managed to siphon that Chaos Beacon?" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+​(Glares cold as ice at the projection, voice dripping with dangerous irritation)
+"Stop calling me 'test subject', Lyze. Next time you say it, I test this blade on you." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​(Scoffs loudly, rolling her eyes on the holographic display, imitating your arrogant accent)
+"Ooooh, so scary! Look, talk to me like that again and I’ll remote-brick that watch on your wrist. Good luck finding your precious energy signatures without my radar, ***bozo***. Anyway, there's a massive reading North of you in a deep cavern system. Try not to die, ***moron***. Lyze out!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]] (the words with ***this*** have like a mocking accent)
 
 The transmission cuts. You keep moving forward, the weight of your new arsenal pulsing at your hip.
 
@@ -14,21 +20,26 @@ The transmission cuts. You keep moving forward, the weight of your new arsenal p
 
 "Calm yourself, blade. Let the partner handle the reaping." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-Through the brush ahead, you spot three small peasant children playing in a clearing.
+​Through the brush ahead, you spot three small peasant children playing in a clearing.
 
-"Ah. Look at that. Fragile, defenseless, free souls. Splendid." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"Ah... look at that. Untainted, fragile souls. No armor, no spells, zero threat level. In terms of efficiency, partner... children are the ultimate harvest." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​(Your character looks down at the Dark Sword, then back at the kids without a shred of hesitation)
+"Easy souls. Less effort than fighting mages." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"Master... let us reap the little ones..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
 
 You draw the Dark Sword, stepping out of the shadows to strike—
 # 💥 CRASH!
 Out of nowhere, a heavily armored figure on a white stallion barrels through the trees, ramming into you with immense force and sending your character skidding backward across the dirt!
  * *(⚡ **Quick-Time Event:** If the player hits the dodge button in time, they execute a flawless side-flip, letting the horse charge past.)*
-*Rearing his horse, pointing a massive wooden lance directly at your chest*
-"HALT, foul villain! Unhand those innocent youths!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
+*Rearing his horse, pointing a massive wooden lance directly at your chest* "HALT, foul villain! Unhand those innocent youths!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 
-The terrified children scream and scatter into the woods.
+​The terrified children scream and scatter into the woods.
 
-*Slowly dusting off your clothes, looking at him with absolute, unbothered contempt*
-"Looks like someone forgot to take their medicine today." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​(Slowly getting up, staring at the fleeing children, then turning to Knox with cold irritation)
+
+"You just ruined a perfectly good harvest, old man." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "I am **Knox the Knight**, the bravest, most chivalrous protector in all of the land! I am currently on mine own *Epic Quest* to prove to mine fairest maiden, the divine Dulcinea, that I am worthy of her celestial grace!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 
@@ -44,6 +55,8 @@ The terrified children scream and scatter into the woods.
 
 Knox waves a glowing, gauntleted hand. In a burst of chivalric magic, a majestic, dark obsidian stallion materializes right beside you. 
 In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]])
+
+*Looking at the Dark Stallion, then back at Knox* "You gave your enemy a warhorse just to die 'fairly'? You really are an idiot." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "To arms, villain! **LET US JOUST!**" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 ## 🏇 THE MINIGAME: Horse-Ram-With-A-Long-Stick Simulator

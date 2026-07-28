@@ -83,13 +83,13 @@ You search the library rows. You interact with a glowing shelf near the back and
 
 "Wait, it doesn't end there. Look at this next paragraph. It says you can survive even after they light up: *'A sacrifice must be made.'* ...What does that even mean?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
-Peter looks up from the book, closing it slowly with a soft sigh. He looks at you with absolute sincerity—he doesn't know a thing about what you will eventually become.
+Peter looks up from the book, closing it slowly with a soft sigh. He looks at you with absolute sincerity—completely unaware of the nightmare awaiting both of you.
 
-"A sacrifice? Man, magic books are so dramatic. I can't imagine ever hurting someone else just to save my own skin. Could you?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+​"A sacrifice? Man, magic books are so dramatic. I can't imagine ever hurting someone else just to save my own skin. Could you?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
-"I... I don't know." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"Of course not! That's horrific, Peter. I'd rather take my chances with a real doctor than do something like that." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Well, I know *I* couldn't. Honestly? If it ever came down to it... I'd rather go out making sure you're safe. That's what friends do." -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+​"Right?! Exactly. Well, I know I couldn't either. Honestly? If it ever came down to it... I'd rather go out making sure you're safe. That's what friends do." -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 # 💥 BOOM!
 A deafening explosion rattles the entire library, shattering the stained-glass windows into thousands of sharp shards. Dust and wood debris rain down from the ceiling.
 
@@ -123,20 +123,38 @@ You look down at your arm. The curse marks are burning white-hot, practically bl
 
 "A pathetic wizard locked my true power away, leaving me bound to this pitiful soul-reaping state. But I still have enough power left to freeze that little curse of yours in place. The question is... what are you going to give me for it?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"Me? What do you want from me?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"I— *Gasp* —I'll give you anything! Just make the burning stop!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Your absolute compliance. You will feed me souls. A hundred of them should suffice to break my bindings, along with my missing pages scattered across this wretched land. Do we have a deal, or would you rather see what happens when that timer hits zero?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
-## 🗳️ The Choice: Life or Ashes
- * **Option A: Accept**
-   * *Standard/Easy:* "A wise choice. Let us begin."
-   * *Hard Mode (If Secret Flag Unlocked):* "Good choice, Partner. Or should I say... *My Special One?*"
- * **Option B: Refuse**
-   * *Easy/Normal Difficulties:* The Tome laughs as your screen shakes and the timer hits 3 seconds. *"Oh, please. You don't have the luxury of a spine right now. Try again."* (Forces the choice prompt back up).
-   * *Hard Mode:* The Tome closes itself with a heavy thud. *"Suit yourself. I'll find someone else."* (The timer hits zero. You instantly disintegrate into ash. **GAME OVER**).
-## 🔗 The Pact Signed
-Upon accepting, the dark violet light from the book surges into your arm, forcibly locking the curse in place. The countdown timer vanishes, replaced by a permanent **Soul Counter UI Element** (0 / 100).
+​"Oh, music to my pages. Here is the deal, human: absolute compliance. You will feed me souls. A hundred of them should break my bindings, along with my missing pages scattered across this wretched land. So... do we have a deal, or do you want to explode into ash?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"Excellent. Now pick me up. Your precious little village is burning to the ground as we speak, and I wouldn't want you to miss the buffet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+# 🗳️ The Choice Prompt (UI Pop-Up)
+​(The 3-second warning SFX begins blaring)
+## Option A: ACCEPT THE PACT 
+​Player SFX: Character desperately reaches out and grabs the floating Tome.
+
+​"DEAL! JUST STOP IT! PLEASE!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​Tome Response (Standard): "A wise choice, partner. Let us begin." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​Tome Response (Hard Mode / Secret Flag): "Good choice, Partner. Or should I say... My Special One?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+## Option B: REFUSE
+​Easy / Normal Mode: The Tome laughs as the screen violently violent-flashes at 1 second. 
+
+"Oh, please. You don't have the luxury of a spine right now. Try again!" (Resets Choice UI)
+
+​Hard Mode: The Tome slams shut. "Suit yourself. I'll find someone else." (Timer hits 0: Player disintegrates. GAME OVER screen triggers)
+# 🔗 The Pact Signed
+(The dark violet light from the book surges violently into your arm, freezing the glowing runes in place. The timer UI shatters with a glass-break sound effect)
+​(New UI Unlocked SFX plays)
+###  NEW HUD ELEMENT UNLOCKED: [ Soul Counter: 0 / 100 ]
+​Your character falls to his knees, hyperventilating as the physical pain fades, leaving behind a cold, sickening numbness in your chest.
+
+​"What... what did I just agree to...?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"You agreed to stay breathing, partner. Now pick me up—your precious little village is burning to the ground as we speak, and I wouldn't want you to miss the buffet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​(Player character hesitantly picks up the Tome, staring at their glowing arm in complete terror before running back toward the village)
 
 You grab the Tome and rush back toward the smoke of your village.
 

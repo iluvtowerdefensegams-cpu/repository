@@ -36,9 +36,20 @@ Because you cannot see through the thick ash, you must rely entirely on the visu
  * **Dark Armour Shuddering:** Signal to **DODGE** a unparryable heavy sand-blast.
  * **Sword Eye Glowing RED:** Signal to **STRIKE** an exposed weakness through the storm!
 Predicting his final rush through the blinding storm, your blade glows deep red. You step through his guard and drive the Dark Sword through his chest.
-Lazarus collapses onto the sand, his form dissolving into fine gray dust.
 
-​"At least... the solitude... is over..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+​Lazarus collapses onto the sand, his body faltering as the dark magic consumes him. His drawn, pale eyes look up into your helm, his voice a fading whisper.
+
+​"I can see it in your aura... you aren't just harvesting... you're hunting..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+
+​He coughs gray ash, his hand weakly reaching toward the distant horizon
+
+​"You seek a lost soul... a blood tie. If he isn't among the dead... he was taken to the Capital. Everyone missing ends up in the Capital's shadow..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+
+Lazarus dissolves into fine ash as his purple soul flies into your blade.
+
+"The Capital... as if we needed another reason to march there." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*Its pages flutter open, completely dismissive of Lazarus's fading ashes* "The Central Beacon was already our ultimate target, vessel. If your lost father happens to be rotting in the Prince's domain, then your little mortal quest conveniently aligns with mine. A win-win. But make no mistake—whether he's alive there or not, we will claim that Central Beacon. Do not let sentimentality slow us down. Take his gear and move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 ​His purple soul surges directly into your blade! From the scattered remains of his massive pack, a sharp, glowing crystal clatters onto the stone—the eleventh [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]! You also claim his sleek Dune Surfboard, along with a new spell token: [SAND SUMMONS UNLOCKED]!
 ### 🛹 MINI-GAME: Dune Surfing

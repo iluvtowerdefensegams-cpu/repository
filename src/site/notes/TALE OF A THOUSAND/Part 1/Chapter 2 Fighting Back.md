@@ -25,9 +25,8 @@ The player defeats the Raider. The enemy collapses into the dirt.
 
 "You actually survived. Not bad for a weakling. Now... stand back. It is time for dinner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-A horrific, sickening tearing sound echoes through your head as the Tome forcibly tears the Raider's soul from their chest and devours it. A sudden, intoxicating surge of raw physical strength rushes through your veins—accompanied by a dark, dangerous thrill. Your curse marks pulse once.
-
-"Feels good, doesn't it? That is the taste of power, human. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​A horrific, sickening tearing sound echoes through your head as the Tome forcibly tears the Raider's soul from their chest and devours it. A cold, nauseating surge of raw energy violently floods your veins, making your stomach churn as your curse marks pulse dark violet.
+​"Nauseous? Oh, you'll get used to it, human. Power always burns on the way down. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🛡️ Second Encounter: Loot & Parrying
 The player engages and defeats a second Raider.
 
@@ -114,15 +113,15 @@ There is no heroic music—only the roaring crackle of the flames engulfing your
 
 "Look at your hands, human. Do you feel it? The warmth? That is the flame of a pure soul. Don't let it go to waste. We have an infestation to finish cleansing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-You regain control. Your character's posture is now slouched, trembling with shock. There is no magical aura scaring people—just a horrified kid walking through a burning nightmare.
+You regain control. Your character's posture is now slouched, trembling with shock. There is no magical aura scaring people—just a horrified kid walking through a burning nightmare. (Btw walkspeed reduced by 30%, you're stumbling)
 ## 👑 The Raid Boss Encounter
-You step into the ruined town square. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a bloodstained greataxe.
+​You stumble into the ruined town square, your shoulders slouched and your body trembling from what you were just forced to do to Peter. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a bloodstained greataxe.
 
-"So, you're the brat who's been killing my scouts?! I'm going to paint these walls with your guts!" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
+​"So, you're the brat who's been killing my scouts?! I'm going to paint these walls with your guts!" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
 
-He doesn't sense dark magic. He doesn't know what you are. He just sees a kid holding a weapon standing in his way.
+​He doesn't sense dark magic. He doesn't know what you are—he just sees a traumatized kid standing in his way, eyes completely hollow, staring blankly at hands stained with Peter's ash. You don't say a single word.
 
-"An arrogant brute. Cleave him down, partner. I can taste the raw energy simmering inside him from here." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"Look at you... completely broken. Perfect. A soul served on a silver platter. Wipe that ash off your hands and end him, partner. I can taste the raw energy simmering inside him from here." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## ⚔️ BOSS BATTLE: Raid Boss
 The Arena triggers. A high-stakes encounter where you test your parrying against heavy, telegraphed axe swings and utilize your newly unlocked [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]].
 The Boss crashes to his knees, defeated, before collapsing face-first into the burning rubble. The Tome instantly reaps his soul.
@@ -132,13 +131,13 @@ You turn to leave, but a glint of parchment catches your eye. Tucked into the Ra
 
 "Take it. A hunter always maps out his next feeding ground." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-You pull the map free. The screen shifts to a hand-drawn continent map UI. Your burning village is crossed out in red. Several other locations are marked with crude icons. One coastal outpost catches your eye: **The Pirate Docks**.
+You pick up the map with trembling fingers, staring blankly at the ink. You have no home left. No family. No Peter.
 
-"The Pirate Docks..." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"...Where... where do I even go...?" -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice barely above a whisper)
 
-"A lawless hive of cutthroats, murderers, and thieves. Perfect. No one will miss them, and their souls will taste exquisite. Let us set sail, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"Somewhere nobody knows your name, kid. Look at the coastal mark: The Pirate Docks. A hive of scum and killers. Nobody will care if a few of them go missing... and every soul brings us closer to fixing that arm of yours. Move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-Your character turns their back on the flaming ruins of their childhood, embarking on a dark journey.
+​(You numbly fold the map, turn away from the burning ruins of your home, and start walking.)
  * # Soul Count: 10
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
 

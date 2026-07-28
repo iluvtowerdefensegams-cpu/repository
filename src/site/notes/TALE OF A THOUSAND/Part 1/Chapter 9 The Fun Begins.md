@@ -81,16 +81,25 @@ Just as your hand is about to pull the lever down, a golden sceptre flies throug
 "Huh. So you want to play *that* game, eh? Alrighty then... **LET'S HAVE SOME FUN, SHALL WE?!**" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ## ⚔️ RIVAL BOSS BATTLE: Septer, The Mad Ringmaster
  * **The Style:** A chaotic bullet-hell mix of *Tenna* and *Scary Larry 2*. 
-The battle ends. The machinery in the room sparks and dies. Septer falls to his knees, his colorful suit scorched and smoking. He looks up at you, his maniacal energy fading into a sad, quiet sigh.
+The battle ends. The machinery in the room sparks and dies. 
 
-"Heh... it really was... nice having a visitor... after all these years..." -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+Septer falls to his knees, his colorful suit scorched and smoking. He looks up at you, his maniacal energy fading into a sad, quiet sigh.
 
-You step forward. A thick, dark violet aura violently erupts around your body, casting a cold shadow over your eyes.
+​"Heh... it really was... nice having a visitor... after all these years..." -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
-"Well, why don't you visit **Hell**?" -[[TALE OF A THOUSAND/Characters/You\|You]]
-Your weapon flashes in a brutal, final downward strike. The screen cuts to black for a millisecond with a crushing slash sound. Septer disintegrates into ash.
+​You step forward, drawing your blade. A thick, dark violet aura violently erupts around your body, casting a cold shadow over your eyes.
+
+​"The game is over, Septer." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​SLASH.
+
+​The screen flashes black with a heavy, metallic strike. Septer disintegrates into ash, leaving his golden crown and staff smoldering in the dirt.
+
+​(The Tome's pages flutter slowly, its voice dropping into a sinister, satisfied whisper)
+"Oho... I didn't even have to push you for that one. You're learning fast, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
  * **Loot Acquired:** You pick up the fifth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
- * **Boss Drops:** You unlock Septer's Hat, Septer's Sceptre, and Septer's Suit gear!
+ * **Boss Drops:** You unlock Septer's Hat, Septer's Sceptre (cool item, tradable with [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]), and Septer's Suit gear!
 ## 🌟 Claiming the Funergy Beacon
 You walk up to the giant, humming Chaos Beacon and press **[E]**.
 *(Your soul is gently pulled from your physical body, entering a vibrant, neon-colored puzzle dimension inside the Beacon. After solving a quick, rhythm-based game trial, the crystal shatters, releasing a blinding wave of light.)*
@@ -104,7 +113,8 @@ ANCIENT VOICE:
 "This is **Scepter**. His Funergy abilities will guide you on your dark path. Now go... seek my brothers."
 
 > **👾 NEW COMPANION: Scepter**
->  * Scepter floats beside you in combat. Performing cool, high-tier combos fills his **Funergy Meter**. Once full, you can use fun abilities. When evolved, Scepter will strike enemies with his staff 
+> A floating, miniature Funergy construct born from the shattered Beacon. It mimics Septer's cheerful movements, but has no mind of its own—a hollow, obedient pet created from the energy of the man you just destroyed.
+> * Scepter floats beside you in combat. Performing cool, high-tier combos fills his **Funergy Meter**. Once full, you can use fun abilities. When evolved, Scepter will strike enemies with his staff 
 
 Your soul snaps back into your body. You open your eyes. The park around you is now dark, silent, and dead.
 

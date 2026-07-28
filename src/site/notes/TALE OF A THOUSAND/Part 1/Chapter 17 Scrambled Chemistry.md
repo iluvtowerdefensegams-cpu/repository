@@ -53,7 +53,7 @@ Suddenly, a violent, agonizing pain shoots through your chest. Your character dr
 *(The Dark Tome shudders violently at your hip, its pages slamming open and shut in frantic, genuine panic)*
 "PARTNER! STOP! LISTEN TO ME RIGHT NOW!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*"What... is this...?"* -[[TALE OF A THOUSAND/Characters/You\|You]]
+*Clenching your teeth as violet light bleeds through the cracks in your skin, forcing your fingers to wrap tighter around the hilt* "They... won't break me..." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "Your body is cracking, you fool! Fifty souls! A mortal frame cannot contain this much concentrated energy without shattering to dust! Your mind and body will be pulverized in minutes if we keep pushing forward like this!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -79,13 +79,16 @@ Salariem ducks under the counter out of sheer panic and quickly shoves a heavy, 
 
 *"No need for violence! Look, here is the Antenna Synchronization Part! Exactly as promised! And hey, since you did such a... spectacular job cleaning up the local wetland ecology, let's call it a bonus—here is the military-grade Warm Gear! Free of charge! Fits perfectly under any dark, edgy armor!"* -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
 
-You stare at him for a long, agonizing second. Then, you calmly sweep the antenna part and the thermal gear into your inventory. You don't kill him—not because you care, but because he's still useful. For now.
+​You reach across the counter, slowly sweeping the antenna part and thermal suit into your pack, leaning in close until your cold breath hits his face
 
-"A wise choice, partner. Let the rat breathe a little longer. We have a peak to scale." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Next time you write a script for me, Salariem... make sure I die in it. Because if I survive, you won't." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​Salariem swallows hard, nodding rapidly as you turn on your heel
+
+​"A wise choice, partner. Let the rat breathe a little longer. We have a peak to scale." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 Leaving Salariem sighing with immense relief behind his counter, you turn on your heel. You pull the heavy thermal suit over your clothes, feeling the biting cold of the world instantly bounce off the fabric.
 You march back out through the sliding doors, stepping back into the shadows of the forest shortcut, and begin your trek straight back up toward the steep, freezing borders of the mountain peak.
-
 # Soul Count: 50
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 

@@ -22,6 +22,9 @@ You begin moving through the narrow, high-walled 2D pathways. The grid-like map 
 *   **🔵 Beacon 1 (The Crystal Room):** You navigate a path of glowing crystals. You must strike the crystals in the correct order to lower the barricades and activate the first Beacon.
 *   **🏹 Beacon 2 (The Bow Temple):** You enter a small sub-temple structure. Inside, you open a central chest to obtain the **[[TALE OF A THOUSAND/Part 1/Gadgets/Bow\|Bow]]**. 
     *   *The Trap:* The moment you grab the Bow, a horde of shadow monsters spawns in the surrounding rooms. You can choose to fight your way out or use your agility to slip past them without a fight!
+"More obstacles. Good thing I have a target now." -[[TALE OF A THOUSAND/Characters/You\|You]] (Nocking an arrow with cold precision)
+
+"Cold. Efficient. Good. Stop wasting breath and puncture their cores." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 *   **💥 Beacon 3 (The Deep Chasm):** Using your newly acquired Bow, you shoot distant crystal targets across an impassable gap, lowering a bridge to reach and activate the final Beacon.
 
 ## 👁️ Secret Route / Hard Boss Alert
@@ -48,7 +51,13 @@ The Witch turns completely to dust. The glowing violet [[TALE OF A THOUSAND/Part
 ## 🌀 REWARD UNLOCKED: Summoning Magic
 *   **PageStone Integrated:** By retrieving the third [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]], you unlock the ability to summon spectral allies (like the shadow monsters you fought) to fight by your side in combat.
 
-"Ah... yes! Feel the power returning to these pages, partner! With this page restored, we can now bend the spirits of this forest to our absolute will. Let us leave this wretched shack. The scent of blood is calling." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Ah... yes! Feel the power returning to these pages, partner! With this page restored, we can now bend the spirits of this forest to our absolute will!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] 
+
+​(Dark violet runes flow up your arms. You raise your hand, testing the new summoning aura, watching shadow wisps dance across your fingers without a hint of fear.)
+
+​"Good. If Mike or anyone else tries to stop us... we'll have an army of our own." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"Yes... cling to my power, human. Feed that suspicion. The world wants you dead—and I am the only thing keeping your heart beating. Now move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 - # Soul Count: 29
 - # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 3

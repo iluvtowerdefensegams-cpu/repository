@@ -60,6 +60,10 @@ The golden puppet of Lampros splits open, revealing dozens of smaller wizard and
 *But the rumors say... that someone has brought Skotos back to life. A kid has found the locker where Skotos was sealed, and is now working with him to restore his power...*
 *But those are just rumors... Right?"*
 
+(Glancing down at the Dark Tome with a cold, suspicious glare)
+"A kid working for Skotos? Is this wooden play talking about us?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"Pfft! Lies and theatrical propaganda, partner! Don't listen to stage props—focus on the fight!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### ⚡ THE PLAYBACK GAUNTLET
 The moment the line drops, the theater stage violently collapses beneath your feet. You plunge into a surreal, fast-forward chronological nightmare.
 The game forces you into a high-speed **"Speedrun Gauntlet"**—a glitchy, hyper-paced replay of your entire journey so far. The background shifts at breakneck speed as you are forced to run through compressed, highly difficult versions of every major milestone you've cleared:
@@ -84,6 +88,9 @@ The heavy iron chains binding her wrists and limbs rattle violently, but instead
 Slowly, rigidly, she raises a wooden finger, pointing directly at the dark, pulsing runes of the curse spreading across your arm.
 
 "Do those strings let *YOU* be free? I wonder who is really pulling them... Teeheehee..." -[[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+
+(Your character instinctively pulls their arm back, staring down at the pulsating purple runes with a flicker of cold paranoia before hardening your grip on the Dark Sword)
+"Shut up." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 (Her words have triple meaning. You are puppeteered by The Tome, Player and Writer)
 
@@ -139,6 +146,6 @@ ANCIENT VOICE:
 With **46 Souls** burning in your blade, two Chaos Beacons shattered, and your new companion floating by your side, the path ahead leads out of the subterranean darkness.
 As you head toward the light of the cavern exit, the heavy, rhythmic thud of a massive battle axe echoes from the surface.
 # Soul Count: 46
-# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 8
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 9
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 14 The Steep Ascent\|Chapter 14 The Steep Ascent]]

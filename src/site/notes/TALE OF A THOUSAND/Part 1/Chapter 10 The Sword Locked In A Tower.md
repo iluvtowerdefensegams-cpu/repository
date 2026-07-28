@@ -29,7 +29,7 @@ You crash onto the open-air roof of the tower. The wind howls violently, throwin
 
 "You sealed my essence! You condemned me to this pathetic, soul-starved existence! It is time you pay for what you did, wizard!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*Scratching his beard, entirely unfazed*]"Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+*Scratching his beard, entirely unfazed*"Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 ## ⚔️ BOSS BATTLE: Wignus the Wizard (Phase 1)
  * **The Combat:** Wignus is highly elusive. He warps across the rooftop in flashes of blue light, casts erratic tracking spells, summons spectral weapons that hover and slash independently, and occasionally casts a quick restoration spell to mend his wounds.
 You land a crushing blow, fracturing Wignus's magical barrier. He stumbles back, clutching his side as his health bar drops into the red. He chuckles softly.
@@ -42,18 +42,21 @@ You land a crushing blow, fracturing Wignus's magical barrier. He stumbles back,
 
 Wignus slams his staff into the stone floor. A massive, blinding magic circle erupts in a burst of brilliant blue light. From the center of the seal, a terrifyingly familiar figure steps forward, drawing a glowing blade.
 
-"I'm back, `<username>`... and this time, I am not alone! I **will** stop you from destroying this world!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+"I'm back, `<username>`... and this time, I am not alone! I will stop you from destroying this world!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
-"The boy again?! Pest! Absolute parasite! Slaughter them both!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+(Drawing your weapon, your voice flat and laced with venom)
+"You just don't know when to stay down, do you, Mike?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"The boy again?! An insect! A noisy little parasite! Ignore the brat and crush the wizard first!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## ⚔️ TRUE BOSS BATTLE: The Dynamic Duo (Phase 2)
  * **The Vibe:** This is an incredibly brutal, high-difficulty encounter. **This is NOT a scripted loss**—you have to play perfectly to survive. (Mike is using 99% of his power + he has an ally)
  * **The Mechanics:** You are locked in direct, aggressive melee combat against **Mike**, who fights with renewed, desperate fury. Meanwhile, **Wignus** hovers safely in the background, constantly throwing shields onto Mike, healing his damage, and firing disruptive area-of-effect spells to break your combos. You must find small openings to disrupt Wignus while parrying Mike's relentless assault.
 ## 💨 The Escape
 With a final, shattering combo, you break through their combined defense. Mike is thrown back, his weapon slipping from his grip, while Wignus drops to one knee, completely exhausted.
 
-*Panting, looking at you in genuine surprise* "Well, I'll be. Even with that parasite pulling your strings, you aren't completely useless, kid." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+*Panting, looking at you in genuine surprise* Well, I'll be... You beat us both. You're not just some kid carrying a bad book anymore... you're becoming a monster." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 
-"Silence! You are finished!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Silence, worm! You are finished!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 "Not quite!" -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 
@@ -62,12 +65,16 @@ Before you can deliver the killing blow, Wignus throws a glass vial at the groun
 The storm clears slightly. With the enemies gone, you search the ruined rooftop. Hidden behind the central altar, you discover a glowing chest. Inside lies a collection of high-tier potions, rare materials, ancient spell scrolls, and the sixth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]].
 But sitting beneath the stone is a pitch-black, jagged katana—**The Dark Sword**.
 
-The moment your hand grips the hilt, the Dark Tome at your hip violently snaps open. A violent surge of dark violet energy flows from the book, pouring directly down your arm and into the blade. The obsidian metal crackles, a glowing purple eye snapping open on the guard.
+You lift the pitch-black, jagged katana from the chest. Violet energy violently surges from the Tome down your arm, searing dark runes into your skin. A glowing purple eye snaps open on the sword's guard, tracking your face.
 
-*(A cold, echoing, fiercely loyal voice resonates in your mind)*
-"Master... you have awakened me from the long night. My edge is yours. I am under your absolute command." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+​(A cold, echoing voice whispers directly inside your head)
+"Master... you have awakened me from the long night. Command me, and I shall reap." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
 
-"Ah... it was about time we found you. The set is almost complete." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​You don't flinch. You flex your fingers around the hilt, testing its weight with a cold, slow nod.
+
+​"Good. I have plenty of work for you." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"Ah... perfection. The blade recognizes its true wielder. The set grows once more." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 > **⚔️ WEAPON STATS: The Dark Sword**
 >  * *Base Damage:* Moderate (Does not do massive raw damage early on).
 >  * *Passive:* **Living Weapon.** The sword scales and evolves alongside your Soul Count.

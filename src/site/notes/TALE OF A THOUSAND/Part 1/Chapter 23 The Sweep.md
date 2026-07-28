@@ -41,12 +41,10 @@ He explodes into dust, releasing his soul.
 ### 🌉 THE BRIDGE: AN UNSEEN EXECUTION
 You sprint out of the village square, heading toward the wooden bridge that connects the village to the Green Fields.
 You step onto the creaking wooden planks. A sudden memory flashes in your mind: *this was the exact spot where Mike stopped you for the first time.*
-An uncontrollable surge of pure, white-hot rage boils in your chest. That self-righteous nuisance... always standing in your way... always lecturing you about justice...
-In a fit of blind fury, you hurl the Dark Sword across the river with all your strength!
-*THWACK!*
-The heavy dark blade buries itself deep into the high grass on the opposite bank.
-You march across the bridge, reach down, and yank the sword out of the dirt. Resting directly beneath the steel edge is a fresh pile of gray dust and a purple soul drifting upward into the hilt.
-You don't know who was hiding in that grass. You don't care.
+A faint memory flashes in your mind: this was where Mike stood to lecture you. You don't feel anger—just profound, irritation at the memory of his noise. Without stopping your stride, you flick your wrist and hurl the Dark Sword into the high grass on the opposite bank like trash.
+​THWACK!
+​You stroll across the planks, grab the hilt sticking out of the mud, and pull. Beneath the steel lies fresh gray dust and a rising purple soul. You don't even check who it was.
+​"Efficient," the Dark Sword purrs.
 > **[SOUL COUNT: 78 / 95]**
 > **[TIMER RESET TO 03:00]**
 ### 🏴‍☠️ THE PIRATE DOCKS & THE SEA CHASE
@@ -98,9 +96,10 @@ The roots beneath your boots shift slightly, whispering softly in a language onl
 
 "The leaves were shivering before you even crossed the beach, kid," Dennis says, his voice dry and relaxed. "The grass, the soil, the weeds... they all know what you are. The bookless reaper coming back to finish the job." -[[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
 
-You hold the Dark Sword at your side, your face unreadable behind your dark visor. "Out of my way, druid." -[[TALE OF A THOUSAND/Characters/You\|You]]
+You don't pause your march. Your dark visor reflects the dying ivy on his staff. 
+"I didn't come for a speech, Dennis. I came for a number." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Heh... 'Out of my way.' Cold," Dennis chuckles softly, shaking his head. "My cousin Mary thought her little violin tunes could tame a beast like you back then. Silly girl. She died believing music could save everything." -[[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
+"Heh... 'A number.' Cold," Dennis chuckles softly, shaking his head. "My cousin Mary thought her little violin tunes could tame a beast like you back then. Silly girl. She died believing music could save everything." -[[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
 
 He slides down from the stone altar, his dark green cloak trailing over the dirt. His eyes, hidden beneath his deep hood, flick toward your empty belt holster.
 
@@ -469,12 +468,14 @@ The Dark Tome floats down, stopping inches from your nose, its pages snapping sh
 
 "Pick me up, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### ⛓️ RE-ATTACHING THE CHAINS
-You grit your teeth, the suffocating pressure of the armor barely loosening enough for your gauntlet to move. Through the blinding pain and the razor-sharp shadow blades pressed against your throat, you slowly reach forward.
-Your fingers wrap around the worn leather spine of the grimoire.
-The moment your palm makes contact, the shadow swords dissolve into thin air. The Dark Tome snaps itself right back onto the heavy leather holster at your belt, locking its steel straps shut around your waist with a heavy, final *CLICK*.
+Your vision swims with red static as the armor crushes your ribs. You stare at the floating grimoire, your ego burning hotter than the electrical shock from Lyze's watch. You were wrong. You aren't the ruler yet—you're still the hound.
+​You force your trembling gauntlet forward, wrapping your fingers tightly around the spine of the book.
 
-*(The Tome's leather cover squeaks against your hip, its dark voice returning to a smooth, mocking whisper)*
-"That's a good boy. Did you really think you dropped the leash? You're my puppet, human. You don't leave until *I* say the show is over." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"We finish the Capital..." you rasp through cracked lips, the shadow blades inches from your throat dissolving into mist. "...then we settle who holds the leash." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"That's a good boy," the Tome purrs softly as it snaps back onto your hip.
+
+The moment your palm makes contact, the shadow swords dissolve into thin air. The Dark Tome snaps itself right back onto the heavy leather holster at your belt, locking its steel straps shut around your waist with a heavy, final *CLICK*.
 
 *(The Dark Sword's crimson eye rolls in dark amusement)*
 *"Heh... power has a price, master... and the book holds the receipts..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
@@ -487,9 +488,11 @@ Standing before you are the monolithic **Capital Gates**, pulsing with the radia
 
 You look down at the dark steel of your weapon, holding **94 souls** within its core and all **15 PageStones** floating in a ring of dark arcana behind your shoulder.
 
-"One more soul for the barrier," you say, your voice flat as you look at the colossal iron gates. "Six more for total power." -[[TALE OF A THOUSAND/Characters/You\|You]]
+*The Dark Tome hums with ancient, suffocating power at your belt* "One soul opens the gate," the Tome dictates softly. "Six more unlocks your absolute, unchecked form."
 
-"Precisely," the Tome purrs softly. "And lucky for you... the 95th soul is standing right at the threshold." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​You look at the colossal iron doors of the Capital, 94 purple souls surging within your blade and 15 PageStones in The Tome.
+
+​"Let them open it," you say coldly. "I'll find all six inside." -[[TALE OF A THOUSAND/Characters/You\|You]]
 # Soul Count: 94 / 95 Needed (Barrier) | 100 Needed (Total Power)
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 15 / 15 (COMPLETE!)
 

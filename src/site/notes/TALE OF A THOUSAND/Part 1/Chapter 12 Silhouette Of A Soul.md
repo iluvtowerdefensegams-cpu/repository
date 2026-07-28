@@ -25,6 +25,9 @@ The quiz UI violently shatters and glitches out. Before Samuel can finish his th
 *(The Dark Tome shudders violently at your hip, its pages rustling as its eye fixates on the parchment)*
 "Tale of a... Thousand Deaths? That name... it feels distantly, agonizingly familiar. Like a forgotten whisper in the back of my mind... BAH! It's probably nothing. Toss it in your pack and let's proceed." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
+(Looking at the title page, then sliding it into your pack with a cold scoff)
+"A thousand deaths? Sounds like a light body count." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 With Samuel cleared from the path, you step inside the yawning mouth of the cavern. The moment you cross the threshold, the ambient light completely vanishes. The camera seamlessly swivels from its standard 3D perspective, locking into a strict, stylistic 2D side-scroller view.
 Everything—your character, the terrain, the enemies—is rendered as a stark, pitch-black silhouette against a glowing, deep violet background. Only the glowing runes on your arm and the sharp purple eye of the Dark Sword pierce the darkness.
 
@@ -36,6 +39,9 @@ Everything—your character, the terrain, the enemies—is rendered as a stark, 
 You reach the heart of the cavern—a massive subterranean amphitheater. The camera snaps back into full 3D as a dim, eerie light filters down from a crystal ceiling grid. Standing on a central stone platform is a figure cloaked in shifting, smoky darkness.
 
 "You tread loudly, bearer of the Tome. I can hear the echoes of the souls you’ve stolen screaming from your blade. But tell me... how well can you fight your own reflection?" -[[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
+
+(Raising the Dark Sword, staring directly into the shadow clone without flinching)
+"My reflection is just another target in my way." -[[TALE OF A THOUSAND/Characters/You\|You]]
 ### ⚔️ PHASE 1: The Dark Mirror (3D Arena)
  * **The Gimmick:** Sebastian is a direct mirror match. If you swing your Dark Sword, he counters with an identical shadow blade. If you cast *Dark Blast*, he absorbs it and fires it right back. You cannot defeat him by spamming standard attacks; you have to use your newly acquired **Scepter companion** to disrupt his mimicry with unpredictable "Funergy" combos.
 With a heavy strike, you shatter Sebastian's physical form. He dissolves into a puddle of ink on the floor. Suddenly, the crystalline lights shatter.
@@ -48,4 +54,5 @@ With a heavy strike, you shatter Sebastian's physical form. He dissolves into a 
 After defeating him... (Body drops a PageStone)
 # Soul Count: 45
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 8
+
 # [[TALE OF A THOUSAND/Part 1/Chapter 13 From The Beginning\|Chapter 13 From The Beginning]]

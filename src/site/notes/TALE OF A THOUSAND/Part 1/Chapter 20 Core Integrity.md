@@ -69,6 +69,9 @@ You survive 06:00 AM on Hell Night. The chaotic security office dissolves, leavi
 ### ⚡ THE BEACON’S AWAKENING & PET UNLOCK
 The flashback shatters.
 
+(You watch the memory fade to ash, your heavy metallic armor motionless in the void)
+"He let his heart shake his hand. Softness kills." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 ANCIENT VOICE:
 **"You who have conquered this Chaos Beacon... take my power. Become stronger."**
 
@@ -83,13 +86,11 @@ ANCIENT VOICE:
 >  * **Ultimate Upgrade (Meltdown Shield):** Creates a localized hazard barrier around you that absorbs incoming damage and reflects it back as radioactive plasma bursts.
 ### 🚪 Exiting the Core
 Your soul snaps violently back into your physical body. You open your eyes in the real world, standing in the silent, ruined reactor room.
-From the shattered husk of Haz-Guard, a glowing purple soul floats upward, drawn straight into your blade!
+The glowing purple soul of the Factory Owner surges from Haz-Guard's husk, absorbing into your dark blade
 
-"Ah, your soul has returned. Good. Another power harvested for my revival." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"Ah, your soul has returned to the physical world. Marvelous. Another piece of the puzzle claimed for our ultimate power." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*(Absorbing the energy, your voice remains completely hollow)*
-
-"One step closer." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​*Your voice echoes through your dark helmet, heavy and completely hollow* "One step closer to the Capital." -[[TALE OF A THOUSAND/Characters/You\|You]]
 # Soul Count: 53
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
 

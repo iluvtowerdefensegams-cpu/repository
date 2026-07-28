@@ -6,7 +6,11 @@
 
 You step out of the suffocating, twisted canopy of the Dark Forest. The open air is a relief, but before you can take another step, a sharp electronic chime rings from your wrist. Lyze is calling your [[TALE OF A THOUSAND/Part 1/Gadgets/Watch\|Watch]].
 
-*(Over the static speaker)* "Hey, test subject! I was looking over your data, and honestly? Your navigation skills are an absolute tragedy. Your map is complete garbage. So, I went ahead and remotely patched a high-grade Map Function directly into your Watch. You're welcome!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+(Over the static speaker) "Hey, test subject! I was looking over your data—" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+​"Stop calling me that." -[[TALE OF A THOUSAND/Characters/You\|You]] (Glares at the watch screen)
+
+​"Whatever you say, partner! Point is, your navigation skills are an absolute tragedy... Your map is complete garbage. So, I went ahead and remotely patched a high-grade Map Function directly into your Watch. You're welcome!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 A sleek, blue holographic grid map expands from your watch screen.
 
@@ -33,7 +37,7 @@ You halt. Your character slowly turns around to face him. [[TALE OF A THOUSAND/C
 *His eyes lock onto the chattering, iron-bound book resting at your hip.* "Huh. So that's what's whispering in your ear... Alright then. If that's how things are going to be. If you want a fight... let's fight." [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 ## ⚔️ RIVAL BOSS BATTLE: Mike, The Unyielding Resolve
-*   **The Difficulty:** Extremely Brutal. Mike has upgraded his gear, and his parry windows are incredibly tight. He is here to actively put an end to your rampage. **He kicks your ass even harder than before.** (and he's only using 90% of his power)
+*   **The Difficulty:** Extremely Brutal. Mike has upgraded his gear, and his parry windows are incredibly tight. He is here to actively put an end to your rampage. **He kicks your ass even harder than before.** (and he's only using 90% of his power) (Not a scripted loss, you actually have to win to proceed)
 
 The clash ends. Mike is forced to one knee, heavily damaged, but he still holds his blade up. He looks up—not at your character's face, but **directly at the screen**, staring right into the eyes of you, the player, for a long, quiet, chilling moment.
 
@@ -46,11 +50,17 @@ The clash ends. Mike is forced to one knee, heavily damaged, but he still holds 
 
 ​The Tome glares down at the glowing fragment on the ground. Its anger instantly shifts into a cold, predatory hunger.
 
-"Wait... is that... a page? The idiot actually dropped one of my pages in the scuffle. Pick it up. Quickly! At least your miserable failure yielded some scrap of value today." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Wait... is that... a page? The idiot must have confiscated it during his scouting. Pick it up. Quickly!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​(You pick up the PageStone, watching the violet light absorb into the Tome. You stare down the empty road where Mike fled, your fists clenched tight.)
+
+​"He thinks he's the hero..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice dropping into a quiet, cold tone) "Next time we fight, I won't hold back." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​"That is the spirit, human! Now get us to that scientist's headquarters. You need more firepower." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] --not so cheery though. He sees you finding his path not that bad as something merely eventual. He knew it was gonna happen, but he doesn't care that much. After all, he's just using you.
 
 ​You pick up the [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] and slot it into the binding. The UI blinks, updating your map.
 ​
-"Get up. Dust yourself off. We are going to that scientist's headquarters, and you are going to get stronger. I refuse to be embarrassed by a moralizing brat ever again." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Of course you won't. You were always going to reach this conclusion eventually, human. Now move. We are going to that scientist's headquarters, and you are going to get stronger. I refuse to be slowed down by your incompetence." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 The map on your [[TALE OF A THOUSAND/Part 1/Gadgets/Watch\|Watch]] blinks, guiding you forward toward Lyze's [[TALE OF A THOUSAND/Part 1/Locations/HQ\|HQ]].
 

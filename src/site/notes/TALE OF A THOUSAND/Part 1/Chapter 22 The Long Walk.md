@@ -9,11 +9,11 @@ It is dead silent—save for the heavy, rhythmic crunch of your dark boots again
 *(The Dark Tome sways on your belt, its leather cover squeaking softly in the quiet air)*
 "You've been quiet for miles, human," the Tome speaks, its voice low and flat. "No hesitation? No moral whining like back in the sewer? You didn't even look back at your little friends when they ran off." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"I'm not looking back," you say, your eyes fixed strictly ahead. "I used to think I wanted to put the sword down. But I was weak then." -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I'm not looking back," you say flatly, your eyes fixed strictly ahead. "Morals are just friction. They slow down the blade." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Weak..." the Tome echoes with a bitter, faint chuckle.
+​"Friction..." the Tome echoes with a bitter, faint chuckle.
 
-"Now I want the power," you continue, your tone cold, calm, and completely devoid of doubt. "Not for you. Not for the beacons. For me. I can feel the souls burning inside my chest... and I don't need your permission to use them anymore. Back on that skyscraper, I took those wings myself." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"I don't care about your ancient grudge, and I don't care about saving anyone," you continue, your tone as cold and level as a flatline. "The souls make me stronger. That's the only metric that matters. And I don't need your permission to spend them. Back on that skyscraper, I took those wings myself." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 *(A sinister, raspy whisper echoes directly from the dark steel of your weapon)*
 *"Power... souls... it matters not whose hands grip the hilt, so long as the edge stays wet..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
@@ -37,10 +37,24 @@ Without warning, your **Dark Armor** snaps tight! The heavy steel plates contrac
 
 "Look at your arm, you foolish brat!" the Tome snarls. "The Curse is etched into your flesh! Without me stabilizing that dark magic, it would devour your organs in five seconds flat! You aren't casting me away. You aren't abandoning *anything*. You live because **I ALLOW IT**." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-You grit your teeth, the suffocating pressure of the armor and the burning agony of the curse forcing the words right back down your throat. You stay on one knee for a long, agonizing moment, your breath coming in ragged gasps.
-Slowly, the armor eases its grip just enough for you to breathe, though the steel remains uncomfortably tight against your chest.
+*(Suddenly, the Dark Sword thrums violently at your hip, its dark steel emitting a low, resonant growl that vibrates right through your gauntlet)*
 
-"Remember your place, human," the Tome spits coldly, snapping shut at your waist. "Now get up and keep walking." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Silence, paper." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+
+​(The Tome pauses mid-screech, dark runes flickering)
+
+​"You claim the blood... but the hand on the hilt is HIS. I am the weapon. He is the master. Know your place." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+
+The Tome's pages whip into a frenzy, dark sparks popping wildly from its binding.
+
+"Hold your tongue, hollow iron!" the Tome screeches, pure venom in its tone. "You are nothing but a conduit for MY authority! I forged you! I feed you!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*"You fed us souls..."* the Dark Sword retorts, its edge pulsing with an eerie, loyal violet light. *"But HE gives us purpose. Speak to him with respect, leech... or the next time he reaches for his belt, I will sever your leather straps myself."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+
+A tense, deadly silence hangs in the foggy air. The Tome's runes flicker erratically, caught completely off guard by the blade's unexpected defiance.
+You grit your teeth through the agonizing pressure of the armor, a cold, bitter smirk tugging at the corner of your lips as you feel the sword's weight backing you up. Slowly, the armor eases its grip just enough for you to breathe, though the steel remains uncomfortably tight against your chest.
+
+"Remember your place, human," the Tome spits coldly, snapping shut at your waist—though its voice carries a rare, hidden flicker of genuine irritation. "Now get up and keep walking." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 You say nothing. You force yourself back to your feet, dust off your knee, and resume your march down the highway in stony, bitter silence.
 ### 🏰 THE CAPITAL GATES
@@ -87,7 +101,7 @@ You don't argue. You raise your left wrist, tapping the interface on your high-t
 ### 📞 THE FINAL WARNING
 Before the teleport sequence can charge, your communicator screen flares with a bright, flashing red strobe! A frantic holographic projection of **Lyze** bursts into the air!
 
-*"Wait! Stop right now!"* Lyze screams, her eyes wide with total horror as she reads your live tracker data. *"I'm monitoring your target locks... you're locking coordinates back to the starting village?! You're going to go back and slaughter every living person left in the lower districts, aren't you?!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+*"Wait! Stop right now!"* Lyze screams, her eyes wide with total horror as she reads your live tracker data. *"I'm monitoring your target locks... you're locking coordinates back to the starting village?! You're going to go back and slaughter every living person left in the lower districts, aren'aren't you?!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 You stare blankly at her hologram, your finger hovering directly over the [ENGAGE WARP] button.
 
@@ -111,6 +125,8 @@ A violent, jagged tear in space erupts around you! Distorted purple static and b
 The heavy leather harness binding the Dark Tome to your waist violently snaps under the extreme spatial shear!
 *PLOP.*
 With a dull, heavy thud, the Dark Tome tumbles out of its holster and hits the wet asphalt, left lying helplessly in the rain right outside the Capital Gates.
+
+(Developer Spec: As the spatial shear snaps the harness, show a brief slow-motion UI notification: [ITEM UNEQUIPPED: THE DARK TOME]. The camera pans down for one second to show the book lying closed on the wet pavement in front of the locked Capital Gates before the portal yanks the MC away).
 ### 🌧️ ALONE AT THE START
 *THWACK!*
 You slam hard onto your knees, skidding across cold, wet grass under a gloomy gray sky.
@@ -120,12 +136,11 @@ You reach down to your hip to draw upon the Tome's dark magic...
 Your hand grasps empty air.
 The leather holster is completely torn open and bare.
 There are no dark whispers echoing inside your mind. No sarcastic commentary. No ancient spells feeding into your nerve endings. The Dark Tome is miles away, left behind at the walls of the Capital.
-You stand alone in the rain, looking down at your corrupted, purple-marked arm and the cold steel of the Dark Sword in your right hand.
-You don't need its guidance anymore. You don't need its permission.
+You stand alone in the rain, looking down at your corrupted, purple-marked arm. Then, you glance at the **Dark Sword** still gripped tightly in your right hand. Its blade gleams with a quiet, steady violet pulse—loyal, heavy, and ready.
+You don't need the Tome's guidance anymore. You don't need its permission.
 You turn around, taking your first step back toward the world you left behind...
-# Soul Count: 75 
-# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 13
-# Equipment: Dark Sword, Dark Armor, Dark Wings
-# Status: The Dark Tome Lost
-
+ * # Soul Count: 75
+ * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 13
+ * # Equipment: Dark Sword, Dark Armor, Dark Wings
+ * # Status: The Dark Tome Lost
 # [[TALE OF A THOUSAND/Part 1/Chapter 23 The Sweep\|Chapter 23 The Sweep]]

@@ -28,8 +28,8 @@ You execute a flawless final grapple, flying through the air and landing a crush
 "Heh... man, you really... pack a punch, don't ya? Alright, alright... you win this round!" -[[TALE OF A THOUSAND/Characters/Jack The Two-Axed\|Jack The Two-Axed]]
 
 You step forward, raising the Dark Sword with a cold, merciless glare to claim his soul. The Tome at your hip flips open, its pages fluttering in hungry anticipation.
-*The Escape:* Before your blade can descend, Jack slams his palms into the stone floor. With a colossal **BOOM**, his insane legs propel him straight into the clouds with a massive super-jump, vanishing over the mountain peak
-!
+*The Escape:* Before your blade can descend, Jack slams his palms into the stone floor. With a colossal **BOOM**, his insane legs propel him straight into the clouds with a massive super-jump, vanishing over the mountain peak!
+
 *(Its pages snapping shut in pure rage)* "COWARD! He leaped straight out of our reach! Ugh, no matter... we will harvest him later." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 (A low, disappointed hum vibrating through the obsidian hilt) "Master... the meat escaped... but the scent of blood remains on the trail..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
@@ -47,26 +47,40 @@ Mike doesn't draw a weapon. He just stands there, hands in his pockets, staring 
 
 The wind howls across the chasm, rattling the pages of the Dark Tome at your hip.
 
-*"I'm not here to fight you today. Not yet. You think you're getting stronger, but you're just becoming a monster. This is your warning. Turn back. If you take one more step down this path... I won't hold back next time. And trust me... everything you've faced so far? That was the easy part."* -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+​"I'm not here to fight you today. Not yet. You think you're getting stronger, but you're just becoming a monster. This is your warning. Turn back. If you take one more step down this path... I won't hold back next time. And trust me... everything you've faced so far? That was the easy part." -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
-Mike steps back into the freezing mist, vanishing from the bridge into thin air.
+​*Gripping the Dark Sword tighter, your voice cold and empty* "Then make sure you don't hold back next time. Because I won't." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​Mike gives a somber, disappointed nod before stepping back into the freezing mist, vanishing from the bridge into thin air.
+
 The screen flashes with a stark, ominous text overlay:
 > **[WARNING: The world has grown hostile. Enemies will attack with absolute malice. The game has become brutally harder.]**
+
+(The Dark Tome shudders, its eye narrowing as the mist clears)
+"That one... he's not like the others, partner. He sees right through us. Keep your blade sharp—when he finally steps up, it won't be a game." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### 🏔️ QUEST START: The Mountain Antenna
 You cross the bridge, the temperature plummeting instantly. Your character begins to shiver, movement speed dropping to a crawl as frost forms on the edges of the screen.
-Suddenly, a static-filled holographic projection blinks into existence from your pocket gadget. It's **Lyze**
-.
-*"Hey, test subject! Do you copy? I'm tracking your position near the northern peak. There's a massive communication antenna up there, but it's missing the final synchronization part. If you place it, I can calibrate the satellite grid and unlock full Teleportation (TP) capabilities across the map!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
-*(She pauses, squinting at her monitor displays on her end, acting entirely clueless about your dark path while secretly logging your biometric spikes)*
-*"...Huh. Why did your heart rate just spike? Anyway, looking at my thermal readings, your body temperature is dropping dangerously low. Do NOT try to scale the peak yet! You don't have cold resistance. You'll freeze to death before you reach the top!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+Suddenly, a static-filled holographic projection blinks into existence from your pocket gadget. It's **Lyze**.
 
-*"How do I get up there then?"* -[[TALE OF A THOUSAND/Characters/You\|You]]
+"Hey, test subject! Do you copy? I'm tracking your position near the northern peak. There's a massive communication antenna up there, but it's missing the final synchronization part. If you place it, I can calibrate the satellite grid and unlock full Teleportation (TP) capabilities across the map!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
-*"There's a narrow border shortcut that cuts right back down into the Dark Forest. Use it to sneak back to my HQ. Salariem has the duplicate antenna part and a protective thermal suit. Get down there, grab the gear, and get back up here before the frost sets in!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+*(You don't break stride. You look at her hologram with dead, empty eyes, resting a dark-gloved hand on the hilt of your sword)*  
+"I gave you one warning about that name, Lyze." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+*(Lyze rolls her eyes on the display, but a subtle flicker of hesitation crosses her face at your ice-cold tone before she scoffs)*  
+"Yeah, yeah, threat received, bozo. Save the edge for the monsters up there. Looking at my thermal readings, your body temperature is dropping dangerously low. Do NOT try to scale the peak yet! You don't have cold resistance. You'll freeze to death before you reach the top!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+"How do I get up there then?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"There's a narrow border shortcut that cuts right back down into the Dark Forest. Use it to sneak back to my HQ. Salariem has the duplicate antenna part and a protective thermal suit. Get down there, grab the gear, and get back up here before the frost sets in!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+*(Sheathing your dark blade and turning toward the forest shortcut)*  
+"Let's go get our gear. Nothing stops us from reaching the top." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 The hologram cuts out. With the main mountain trail blocked by the freezing cold, you turn toward the narrow, shadowed path leading down into the dense canopies of the Dark Forest hub.
-* # Soul Counts: 46
-* # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 9
 
-# [[TALE OF A THOUSAND/Part 1/Chapter 15  Back Into The Forest\|Chapter 15  Back Into The Forest]]
+# Soul Count: 46
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 9
+
+# [[TALE OF A THOUSAND/Part 1/Chapter 15 Back Into The Forest\|Chapter 15 Back Into The Forest]]

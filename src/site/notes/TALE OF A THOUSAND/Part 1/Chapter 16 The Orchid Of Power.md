@@ -20,6 +20,10 @@ Mary falls to her knees, clutching her chest as her life force fades into the fo
 
 ​"The melody... it's gone... The silence... is deafening..." -[[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
 
+You sheath your dark blade without a word, stepping over her fading ash
+
+"Silence is easier to hear through." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 ​A glowing purple soul rises from her remains. As she dissolves into ash, a single, glowing crimson tear drips from the Orchid of Power, calcifying into a sharp, resonant crystal upon the altar stone. You reach out and claim the tenth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
 ### 🎒 Plucking the Orchid
 With Mary defeated, the path to the altar is completely clear. You approach the glowing pedestal and pluck the volatile **Orchid Of Power**. The moment the stem snaps, the deep crimson petals flare with a strange, highly concentrated chemical energy, filling your inventory with a strong, aromatic scent.
@@ -32,11 +36,13 @@ You retrace your steps through the shadowed canopies of the forest, the crimson 
 ### 🤝 Part 2 of the Deal
 You place the glowing Orchid of Power onto the metallic counter. Salariem gaps at it, his usual comedic grin widening as he quickly sweeps the flower into a secure, lead-lined containment box underneath his register.
 
-*"Aha! You actually did it! Marvelous, simply marvelous! But hold your horses, dark savior, because the deal isn't quite done yet. I can't just hand over high-grade military antenna components for raw weeds! I need this turned into a highly refined, stabilized potion first."* -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+​You slowly lean over the counter, the dark runes on your arm flaring with a suffocating violet glow as you slam a dark-gloved hand inches from his face, your voice dead and quiet
 
-*"You said you just needed the herb."* -[[TALE OF A THOUSAND/Characters/You\|You]]
- 
-*"Details, details! I'm a shopkeeper, not a chemist! To get this stuff brewed safely, you need to take it to a... let's call him a professional acquaintance of mine. His name is Pike, and he sets up shop deep within the Toxic Swamps at the lowest basin of the forest. Here—you're gonna need this if you want to breathe past his front door."* -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+"We made a deal, shopkeeper. Don't waste my time." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+​Salariem flinches hard, his comedic smile faltering as he nervously sweats, holding up his hands in defense
+
+"D-Details, details! Look, I'm a merchant, not a chemist! To get this stuff brewed safely, you need to take it to a... let's call him a professional acquaintance of mine. His name is Pike, and he sets up shop deep within the Toxic Swamps at the lowest basin of the forest. Here—you're gonna need this if you want to breathe past his front door."* -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
 
 Salariem reaches under the counter and tosses a heavy, industrial **Gas Mask** at your chest.
 
@@ -44,7 +50,7 @@ Salariem reaches under the counter and tosses a heavy, industrial **Gas Mask** a
 
 You strap the gas mask to your belt. The dark runes on your arm flare with a cold impatience, but the path to the mountain remains locked behind this errand. You turn back toward the heavy exit doors, setting your coordinates for the deep, foggy swamplands.
 
-# Should Count: 49
+# Soul Count: 49
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 10
 
 # [[TALE OF A THOUSAND/Part 1/Chapter 17 Scrambled Chemistry\|Chapter 17 Scrambled Chemistry]]
