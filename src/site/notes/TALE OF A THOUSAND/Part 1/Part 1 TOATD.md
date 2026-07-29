@@ -3,11 +3,11 @@
 ---
 
 # Part 1 TOATD
-You're the bad guy. (Canon ending is Dark Ending)
 # Tale Of A Thousand Deaths
 # [[TALE OF A THOUSAND/Part 1/Locations/World Map P1\|WORLD MAP]]
 # [[TALE OF A THOUSAND/Characters/Characters\|CHARACTERS]]
 
+# Chapters
 - # [[TALE OF A THOUSAND/Part 1/Introduction\|Introduction]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 1 Raiders\|Chapter 1 Raiders]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 2 Fighting Back\|Chapter 2 Fighting Back]]
