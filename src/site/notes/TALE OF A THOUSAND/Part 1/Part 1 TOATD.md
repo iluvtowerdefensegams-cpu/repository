@@ -33,5 +33,6 @@ You're the bad guy. (Canon ending is Dark Ending)
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 22 The Long Walk\|Chapter 22 The Long Walk]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 23 The Sweep\|Chapter 23 The Sweep]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 24 The Last Chapter Of The Tale\|Chapter 24 The Last Chapter Of The Tale]]
+- ## [[TALE OF A THOUSAND/Part 1/Chapter 25 Epilogue\|Chapter 25 Epilogue]]
 
 

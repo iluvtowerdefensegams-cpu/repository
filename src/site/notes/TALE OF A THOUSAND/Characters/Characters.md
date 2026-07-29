@@ -46,7 +46,7 @@
 - ## [[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
 - ## [[TALE OF A THOUSAND/Characters/Vanth, The Nightmare Necromancer\|Vanth, The Nightmare Necromancer]]
 - ## [[TALE OF A THOUSAND/Characters/Dani the Dragonrider\|Dani the Dragonrider]]
-- ## [[The Writer\|The Writer]]
+- ## [[TALE OF A THOUSAND/Characters/The Writer\|The Writer]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 
