@@ -3,12 +3,50 @@
 ---
 
 # Mike
-### Role: 
-The True Hero / The Main Antagonist (From your dark perspective)
-### Visual Appearance: 
-He looks like a humble, average traveler/kid—perhaps wearing a simple tunic, a worn cape, and a silver bracelet hidden beneath his clothes. He's The Land's Prince.
-### Personality & Philosophy:
-Mike is the absolute embodiment of hope, kindness, and unyielding determination. He is the classic "shonen protagonist" or fairy-tale hero, but viewed through a dark, tragic lens. He doesn't seek glory, titles, or luxury; he genuinely loves the people of his region and prefers to walk among them as an equal.
-What makes Mike truly terrifying to The Dark Tome is his incorruptibility. Mike possesses a boundless empathy. Even when he discovers the horrific things you have done, he won't look at you with hatred—he will look at you with pity. He believes you are a victim of the Tome, and he will fight with everything he has to break the curse and save your soul, even if you’ve already given up on yourself and embraced the darkness.
 
-Also he kicks your ass hard
+### Overview
+* **Name:** Mike (Prince Mike)
+* **Soul:** Soul #99 *(Harvested in Chapter 24)*
+* **Role:** The True Hero / The Main Antagonist *(From your dark perspective)*
+* **Alignment:** Absolute Good / Incarnation of Hope & Light
+
+---
+
+## 🎨 Visual Appearance
+* **Attire:** Appears as a humble, unassuming traveler or average kid. Wears a simple fabric tunic, a worn traveler's cape, and sturdy walking boots.
+* **The Royal Token:** Conceals a silver royal bracelet beneath his sleeve—the subtle mark of his true lineage as **The Land's Prince**.
+* **Demeanor:** Unpretentious, approachable, and warm. He walks among commoners as an equal, refusing royal luxury or titles.
+
+---
+
+## ⚔️ Personality & Philosophy
+* **The Shonen Hero in a Dark World:** Mike is the absolute embodiment of hope, kindness, and unyielding determination—a classic fairy-tale hero viewed through a tragic, dark fantasy lens.
+* **Incorruptibility & Boundless Empathy:** What makes Mike terrifying to The Dark Tome is that he cannot be corrupted. When he discovers the horrific trail of murders you’ve left across the continent, he doesn’t view you with hatred—he looks at you with profound **pity**.
+* **Saving the Unsavable:** Mike firmly believes you are a victim enslaved by the Tome's curse. He fights with every ounce of his soul to break your chains and save you, even after you’ve given up on yourself and embraced the dark.
+
+---
+
+## 💥 Combat Capability
+* **He Kicks Your Ass Hard:** Beneath his humble tunic lies the wielder of **Lampros' Light**. In battle, Mike is a formidable juggernaut of holy radiance, landing devastating counter-attacks and pushing your dark abilities to their absolute limit.
+
+---
+
+## 📜 Narrative Arc
+* **Chapters 3–12 (The Traveler):** Tags along as a cheerful, overly gentle companion who hates seeing living things harmed.
+* **Chapters 13–21 (The Truth):** Witnesses your secret executions and steps up as a righteous force, continually confronting you across the cities.
+* **Chapter 24 (The Final Stand):** Unveils his identity as the Land's Prince in the Capital's Central Beacon. Wields Lampros' Blade in an intense boss fight where he kicks your ass hard while trying to save your soul, ultimately becoming **Soul #99**.
+
+---
+
+## 💬 Key Quotes
+
+> *"Stop!!! You almost killed it! It was just sleeping!"*  
+*(Chapter 3 — First meeting)*
+
+> *"Heh... look at you... even with ninety-eight souls burning in your steel... your hands are still shaking. I'm not mad... I just feel sorry... for whatever's left of you when that book is done..."*
+*(Chapter 24 — Kill)*
+
+> *"Heh... did you really think that after all those times you've betrayed us, I'd just let my guard down? You're gonna have to try a whole lot harder than—"
+> `*Gets shadow arm stabbed*`*
+> *"Heh... guess... I spoke too soon... Look... behind you..."*
+*(Chapter 24 — Spare)*

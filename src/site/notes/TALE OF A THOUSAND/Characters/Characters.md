@@ -3,19 +3,23 @@
 ---
 
 # Characters
+(In order of appearance)
+For Soul order, go to [[TALE OF A THOUSAND/Part 1/Others/Soul\|Soul]]
 # Part 1 Characters
 ## [[TALE OF A THOUSAND/Part 1/Part 1 TOATD\|Part 1 TOATD]]
-- ## [[TALE OF A THOUSAND/Characters/You\|You]]
-- ## [[TALE OF A THOUSAND/Characters/Dad\|Dad]]
-- ## [[TALE OF A THOUSAND/Characters/Peter\|Peter]]
-- ## [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
-- ## [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]]
-- ## [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
-- ## [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
-- ## [[TALE OF A THOUSAND/Characters/Jaw\|Jaw]]
-- ## [[TALE OF A THOUSAND/Characters/Captain\|Captain]]
-- ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
-- ## [[TALE OF A THOUSAND/Characters/Witch\|Witch]]
+- ## [[TALE OF A THOUSAND/Characters/You\|You]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Dad\|Dad]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Peter\|Peter]] ✅
+- ## [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Mike\|Mike]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Pirates\|Pirates]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Jaw\|Jaw]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Captain\|Captain]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Explorers\|Explorers]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Witch\|Witch]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
 - ## [[TALE OF A THOUSAND/Characters/Brandon The Baker\|Brandon The Baker]]
 - ## [[TALE OF A THOUSAND/Characters/Steve The BlackSmith-Smithy Steve\|Steve The BlackSmith-Smithy Steve]]

@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/characters/jaw/","dg-note-properties":{}}
 ---
 
-[[TALE OF A THOUSAND/Characters/Captain\|Captain]]'s first mate.
+# Jaw 
+## Soul #15
+ **Role**: First Mate to [[TALE OF A THOUSAND/Characters/Captain\|Captain]].
+        
+**First Phrase**: "Yes, sir?"
 
-"Yes, sir?"
-
-*Struggling to back away, terror filling his eyes*"W-what are ye doing? Your friend said—"
-
+**Last Phrase**: *Struggling to back away, terror filling his eyes*"W-what are ye doing? Your friend said—"

@@ -27,10 +27,25 @@ The player defeats the Raider. The enemy collapses into the dirt.
 
 ​A horrific, sickening tearing sound echoes through your head as the Tome forcibly tears the Raider's soul from their chest and devours it. A cold, nauseating surge of raw energy violently floods your veins, making your stomach churn as your curse marks pulse dark violet.
 ​"Nauseous? Oh, you'll get used to it, human. Power always burns on the way down. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+## 🏠 The Search Home: Mom's Letter & The Basement
+Desperate to check on your father and search for Peter, you sprint through the burning embers back to [[TALE OF A THOUSAND/Part 1/Locations/Your House\|Your House]].
+
+The front door hangs off its hinges. Inside the kitchen, your father is nowhere to be seen. On the wooden table where he sat this morning lies the letter he was reading—written in delicate cursive handwriting from your [[TALE OF A THOUSAND/Characters/Mom\|Mom]].
+
+*"My dearest... if you are reading this, the time has come to leave. The shadows are moving closer, and our child must be kept safe at the Capital before the curse awakens..."*
+
+*(Dev note: Unbeknownst to the MC, Mom was actually a servant of Lampros. Years ago, she fought and sacrificed her life to thwart The Dark Tome's previous attempt to awaken and claim a host, sealing part of its power away before dying.)*
+
+"Your old man isn't here, kid. He fled or was taken. Stop gaping at paper and grab what you came for." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+You head down the narrow stairs into the dimly lit **[[TALE OF A THOUSAND/Part 1/Locations/Basement\|Basement]]**. Beneath a heavy tarp sits an old wooden chest. You pry it open and pull out your family's steel **Sword** and a pouch of supplies.
+
+"Finally, a proper edge. Now let's see if you can actually swing it without cutting off your own feet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🛡️ Second Encounter: Loot & Parrying
 The player engages and defeats a second Raider.
 
-"Every insect you crush will drop something useful—weapons, materials, coins, and experience points. But never forget that their souls belong to *Me*. Now, pick up that raider's discarded blade. It is heavy enough to **Parry**. Time it right in combat, and you will negate damage entirely. I can unlock more weapon features for you soon... but I require three more souls. Go on. Exterminate the rest of these pests." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Every insect you crush will drop something useful—weapons, materials, coins, and experience points. But never forget that their souls belong to *Me*. Now that you fetched that steel sword from your basement, it is sturdy enough to **Parry**. Time it right in combat, and you will negate damage entirely. I can unlock more weapon features for you soon... but I require three more souls. Go on. Exterminate the rest of these pests." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🔑 3 Souls Later: Weapon Skills Unlocked
 After harvesting three more souls, the immediate area grows quiet.
 
@@ -115,7 +130,7 @@ There is no heroic music—only the roaring crackle of the flames engulfing your
 
 You regain control. Your character's posture is now slouched, trembling with shock. There is no magical aura scaring people—just a horrified kid walking through a burning nightmare. (Btw walkspeed reduced by 30%, you're stumbling)
 ## 👑 The Raid Boss Encounter
-​You stumble into the ruined town square, your shoulders slouched and your body trembling from what you were just forced to do to Peter. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a bloodstained greataxe.
+​You stumble into the ruined town square, your shoulders slouched and your body trembling from what you were just forced to do to Peter. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a heavy greataxe.
 
 ​"So, you're the brat who's been killing my scouts?! I'm going to paint these walls with your guts!" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
 
@@ -124,7 +139,11 @@ You regain control. Your character's posture is now slouched, trembling with sho
 ​"Look at you... completely broken. Perfect. A soul served on a silver platter. Wipe that ash off your hands and end him, partner. I can taste the raw energy simmering inside him from here." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## ⚔️ BOSS BATTLE: Raid Boss
 The Arena triggers. A high-stakes encounter where you test your parrying against heavy, telegraphed axe swings and utilize your newly unlocked [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]].
-The Boss crashes to his knees, defeated, before collapsing face-first into the burning rubble. The Tome instantly reaps his soul.
+The Boss crashes to his knees, defeated, before collapsing face-first into the burning rubble. 
+
+"Gah... who... who the hell... is this kid...?" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
+
+The Tome instantly reaps his soul.
 ## 🗺️ The Bitter Departure
 You stand amidst the ashes of your home. The flames reflect in your eyes. The horrifying reality of what you did to Peter sits heavily in your stomach.
 You turn to leave, but a glint of parchment catches your eye. Tucked into the Raid Boss's heavy armor is a detailed, dust-smudged tactical map.

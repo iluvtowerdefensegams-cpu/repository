@@ -125,7 +125,12 @@ Hearing Peter’s exact final words echoes like a thunderclap in your mind. Your
 "-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 ## ⚔️ BOSS BATTLE: Mike
  * **The Reality:** Mike is utilizing most of his strength now (70%). Armed with incredible stats and fast, devastating parries, **he absolutely kicks your ass.** This is an overwhelming battle designed to show his true potential and vigilante resolve. (But it's not a scripted loss)
-   The battle ends. Mike stands over you, panting, his blade lowered slightly but his gaze unwavering.
+#### Death Screen & Time Rewind Lore: Added canonical lore for defeat during Mike's boss fight (and game deaths in general).
+- Standard deaths display the Tome asking: "Would you like to rewrite fate and try again, partner?"
+- Specifically when defeated by Mike, the Dark Tome intervenes before Mike can seal you: "The outcome of this path—falling to this idealist boy—would not be favorable for our grand journey... I shall turn back the wheel of time. Try again, human!" rewinding time back to the start of the duel.
+
+The battle ends. Mike stands over you, panting, his blade lowered slightly but his gaze unwavering.
+
 "I wasn't able to break your dark stubbornness today... but I won't stop trying to save you, `<username>`! Not ever!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 With a swift leap, Mike retreats into the rocky cliffs, fleeing the area. The beach falls dead silent.

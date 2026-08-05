@@ -6,7 +6,11 @@
 # Tale Of A Thousand Deaths
 # [[TALE OF A THOUSAND/Part 1/Locations/World Map P1\|WORLD MAP]]
 # [[TALE OF A THOUSAND/Characters/Characters\|CHARACTERS]]
-
+# Endings
+- ## Dark Ending (Canon)
+- ## Incomplete Ending
+- ## April's Ending
+- ## Light Ending 
 # Chapters
 - # [[TALE OF A THOUSAND/Part 1/Introduction\|Introduction]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 1 Raiders\|Chapter 1 Raiders]]
@@ -34,5 +38,3 @@
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 23 The Sweep\|Chapter 23 The Sweep]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 24 The Last Chapter Of The Tale\|Chapter 24 The Last Chapter Of The Tale]]
 - ## [[TALE OF A THOUSAND/Part 1/Chapter 25 Epilogue\|Chapter 25 Epilogue]]
-
-

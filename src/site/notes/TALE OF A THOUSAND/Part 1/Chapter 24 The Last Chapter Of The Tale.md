@@ -161,7 +161,7 @@ SPECIAL VICTORY REWARDS UNLOCKED:
 • Grants Early Access Content Trigger for Part 2 
 
 > (The victory screen glitches violently as red static tears across the UI) 
-> The Dark Tome: "Impressive work, puppet. But you forgot one simple rule of my game..."* —[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+> The Dark Tome: "Impressive work, human. But you forgot one simple rule of my game..." —[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 > 
 Before you can celebrate your impossible victory, the dark armor worn on your shoulders suddenly flares with violent, hostile authority!
 *CLANG-CRUNCH!*

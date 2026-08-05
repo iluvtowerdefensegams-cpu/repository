@@ -49,6 +49,12 @@ Hidden in the dark, trash-strewn alleyway behind Lyze's main lab, a twitchy, fas
 "HEY! YOU! YES, YOU, THE `[[Valued Customer]]`! GOT ANY OF THAT SWEET, SWEET `[5CЯ4P]`? BRING IT TO ME! I GIVE YOU THE MOST `<R4D>` DEALS OF YOUR LIFE! DO NOT TRUST THE `[[Upper Class]]` IN THE LAB! BUY FROM THE TRASH!" -[[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
 *   **The Mechanic:** Bring Scrappy unique scrap metal found on your journeys to trade for highly powerful, chaotic, and sketchy items that you can't get anywhere else. (Btw he sells 1 [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]])
 
+Dev notes for the HQ: 
+- Interactive Weapon Proficiency Tree: A Watch UI panel displaying current level progression across Free-hand, Melee, Ranged, and Arcane.
+- Brandon's Frying Pan Rhythm Widget: A quick-time rhythm bar simulating Brandon's high-stress cooking lessons (with pan whacks on missed notes).
+- Steve's Volatile Forge Risk Meter: A visual forge console calculating TNT explosion odds vs. weapon stat gains when upgrading.
+- Scratch's "Thrash Your Own Ass" Simulator: A custom robot design terminal that generates a boss challenge based on your own design choices.
+
 # The Lab & The Grand Map
 
 You step through the heavy, reinforced blast doors at the back of the plaza. The interior of the main laboratory is a chaotic masterpiece of wires, glowing holographic displays, and mechanical arms. Lyze stands at a central terminal, typing furiously before turning to face you.

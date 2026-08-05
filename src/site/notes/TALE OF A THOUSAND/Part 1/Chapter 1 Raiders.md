@@ -16,7 +16,7 @@ You open your eyes in your bed. Sunlight filters through the wooden shutters. A 
 
 You sit up on your bed and stretch. You can explore [[TALE OF A THOUSAND/Part 1/Locations/Your House\|the house]] before heading down to the kitchen.
 ## 🍳 Breakfast & Chores
-You enter the kitchen. Your father stands by the stove, plating a warm breakfast.
+You enter the kitchen. Your father stands by the table, hurriedly folding away a letter written in delicate cursive handwriting—a letter from your [[TALE OF A THOUSAND/Characters/Mom\|Mom]]. He quickly hides it in his pocket before turning around with a warm smile.
 
 "Hey, kiddo. How did you sleep?" -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 
@@ -26,9 +26,13 @@ You enter the kitchen. Your father stands by the stove, plating a warm breakfast
 
 "Sure, Dad. What's up?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"I need you to run over to the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]] and pick up a refill of my medicine—my joints have been acting up like crazy with this damp weather. Oh, and take this satchel, too. Deliver it to the [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]] on your way. Just a few letters I need sent out." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
+"I need you to run over to the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]] and pick up a refill of my medicine—my joints have been acting up like crazy with this damp weather. Oh, and take this satchel, too. Deliver it to the [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]] on your way. It contains official documentation and permissions for our residence transfer to the Capital." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
+
+"The Capital? Dad, are we moving?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"We'll talk about it later, kiddo. Just deliver those papers first." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 ## 📜 Quest Unlocked: Morning Chores
- * **Objective 1:** Deliver the satchel to [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]].
+ * **Objective 1:** Deliver the residence transfer satchel to [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]].
  * **Objective 2:** Pick up Dad's Medicine from the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]].
  * **Objective 3:** Return the medicine to Dad.
 ## 🤝 Peter Joins the Chores
@@ -83,6 +87,8 @@ You search the library rows. You interact with a glowing shelf near the back and
 
 "Wait, it doesn't end there. Look at this next paragraph. It says you can survive even after they light up: *'A sacrifice must be made.'* ...What does that even mean?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
+*(Dev note: Unbeknownst to anyone, those three historical cases were actually the Dark Tome's previous victims whom it tried to manipulate into becoming its puppets—the curse's purpose was simple: serve him or die.)*
+
 Peter looks up from the book, closing it slowly with a soft sigh. He looks at you with absolute sincerity—completely unaware of the nightmare awaiting both of you.
 
 ​"A sacrifice? Man, magic books are so dramatic. I can't imagine ever hurting someone else just to save my own skin. Could you?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
@@ -95,11 +101,17 @@ A deafening explosion rattles the entire library, shattering the stained-glass w
 
 "What on earth was that?!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
-You both rush out of the library doors. The peaceful, sunlit town from this morning is completely gone—swallowed by roaring fire, rolling black smoke, and screaming villagers.
+Peter immediately draws his wooden practice sword from his belt, standing in front of you defensively. You both rush out of the library doors into the town square.
+
+The peaceful, sunlit town from this morning is completely gone—swallowed by roaring fire, rolling black smoke, and screaming villagers.
 
 "RAIDERS!!! THE RAIDERS ARE HERE!" -Random Villager
 
-"There's too many of them! Run to the [[TALE OF A THOUSAND/Part 1/Locations/Forest\|Forest]]! I'll draw them away and catch up to you! Go!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+"You should grab your sword—it's probably down in the basement, back in your house!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+
+*A fire arrow hits a roof nearby, making it burn and fall down, showering the street in white-hot embers and burnt rests of the building, blocking the path back home.*
+
+"Wait, no! There's no time! Look at those flames—there's too many of them! Run to the [[TALE OF A THOUSAND/Part 1/Locations/Forest\|Forest]]! I'll draw them away with my sword and catch up to you! Go!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 ## 🏃 The Escape: Running Blind
 You sprint blindly into the dark tree line of the forest. But as you cross the threshold of the trees, a cold, echoing voice—**The Nightmare**, the exact titanic voice from your dream—booms directly inside your skull, threatening to snap your mind in two.
 # "DIE."
@@ -107,6 +119,10 @@ Your [[TALE OF A THOUSAND/Part 1/Others/Curse\|marks]] instantly burst into a vi
 Your vision blurs. Your character stumbles heavily, collapsing onto the dirt in sheer physical agony.
 Behind you, snapping jaws and glowing red eyes emerge from the smoke—hungry beasts. With no weapons, you must run.
  * **Gameplay Mechanic:** Manage your stamina and stumbling animations while navigating the chaotic, root-filled forest path. Faint violet embers on the ground guide you toward a hidden cave.
+When the timer drops below 1:30 (halfway), dark whispers echo in your head:
+ *"To the left, mortal... through the dark roots... if you wish to live..."* -[[TALE OF A THOUSAND/Characters/The Dark Tome\|a shadowy voice]]
+ Faint violet-gold embers on the ground guide you toward a hidden cave.
+
 With the timer dangerously close to zero, you scramble through the mouth of a hidden cavern. The beasts screech and halt at the entrance, seemingly terrified of whatever lies inside.
 ## 📖 The Dark Pact
 "Come." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|A Shadowy Voice]]
@@ -145,7 +161,7 @@ You look down at your arm. The curse marks are burning white-hot, practically bl
 
 ​Hard Mode: The Tome slams shut. "Suit yourself. I'll find someone else." (Timer hits 0: Player disintegrates. GAME OVER screen triggers)
 # 🔗 The Pact Signed
-(The dark violet light from the book surges violently into your arm, freezing the glowing runes in place. The timer UI shatters with a glass-break sound effect)
+(The dark violet light from the book surges violently into your arm, freezing the glowing runes in place. The timer UI shatters with a glass-break sound effect) (Also if you're The Special One, it's a golden-violet effect)
 ​(New UI Unlocked SFX plays)
 ###  NEW HUD ELEMENT UNLOCKED: [ Soul Counter: 0 / 100 ]
 ​Your character falls to his knees, hyperventilating as the physical pain fades, leaving behind a cold, sickening numbness in your chest.

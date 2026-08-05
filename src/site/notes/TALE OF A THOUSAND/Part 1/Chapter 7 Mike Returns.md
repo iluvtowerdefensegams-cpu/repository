@@ -41,6 +41,8 @@ You halt. Your character slowly turns around to face him. [[TALE OF A THOUSAND/C
 
 The clash ends. Mike is forced to one knee, heavily damaged, but he still holds his blade up. He looks up—not at your character's face, but **directly at the screen**, staring right into the eyes of you, the player, for a long, quiet, chilling moment.
 
+DEV NOTE: When Mike looks directly past your character and stares through the player's screen, trigger a brief CRT scanline wisp / camera heartbeat distortion in the UI to heighten the chilling fourth-wall break.
+
 "I'm not able to defeat you alone. I need someone to help me... Heh. Just like you do." -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 ​Mike turns and vanishes in a sudden flash of light. In his haste, a glowing violet fragment slips from his cloak and clatters onto the stone path. The battlefield is dead silent except for the heavy breathing of your character.
@@ -55,10 +57,6 @@ The clash ends. Mike is forced to one knee, heavily damaged, but he still holds 
 ​(You pick up the PageStone, watching the violet light absorb into the Tome. You stare down the empty road where Mike fled, your fists clenched tight.)
 
 ​"He thinks he's the hero..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice dropping into a quiet, cold tone) "Next time we fight, I won't hold back." -[[TALE OF A THOUSAND/Characters/You\|You]]
-
-​"That is the spirit, human! Now get us to that scientist's headquarters. You need more firepower." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] --not so cheery though. He sees you finding his path not that bad as something merely eventual. He knew it was gonna happen, but he doesn't care that much. After all, he's just using you.
-
-​You pick up the [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] and slot it into the binding. The UI blinks, updating your map.
 ​
 "Of course you won't. You were always going to reach this conclusion eventually, human. Now move. We are going to that scientist's headquarters, and you are going to get stronger. I refuse to be slowed down by your incompetence." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 

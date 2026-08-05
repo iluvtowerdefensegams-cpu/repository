@@ -151,9 +151,6 @@ You slide the Executive Master Keycard into the lock. The golden doors let out a
 # Soul Count: 73
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
 
-
-
-
 # Chapter 21: Cyber City (Part 3 - Slaves of the Screen)
 ### 💎 THE PENTHOUSE: The CEO & The Bodyguard
 The golden elevator doors slide open with a silent hiss, revealing a sprawling, multi-million-dollar penthouse suite. Floor-to-ceiling panoramic glass overlooks the sprawling neon lights of Cyber City.
