@@ -11,10 +11,10 @@ Out of the oppressive shadows, a towering entity of pure malice materializes: Th
  * The player engages in a brutal, heavily disadvantaged boss fight against the looming shadow.
 ### Scenario A: The Player Loses (Standard)
 The player falls to the floor, defeated and gasping for air.
-"Pathetic. Get up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Pathetic. Get up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|???]]
 ### Scenario B: The Player Wins (The Secret Choice)
 The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]] dissolves into thin air. The void grows deathly still.
-"Magnificent... Congratulations, My Special One." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Magnificent... Congratulations, My Special One." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|???]]
 *(Note: Flag unlocked. For the rest of the game, The Dark Tome will address the player as "My Special One" instead of "The One".)*
 ## Phase 2: The Awakening of Power
 "You are the One. The One I have chosen to fulfill my desires. With my power, you will rule over all... even if you must walk over a thousand graves to do it. Yes, you." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]

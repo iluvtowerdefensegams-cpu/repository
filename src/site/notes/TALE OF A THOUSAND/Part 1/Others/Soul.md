@@ -1,0 +1,43 @@
+---
+{"dg-publish":true,"permalink":"/tale-of-a-thousand/part-1/others/soul/","dg-note-properties":{}}
+---
+
+# Souls (in order claimed)
+- ## 1-8 [[TALE OF A THOUSAND/Characters/Raiders\|Raiders]]
+- # 9 [[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+- # 10 [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
+- ## 11-14 [[TALE OF A THOUSAND/Characters/Pirates\|Pirates]]
+- # 15 [[TALE OF A THOUSAND/Characters/Jaw\|Jaw]]
+- ## 16-19 [[TALE OF A THOUSAND/Characters/Pirates\|Pirates]]
+- # 20 [[TALE OF A THOUSAND/Characters/Captain\|Captain]]
+- ## 21-28 [[TALE OF A THOUSAND/Characters/Explorers\|Explorers]]
+- # 29 [[TALE OF A THOUSAND/Characters/Witch\|Witch]]
+- ## 30-33 Bandits
+- # 34 [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+- ## 35-44 Wignus' Servants
+- # 45 [[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
+- # 46 [[TALE OF A THOUSAND/Characters/Poppy The Puppeteer\|Poppy The Puppeteer]]
+- # 47 [[TALE OF A THOUSAND/Characters/Jack The Two-Axed\|Jack The Two-Axed]]
+- # 48 [[TALE OF A THOUSAND/Characters/Samuel The Storymaster\|Samuel The Storymaster]]
+- # 49 [[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
+- # 50 [[TALE OF A THOUSAND/Characters/Pike The Poisoner\|Pike The Poisoner]]
+- # 51 [[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+- # 52 [[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+- # 53 [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
+- ### 54-73 Skyscraper Guards + [[TALE OF A THOUSAND/Characters/CW, The Construction Worker\|CW, The Construction Worker]] + [[TALE OF A THOUSAND/Characters/Ignis, The Pyrotechnic Specialist\|Ignis, The Pyrotechnic Specialist]]
+- # 74 [[TALE OF A THOUSAND/Characters/Apex, The Executive Guard\|Apex, The Executive Guard]]
+- # 75 [[TALE OF A THOUSAND/Characters/CEO Sterling\|CEO Sterling]]
+- ## 76-77 [[TALE OF A THOUSAND/Characters/Wind Boy\|Wind Boy]] and his sister (sister first)
+- # 78 Random Killed By Sword Toss 
+- ## 79-81 [[TALE OF A THOUSAND/Characters/Pirates\|Pirates]]
+- # 82 [[TALE OF A THOUSAND/Characters/Dennis The Druid\|Dennis The Druid]]
+- # 83 [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
+- # 84-88 TAX MAN
+- ## 89-92 Tengaro's Bandits
+- # 93 [[TALE OF A THOUSAND/Characters/Tengaro, Master of Swordplay\|Tengaro, Master of Swordplay]]
+- # 94 [[TALE OF A THOUSAND/Characters/Vanth, The Nightmare Necromancer\|Vanth, The Nightmare Necromancer]]
+- # 95 [[TALE OF A THOUSAND/Characters/Dani the Dragonrider\|Dani the Dragonrider]]
+- # 96-97 [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]] + [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+- # 98 [[TALE OF A THOUSAND/Characters/Dad\|Dad]]
+- # 99 [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+- # 100 [[TALE OF A THOUSAND/Characters/You\|You]]
