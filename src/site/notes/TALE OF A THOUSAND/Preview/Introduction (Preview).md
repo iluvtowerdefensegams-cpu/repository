@@ -28,5 +28,4 @@ As the souls desperately try to scramble back to their feet, the player charges 
 
 *(Dark, echoing laughter)*
 "Well done. Now, it is time. Wake up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
-# Chapter 1 Raiders
-(Ask for ch1 in DMS or smth)
+# [[TALE OF A THOUSAND/Preview/Chapter 1 Raiders (Preview)\|Chapter 1 Raiders (Preview)]]
