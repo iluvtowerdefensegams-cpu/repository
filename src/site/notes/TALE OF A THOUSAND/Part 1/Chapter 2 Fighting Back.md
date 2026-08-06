@@ -99,7 +99,7 @@ Peter's eyes gently close. His hand falls limp onto the ash-covered floor. He sl
 
 "I am telling you. Reap him." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"I won't EVER do that!!!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I would NEVER do that!!!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "Have you forgotten our little arrangement so quickly, human? I froze the poison in your veins, but I can easily let it thaw. Your life belongs to *Me*. You signed the pact, and now it is time to pay up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
