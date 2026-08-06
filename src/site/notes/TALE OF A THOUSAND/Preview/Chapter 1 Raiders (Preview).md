@@ -174,4 +174,4 @@ You look down at your arm. The curse marks are burning white-hot, practically bl
 
 You grab the Tome and rush back toward the smoke of your village.
 
-# Chapter 2 Fighting Back
+# [[TALE OF A THOUSAND/Chapter 2 Fighting Back (Preview)\|Chapter 2 Fighting Back (Preview)]]
