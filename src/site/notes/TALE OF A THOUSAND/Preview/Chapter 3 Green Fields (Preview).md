@@ -81,4 +81,4 @@ The sheer, unbothered optimism of his answer catches you completely off guard. Y
  * # Soul Count: 10
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
 
-# Chapter 4 Pirate Docks
+# [[TALE OF A THOUSAND/Preview/Chapter 4 Pirate Docks (Preview)\|Chapter 4 Pirate Docks (Preview)]]

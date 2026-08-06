@@ -160,5 +160,5 @@ You pick up the map with trembling fingers, staring blankly at the ink. You have
  * # Soul Count: 10
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
 
-# Chapter 3 Green Fields
+# [[TALE OF A THOUSAND/Preview/Chapter 3 Green Fields (Preview)\|Chapter 3 Green Fields (Preview)]]
 
