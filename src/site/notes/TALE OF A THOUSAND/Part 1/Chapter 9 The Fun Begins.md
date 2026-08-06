@@ -33,7 +33,7 @@ You walk past him, your eyes locking onto a massive, pulsing crystal humming in 
 "Oh, that? That's the heart of the park! A giant crystal radiating pure **Fun Energy**—or *Funergy*, for short! But don't you go touching it, little buddy. It's highly dangerous! Now come, let's play!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ## 🎡 THE GAMES 
 (The park is based off of merry magoland)
-Septer leads you around the park layout. To progress, you need to visit the **Gift Shop (3)** and purchase the mysterious **"Surprise Toy"**—the most expensive item on the shelf. You only need to complete two games to get enough points!
+Septer leads you around the park layout. To progress, you need to visit the **Gift Shop (3)** and purchase the mysterious **"Surprise Toy"**—the most important item on the shelf. You only need to complete two games to get enough points! You can also buy other cool stuff with points)
 ### Game 1: The Ferris Wheel (2)
 "Welcome to the **Ferris Wheel**! But this isn't your grandma's lazy ride. You have to make this baby spin **20 times in under 3 minutes**! Shoot the bullseye targets to boost your speed, but watch out—my sniper-bots will be shooting at you to stun you and slow you down!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ### Game 2: Bumper Karts (4)
@@ -115,6 +115,7 @@ ANCIENT VOICE:
 > **👾 NEW COMPANION: Scepter**
 > A floating, miniature Funergy construct born from the shattered Beacon. It mimics Septer's cheerful movements, but has no mind of its own—a hollow, obedient pet created from the energy of the man you just destroyed.
 > * Scepter floats beside you in combat. Performing cool, high-tier combos fills his **Funergy Meter**. Once full, you can use fun abilities. When evolved, Scepter will strike enemies with his staff 
+> * You also feed Sceptre extra `[5CЯ4P]` to level him up faster.
 
 Your soul snaps back into your body. You open your eyes. The park around you is now dark, silent, and dead.
 

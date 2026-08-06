@@ -3,7 +3,7 @@
 ---
 
 # Part 1 TOATD
-# Tale Of A Thousand Deaths
+# Tale Of A Thousand: Deaths
 # [[TALE OF A THOUSAND/Part 1/Locations/World Map P1\|WORLD MAP]]
 # [[TALE OF A THOUSAND/Characters/Characters\|CHARACTERS]]
 # Endings

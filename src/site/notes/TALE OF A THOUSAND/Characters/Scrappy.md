@@ -8,3 +8,4 @@ Hidden in the dark, trash-strewn alleyway behind Lyze's main lab, a twitchy, fas
 
 "HEY! YOU! YES, YOU, THE `[[Valued Customer]]`! GOT ANY OF THAT SWEET, SWEET `[5CЯ4P]`? BRING IT TO ME! I GIVE YOU THE MOST `<R4D>` DEALS OF YOUR LIFE! DO NOT TRUST THE `[[Upper Class]]` IN THE LAB! BUY FROM THE TRASH!" -[[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
 *   **The Mechanic:** Bring Scrappy unique scrap metal found on your journeys to trade for highly powerful, chaotic, and sketchy items that you can't get anywhere else. 
+Do not make his sheet yet since we are still missing info from chapter 23 to finish his sheet

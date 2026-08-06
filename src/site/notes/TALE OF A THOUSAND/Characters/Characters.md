@@ -20,7 +20,7 @@ For Soul order, go to [[TALE OF A THOUSAND/Part 1/Others/Soul\|Soul]]
 - ## [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Explorers\|Explorers]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Witch\|Witch]] ✅
-- ## [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+- ## [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Brandon The Baker\|Brandon The Baker]]
 - ## [[TALE OF A THOUSAND/Characters/Steve The BlackSmith-Smithy Steve\|Steve The BlackSmith-Smithy Steve]]
 - ## [[TALE OF A THOUSAND/Characters/Scratch\|Scratch]]

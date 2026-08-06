@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/characters/salariem-the-shopkeeper/","dg-note-properties":{}}
 ---
 
-# Salariem They Shopkeeper 
-He has his own jingle and he sings it the first time you meet him. He's a fun folk who cracks a bunch of jokes and plays several instruments (especially the accordion). He also sells all kinds of stuff (materials, weapons, armour, power orbs...)
-
-He has several shops scattered across the map, the main one being in Lyze [[TALE OF A THOUSAND/Part 1/Locations/HQ\|HQ]].
+# **Salariem The Shopkeeper**
+    
+- **Role**: The Traveling Folk Merchant & Accordion Virtuoso    
+- **Status**: Alive 
+- **Details**: Sings his custom store jingle upon meeting, plays the accordion, cracks jokes, and operates a network of shops across the map (headquartered at Lyze HQ) selling weapons, armor, materials, power orbs, and rare curios.
