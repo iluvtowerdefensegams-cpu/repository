@@ -8,4 +8,4 @@
 # Chapters
 - # [[TALE OF A THOUSAND/Preview/Introduction (Preview)\|Introduction (Preview)]]
 - ## [[TALE OF A THOUSAND/Preview/Chapter 1 Raiders (Preview)\|Chapter 1 Raiders (Preview)]]
-- ## [[TALE OF A THOUSAND/Chapter 2 Fighting Back (Preview)\|Chapter 2 Fighting Back (Preview)]]
+- ## [[TALE OF A THOUSAND/Preview/Chapter 2 Fighting Back (Preview)\|Chapter 2 Fighting Back (Preview)]]
