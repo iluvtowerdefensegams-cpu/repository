@@ -2,6 +2,32 @@
 {"dg-publish":true,"permalink":"/tale-of-a-thousand/dev-stuff/every-chapter/","dg-note-properties":{}}
 ---
 
+# Introduction: The Void
+The player awakens in a boundless, pitch-black void. A single pathway stretches forward, lined with a velvet, midnight-black carpet that absorbs all light.
+At the sides of the path, shadowy souls rest atop towering stone pillars. The pillars vary in height—some massive and imposing, others small and faded, scaling directly based on their significance to the story.
+The player walks to the end of the hallway and passes through a colossal, dark double-door. It slams shut behind them with a heavy, bone-rattling thud.
+Out of the oppressive shadows, a towering entity of pure malice materializes: The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]].
+## Phase 1: The Impossible Trial
+ * The player engages in a brutal, heavily disadvantaged boss fight against the looming shadow.
+### Scenario A: The Player Loses (Standard)
+The player falls to the floor, defeated and gasping for air.
+"Pathetic. Get up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+### Scenario B: The Player Wins (The Secret Choice)
+The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]] dissolves into thin air. The void grows deathly still.
+"Magnificent... Congratulations, My Special One." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+*(Note: Flag unlocked. For the rest of the game, The Dark Tome will address the player as "My Special One" instead of "The One".)*
+## Phase 2: The Awakening of Power
+"You are the One. The One I have chosen to fulfill my desires. With my power, you will rule over all... even if you must walk over a thousand graves to do it. Yes, you." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+The player's arm begins to pulse with a violent, glowing dark light. They reach out and grasp a pitch-black book floating in midair: [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]].
+
+The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]] stands before them again (or reforms if defeated). The player raises their hand and, with a mere snap of their fingers, completely disintegrates the entity into nothingness.
+Suddenly, the hundreds of souls from the pillars line the area. Their eyes snap open, glowing with absolute terror, and they rush toward the player in a frenzied stampede.
+The player draws their sword and slashes the air. A shockwave of dark energy erupts, sending all the encroaching souls crashing to the ground.
+As the souls desperately try to scramble back to their feet, the player charges a catastrophic, blinding blast of energy aimed directly at them. The beam fires, pulverizing every last soul into dust.
+
+*(Dark, echoing laughter)*
+"Well done. Now, it is time. Wake up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 # Chapter 1: Raiders
 You open your eyes in your bed. Sunlight filters through the wooden shutters. A warm, familiar voice calls out to you from downstairs.
 
@@ -16,7 +42,7 @@ You open your eyes in your bed. Sunlight filters through the wooden shutters. A 
 
 You sit up on your bed and stretch. You can explore [[TALE OF A THOUSAND/Part 1/Locations/Your House\|the house]] before heading down to the kitchen.
 ## 🍳 Breakfast & Chores
-You enter the kitchen. Your father stands by the stove, plating a warm breakfast.
+You enter the kitchen. Your father stands by the table, hurriedly folding away a letter written in delicate cursive handwriting—a letter from your [[TALE OF A THOUSAND/Characters/Mom\|Mom]]. He quickly hides it in his pocket before turning around with a warm smile.
 
 "Hey, kiddo. How did you sleep?" -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 
@@ -26,9 +52,13 @@ You enter the kitchen. Your father stands by the stove, plating a warm breakfast
 
 "Sure, Dad. What's up?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"I need you to run over to the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]] and pick up a refill of my medicine—my joints have been acting up like crazy with this damp weather. Oh, and take this satchel, too. Deliver it to the [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]] on your way. Just a few letters I need sent out." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
+"I need you to run over to the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]] and pick up a refill of my medicine—my joints have been acting up like crazy with this damp weather. Oh, and take this satchel, too. Deliver it to the [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]] on your way. It contains official documentation and permissions for our residence transfer to the Capital." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
+
+"The Capital? Dad, are we moving?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+"We'll talk about it later, kiddo. Just deliver those papers first." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 ## 📜 Quest Unlocked: Morning Chores
- * **Objective 1:** Deliver the satchel to [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]].
+ * **Objective 1:** Deliver the residence transfer satchel to [[TALE OF A THOUSAND/Part 1/Locations/Town Hall\|Town Hall]].
  * **Objective 2:** Pick up Dad's Medicine from the [[TALE OF A THOUSAND/Part 1/Locations/Market\|Market]].
  * **Objective 3:** Return the medicine to Dad.
 ## 🤝 Peter Joins the Chores
@@ -83,23 +113,31 @@ You search the library rows. You interact with a glowing shelf near the back and
 
 "Wait, it doesn't end there. Look at this next paragraph. It says you can survive even after they light up: *'A sacrifice must be made.'* ...What does that even mean?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
+*(Dev note: Unbeknownst to anyone, those three historical cases were actually the Dark Tome's previous victims whom it tried to manipulate into becoming its puppets—the curse's purpose was simple: serve him or die.)*
+
 Peter looks up from the book, closing it slowly with a soft sigh. He looks at you with absolute sincerity—completely unaware of the nightmare awaiting both of you.
 
-​"A sacrifice? Man, magic books are so dramatic. I can't imagine ever hurting someone else just to save my own skin. Could you?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+"A sacrifice? Man, magic books are so dramatic. I can't imagine ever hurting someone else just to save my own skin. Could you?" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
-​"Of course not! That's horrific, Peter. I'd rather take my chances with a real doctor than do something like that." -[[TALE OF A THOUSAND/Characters/You\|You]]
+"Of course not! That's horrific, Peter. I'd rather take my chances with a real doctor than do something like that." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​"Right?! Exactly. Well, I know I couldn't either. Honestly? If it ever came down to it... I'd rather go out making sure you're safe. That's what friends do." -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+"Right?! Exactly. Well, I know I couldn't either. Honestly? If it ever came down to it... I'd rather go out making sure you're safe. That's what friends do." -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 # 💥 BOOM!
 A deafening explosion rattles the entire library, shattering the stained-glass windows into thousands of sharp shards. Dust and wood debris rain down from the ceiling.
 
 "What on earth was that?!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 
-You both rush out of the library doors. The peaceful, sunlit town from this morning is completely gone—swallowed by roaring fire, rolling black smoke, and screaming villagers.
+Peter immediately draws his wooden practice sword from his belt, standing in front of you defensively. You both rush out of the library doors into the town square.
+
+The peaceful, sunlit town from this morning is completely gone—swallowed by roaring fire, rolling black smoke, and screaming villagers.
 
 "RAIDERS!!! THE RAIDERS ARE HERE!" -Random Villager
 
-"There's too many of them! Run to the [[TALE OF A THOUSAND/Part 1/Locations/Forest\|Forest]]! I'll draw them away and catch up to you! Go!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+"You should grab your sword—it's probably down in the basement, back in your house!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
+
+*A fire arrow hits a roof nearby, making it burn and fall down, showering the street in white-hot embers and burnt rests of the building, blocking the path back home.*
+
+"Wait, no! There's no time! Look at those flames—there's too many of them! Run to the [[TALE OF A THOUSAND/Part 1/Locations/Forest\|Forest]]! I'll draw them away with my sword and catch up to you! Go!" -[[TALE OF A THOUSAND/Characters/Peter\|Peter]]
 ## 🏃 The Escape: Running Blind
 You sprint blindly into the dark tree line of the forest. But as you cross the threshold of the trees, a cold, echoing voice—**The Nightmare**, the exact titanic voice from your dream—booms directly inside your skull, threatening to snap your mind in two.
 # "DIE."
@@ -107,6 +145,10 @@ Your [[TALE OF A THOUSAND/Part 1/Others/Curse\|marks]] instantly burst into a vi
 Your vision blurs. Your character stumbles heavily, collapsing onto the dirt in sheer physical agony.
 Behind you, snapping jaws and glowing red eyes emerge from the smoke—hungry beasts. With no weapons, you must run.
  * **Gameplay Mechanic:** Manage your stamina and stumbling animations while navigating the chaotic, root-filled forest path. Faint violet embers on the ground guide you toward a hidden cave.
+When the timer drops below 1:30 (halfway), dark whispers echo in your head:
+ *"To the left, mortal... through the dark roots... if you wish to live..."* -[[TALE OF A THOUSAND/Characters/The Dark Tome\|a shadowy voice]]
+ Faint violet-gold embers on the ground guide you toward a hidden cave.
+
 With the timer dangerously close to zero, you scramble through the mouth of a hidden cavern. The beasts screech and halt at the entrance, seemingly terrified of whatever lies inside.
 ## 📖 The Dark Pact
 "Come." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|A Shadowy Voice]]
@@ -123,38 +165,38 @@ You look down at your arm. The curse marks are burning white-hot, practically bl
 
 "A pathetic wizard locked my true power away, leaving me bound to this pitiful soul-reaping state. But I still have enough power left to freeze that little curse of yours in place. The question is... what are you going to give me for it?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-​"I— *Gasp* —I'll give you anything! Just make the burning stop!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I— *Gasp* —I'll give you anything! Just make the burning stop!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​"Oh, music to my pages. Here is the deal, human: absolute compliance. You will feed me souls. A hundred of them should break my bindings, along with my missing pages scattered across this wretched land. So... do we have a deal, or do you want to explode into ash?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Oh, music to my pages. Here is the deal, human: absolute compliance. You will feed me souls. A hundred of them should break my bindings, along with my missing pages scattered across this wretched land. So... do we have a deal, or do you want to explode into ash?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 # 🗳️ The Choice Prompt (UI Pop-Up)
-​(The 3-second warning SFX begins blaring)
+(The 3-second warning SFX begins blaring)
 ## Option A: ACCEPT THE PACT 
-​Player SFX: Character desperately reaches out and grabs the floating Tome.
+Player SFX: Character desperately reaches out and grabs the floating Tome.
 
-​"DEAL! JUST STOP IT! PLEASE!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"DEAL! JUST STOP IT! PLEASE!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​Tome Response (Standard): "A wise choice, partner. Let us begin." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+Tome Response (Standard): "A wise choice, partner. Let us begin." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-​Tome Response (Hard Mode / Secret Flag): "Good choice, Partner. Or should I say... My Special One?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+Tome Response (Hard Mode / Secret Flag): "Good choice, Partner. Or should I say... My Special One?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 ## Option B: REFUSE
-​Easy / Normal Mode: The Tome laughs as the screen violently violent-flashes at 1 second. 
+Easy / Normal Mode: The Tome laughs as the screen violently violent-flashes at 1 second. 
 
 "Oh, please. You don't have the luxury of a spine right now. Try again!" (Resets Choice UI)
 
-​Hard Mode: The Tome slams shut. "Suit yourself. I'll find someone else." (Timer hits 0: Player disintegrates. GAME OVER screen triggers)
+Hard Mode: The Tome slams shut. "Suit yourself. I'll find someone else." (Timer hits 0: Player disintegrates. GAME OVER screen triggers)
 # 🔗 The Pact Signed
-(The dark violet light from the book surges violently into your arm, freezing the glowing runes in place. The timer UI shatters with a glass-break sound effect)
-​(New UI Unlocked SFX plays)
+(The dark violet light from the book surges violently into your arm, freezing the glowing runes in place. The timer UI shatters with a glass-break sound effect) (Also if you're The Special One, it's a golden-violet effect)
+(New UI Unlocked SFX plays)
 ###  NEW HUD ELEMENT UNLOCKED: [ Soul Counter: 0 / 100 ]
-​Your character falls to his knees, hyperventilating as the physical pain fades, leaving behind a cold, sickening numbness in your chest.
+Your character falls to his knees, hyperventilating as the physical pain fades, leaving behind a cold, sickening numbness in your chest.
 
-​"What... what did I just agree to...?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"What... what did I just agree to...?" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​"You agreed to stay breathing, partner. Now pick me up—your precious little village is burning to the ground as we speak, and I wouldn't want you to miss the buffet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"You agreed to stay breathing, partner. Now pick me up—your precious little village is burning to the ground as we speak, and I wouldn't want you to miss the buffet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-​(Player character hesitantly picks up the Tome, staring at their glowing arm in complete terror before running back toward the village)
+(Player character hesitantly picks up the Tome, staring at their glowing arm in complete terror before running back toward the village)
 
 You grab the Tome and rush back toward the smoke of your village.
 
@@ -181,12 +223,27 @@ The player defeats the Raider. The enemy collapses into the dirt.
 
 "You actually survived. Not bad for a weakling. Now... stand back. It is time for dinner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-​A horrific, sickening tearing sound echoes through your head as the Tome forcibly tears the Raider's soul from their chest and devours it. A cold, nauseating surge of raw energy violently floods your veins, making your stomach churn as your curse marks pulse dark violet.
-​"Nauseous? Oh, you'll get used to it, human. Power always burns on the way down. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+A horrific, sickening tearing sound echoes through your head as the Tome forcibly tears the Raider's soul from their chest and devours it. A cold, nauseating surge of raw energy violently floods your veins, making your stomach churn as your curse marks pulse dark violet.
+"Nauseous? Oh, you'll get used to it, human. Power always burns on the way down. With every soul you reap, our tether strengthens. In fact, you've just unlocked a fraction of my arcana: [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]]. Use it wisely." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+## 🏠 The Search Home: Mom's Letter & The Basement
+Desperate to check on your father and search for Peter, you sprint through the burning embers back to [[TALE OF A THOUSAND/Part 1/Locations/Your House\|Your House]].
+
+The front door hangs off its hinges. Inside the kitchen, your father is nowhere to be seen. On the wooden table where he sat this morning lies the letter he was reading—written in delicate cursive handwriting from your [[TALE OF A THOUSAND/Characters/Mom\|Mom]].
+
+*"My dearest... if you are reading this, the time has come to leave. The shadows are moving closer, and our child must be kept safe at the Capital before the curse awakens..."*
+
+*(Dev note: Unbeknownst to the MC, Mom was actually a servant of Lampros. Years ago, she fought and sacrificed her life to thwart The Dark Tome's previous attempt to awaken and claim a host, sealing part of its power away before dying.)*
+
+"Your old man isn't here, kid. He fled or was taken. Stop gaping at paper and grab what you came for." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+You head down the narrow stairs into the dimly lit **[[TALE OF A THOUSAND/Part 1/Locations/Basement\|Basement]]**. Beneath a heavy tarp sits an old wooden chest. You pry it open and pull out your family's steel **Sword** and a pouch of supplies.
+
+"Finally, a proper edge. Now let's see if you can actually swing it without cutting off your own feet." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🛡️ Second Encounter: Loot & Parrying
 The player engages and defeats a second Raider.
 
-"Every insect you crush will drop something useful—weapons, materials, coins, and experience points. But never forget that their souls belong to *Me*. Now, pick up that raider's discarded blade. It is heavy enough to **Parry**. Time it right in combat, and you will negate damage entirely. I can unlock more weapon features for you soon... but I require three more souls. Go on. Exterminate the rest of these pests." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Every insect you crush will drop something useful—weapons, materials, coins, and experience points. But never forget that their souls belong to *Me*. Now that you fetched that steel sword from your basement, it is sturdy enough to **Parry**. Time it right in combat, and you will negate damage entirely. I can unlock more weapon features for you soon... but I require three more souls. Go on. Exterminate the rest of these pests." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🔑 3 Souls Later: Weapon Skills Unlocked
 After harvesting three more souls, the immediate area grows quiet.
 
@@ -240,7 +297,7 @@ Peter's eyes gently close. His hand falls limp onto the ash-covered floor. He sl
 
 "I am telling you. Reap him." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"I won't EVER do that!!!" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I would NEVER do that!!!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 "Have you forgotten our little arrangement so quickly, human? I froze the poison in your veins, but I can easily let it thaw. Your life belongs to *Me*. You signed the pact, and now it is time to pay up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -271,16 +328,20 @@ There is no heroic music—only the roaring crackle of the flames engulfing your
 
 You regain control. Your character's posture is now slouched, trembling with shock. There is no magical aura scaring people—just a horrified kid walking through a burning nightmare. (Btw walkspeed reduced by 30%, you're stumbling)
 ## 👑 The Raid Boss Encounter
-​You stumble into the ruined town square, your shoulders slouched and your body trembling from what you were just forced to do to Peter. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a bloodstained greataxe.
+You stumble into the ruined town square, your shoulders slouched and your body trembling from what you were just forced to do to Peter. Standing atop the shattered steps of the Town Hall is the massive commander of the attack: The [[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]. He turns, brandishing a heavy greataxe.
 
-​"So, you're the brat who's been killing my scouts?! I'm going to paint these walls with your guts!" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
+"So, you're the brat who's been killing my scouts?! I'm going to paint these walls with your guts!" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
 
-​He doesn't sense dark magic. He doesn't know what you are—he just sees a traumatized kid standing in his way, eyes completely hollow, staring blankly at hands stained with Peter's ash. You don't say a single word.
+He doesn't sense dark magic. He doesn't know what you are—he just sees a traumatized kid standing in his way, eyes completely hollow, staring blankly at hands stained with Peter's ash. You don't say a single word.
 
-​"Look at you... completely broken. Perfect. A soul served on a silver platter. Wipe that ash off your hands and end him, partner. I can taste the raw energy simmering inside him from here." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Look at you... completely broken. Perfect. A soul served on a silver platter. Wipe that ash off your hands and end him, partner. I can taste the raw energy simmering inside him from here." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## ⚔️ BOSS BATTLE: Raid Boss
 The Arena triggers. A high-stakes encounter where you test your parrying against heavy, telegraphed axe swings and utilize your newly unlocked [[TALE OF A THOUSAND/Part 1/Spells/Dark Blast\|Dark Blast]].
-The Boss crashes to his knees, defeated, before collapsing face-first into the burning rubble. The Tome instantly reaps his soul.
+The Boss crashes to his knees, defeated, before collapsing face-first into the burning rubble. 
+
+"Gah... who... who the hell... is this kid...?" -[[TALE OF A THOUSAND/Characters/Raid Boss\|Raid Boss]]
+
+The Tome instantly reaps his soul.
 ## 🗺️ The Bitter Departure
 You stand amidst the ashes of your home. The flames reflect in your eyes. The horrifying reality of what you did to Peter sits heavily in your stomach.
 You turn to leave, but a glint of parchment catches your eye. Tucked into the Raid Boss's heavy armor is a detailed, dust-smudged tactical map.
@@ -289,11 +350,11 @@ You turn to leave, but a glint of parchment catches your eye. Tucked into the Ra
 
 You pick up the map with trembling fingers, staring blankly at the ink. You have no home left. No family. No Peter.
 
-​"...Where... where do I even go...?" -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice barely above a whisper)
+"...Where... where do I even go...?" -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice barely above a whisper)
 
-​"Somewhere nobody knows your name, kid. Look at the coastal mark: The Pirate Docks. A hive of scum and killers. Nobody will care if a few of them go missing... and every soul brings us closer to fixing that arm of yours. Move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Somewhere nobody knows your name, kid. Look at the coastal mark: The Pirate Docks. A hive of scum and killers. Nobody will care if a few of them go missing... and every soul brings us closer to fixing that arm of yours. Move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-​(You numbly fold the map, turn away from the burning ruins of your home, and start walking.)
+(You numbly fold the map, turn away from the burning ruins of your home, and start walking.)
  * # Soul Count: 10
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
 
@@ -352,13 +413,13 @@ The boy sheathes his sword and immediately wraps the giant, squishy slime into a
 
 "Because I need to know what to call my new best friend, obviously!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
-​(Your character flinches slightly at the word "best friend," taking a small step back. A quick visual flicker of Peter's ash appears over Mike for half a second before vanishing.)
+(Your character flinches slightly at the word "best friend," taking a small step back. A quick visual flicker of Peter's ash appears over Mike for half a second before vanishing.)
 
 The sheer, unbothered optimism of his answer catches you completely off guard. You hesitate.
 
-​"I'm not your friend. I don't... do friends." -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I'm not your friend. I don't... do friends." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​"Hi not-my-friend, I'm Mike!"-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+"Hi not-my-friend, I'm Mike!"-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 "I don't care." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -499,7 +560,12 @@ Hearing Peter’s exact final words echoes like a thunderclap in your mind. Your
 "-[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 ## ⚔️ BOSS BATTLE: Mike
  * **The Reality:** Mike is utilizing most of his strength now (70%). Armed with incredible stats and fast, devastating parries, **he absolutely kicks your ass.** This is an overwhelming battle designed to show his true potential and vigilante resolve. (But it's not a scripted loss)
-   The battle ends. Mike stands over you, panting, his blade lowered slightly but his gaze unwavering.
+#### Death Screen & Time Rewind Lore: Added canonical lore for defeat during Mike's boss fight (and game deaths in general).
+- Standard deaths display the Tome asking: "Would you like to rewrite fate and try again, partner?"
+- Specifically when defeated by Mike, the Dark Tome intervenes before Mike can seal you: "The outcome of this path—falling to this idealist boy—would not be favorable for our grand journey... I shall turn back the wheel of time. Try again, human!" rewinding time back to the start of the duel.
+
+The battle ends. Mike stands over you, panting, his blade lowered slightly but his gaze unwavering.
+
 "I wasn't able to break your dark stubbornness today... but I won't stop trying to save you, `<username>`! Not ever!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 With a swift leap, Mike retreats into the rocky cliffs, fleeing the area. The beach falls dead silent.
@@ -512,7 +578,6 @@ You approach the chest and open it. Resting atop a pile of gold coins is a glowi
 "Ah... I sense another PageStone buried deep inside those wretched woods. Let us move, partner. Our buffet is far from finished." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
  * # Soul Count: 20
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 2
-
 # Chapter 5: The Dark Forest
 You step under the canopy of the [[TALE OF A THOUSAND/Part 1/Locations/Dark Forest\|Dark Forest]]. The trees are so dense they swallow the sunlight, leaving you in a suffocating twilight. As you try to navigate, the paths seem to shift and twist behind your back—warping like a living maze.
 
@@ -617,7 +682,7 @@ Your vision blurs. The screen tilts wildly as your character falls to their knee
 
 # Chapter 6: The Curse Dimension
 
-The screen slowly fades in from pitch black. The camera is locked entirely in an old-school, flat Bird's Eye View (top-down perspective), warping the world into a sharp, stylized 2D space. The vibrant colors of the forest are gone—replaced by a cold, eerie, monochromatic blue haze.
+The screen slowly fades in from pitch black. The camera is locked entirely in an old-school, flat Bird's Eye View (top-down perspective), warping the world into a sharp, stylized 2D space. The vibrant colors of the forest are gone—replaced by a cold, eerie, monochromatic blue haze. (Dev note: You have a map like Zelda games. You can also find the compass to find all hidden chests.)
 
 "Where... is this? The air feels heavy." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -631,7 +696,7 @@ Suddenly, the Witch’s voice echoes from the surrounding blue mist, cold and mo
 (Map here: [[TALE OF A THOUSAND/Part 1/Locations/Curse Dimension\|Curse Dimension]])
 You begin moving through the narrow, high-walled 2D pathways. The grid-like map requires precise puzzle-solving and combat to bypass.
 
-*   **🌿 The Tall Grass Mechanic:** Stepping into the striped patches of high grass triggers classic, turn-based combat encounters (like Pokémon/Deltarune). Your perspective shifts to a battle screen where you select your moves against aggressive shadow arachnids.
+*   **🌿 The Tall Grass & Cruel Memory Phantoms:** Stepping into the striped patches of high grass triggers classic, turn-based combat encounters (like Pokémon/Deltarune). But the dimension is cruel—it conjures dark spectral illusions from your painful memories! Dark phantoms of your [[TALE OF A THOUSAND/Characters/Dad\|Dad]] and [[TALE OF A THOUSAND/Characters/Peter\|Peter]] materialize in turn-based battles, accusing you of murdering them and forcing you to cut them down again in tragic 2D combat.
 *   **🔵 Beacon 1 (The Crystal Room):** You navigate a path of glowing crystals. You must strike the crystals in the correct order to lower the barricades and activate the first Beacon.
 *   **🏹 Beacon 2 (The Bow Temple):** You enter a small sub-temple structure. Inside, you open a central chest to obtain the **[[TALE OF A THOUSAND/Part 1/Gadgets/Bow\|Bow]]**. 
     *   *The Trap:* The moment you grab the Bow, a horde of shadow monsters spawns in the surrounding rooms. You can choose to fight your way out or use your agility to slip past them without a fight!
@@ -640,9 +705,15 @@ You begin moving through the narrow, high-walled 2D pathways. The grid-like map 
 "Cold. Efficient. Good. Stop wasting breath and puncture their cores." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 *   **💥 Beacon 3 (The Deep Chasm):** Using your newly acquired Bow, you shoot distant crystal targets across an impassable gap, lowering a bridge to reach and activate the final Beacon.
 
-## 👁️ Secret Route / Hard Boss Alert
-*   **The Hidden Watcher:** If you detour near the first Beacon, a secret route opens up. Written in the stars above is a chilling notice: *If you fail to defeat the enemies on this path, the Witch will devour your soul upon waking.*
-*   **The Reward:** Surviving this high-risk area unlocks legendary loot and prepares you for the final trial.
+## 👁️ Secret Route / Secret Lore Vision: The Fall of the Previous Dark One
+*   **The Hidden Watcher:** Detouring near the first Beacon opens a hidden portal path. Written in the stars above is a chilling notice: *If you fail to defeat the enemies on this path, the Witch will devour your soul upon waking.*
+*   **The Ancient Memory Cutscene:** Surviving the high-risk 2D route unlocks a secret vision of the past. You witness three ancient adventurers—servants of Lampros: a **Warrior**, a **Wizard**, and a **Cleric** (your **[[TALE OF A THOUSAND/Characters/Mom\|Mom]]**!).
+    *   They are traversing the dark forest on their way to the Capital, warning of "The One Which Is Dark"—a previous host chosen by [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]].
+    *   Suddenly, a shadowy dark being—the previous chosen host wielding the Dark Tome—ambushes them!
+    *   You watch the battle in 2D retro style. After defeating the Cleric (your Mother), she falls to her knees. Using the last of her divine power, she heals her two allies. She hands a sealed letter to the Warrior for her family (*"HURRY! Take this to my house!"*) and orders the Wizard to rush to the Capital.
+    *   Once her allies escape, your Mother unleashes a blinding sacrificial explosion of divine light. The blast freezes the previous Dark One solid, shattering his body into dust! She grabs [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] and attempts to tear its pages out, before exploding into a pillar of pure light.
+    *   Where she exploded in the ash, a glowing violet flower begins to bloom: the **Orchid of Power**.
+    *   The cutscene abruptly ends. The screen flashes blue—you snap back into the Witch's hut without a single scratch! It was an illusory memory vision!
 
 With all three Beacons glowing with a cold, blue light, the gateway in the center of the labyrinth shatters. You defeat the dimension’s Guardian and step through the portal. The screen violently flashes blue, then snaps back to the high-detail, third-person perspective of the real world.
 
@@ -661,6 +732,7 @@ With a final, devastating blow, you strike the Witch. Her eyes widen as she begi
 "This... this isn't how the story... ends..." -[[TALE OF A THOUSAND/Characters/Witch\|Witch]]
 
 The Witch turns completely to dust. The glowing violet [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] she held clatters onto the wooden floor. You pick it up. The moment your fingers touch the fragment, the heavy iron clasp on [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] at your hip violently snaps open. The stone is pulled straight into the binding by a surge of purple magic, snapping into place as a brand-new page materializes.
+
 ## 🌀 REWARD UNLOCKED: Summoning Magic
 *   **PageStone Integrated:** By retrieving the third [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]], you unlock the ability to summon spectral allies (like the shadow monsters you fought) to fight by your side in combat.
 
@@ -714,6 +786,8 @@ You halt. Your character slowly turns around to face him. [[TALE OF A THOUSAND/C
 
 The clash ends. Mike is forced to one knee, heavily damaged, but he still holds his blade up. He looks up—not at your character's face, but **directly at the screen**, staring right into the eyes of you, the player, for a long, quiet, chilling moment.
 
+DEV NOTE: When Mike looks directly past your character and stares through the player's screen, trigger a brief CRT scanline wisp / camera heartbeat distortion in the UI to heighten the chilling fourth-wall break.
+
 "I'm not able to defeat you alone. I need someone to help me... Heh. Just like you do." -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 Mike turns and vanishes in a sudden flash of light. In his haste, a glowing violet fragment slips from his cloak and clatters onto the stone path. The battlefield is dead silent except for the heavy breathing of your character.
@@ -728,10 +802,6 @@ The Tome glares down at the glowing fragment on the ground. Its anger instantly 
 (You pick up the PageStone, watching the violet light absorb into the Tome. You stare down the empty road where Mike fled, your fists clenched tight.)
 
 "He thinks he's the hero..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Voice dropping into a quiet, cold tone) "Next time we fight, I won't hold back." -[[TALE OF A THOUSAND/Characters/You\|You]]
-
-"That is the spirit, human! Now get us to that scientist's headquarters. You need more firepower." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] --not so cheery though. He sees you finding his path not that bad as something merely eventual. He knew it was gonna happen, but he doesn't care that much. After all, he's just using you.
-
-You pick up the [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] and slot it into the binding. The UI blinks, updating your map.
 
 "Of course you won't. You were always going to reach this conclusion eventually, human. Now move. We are going to that scientist's headquarters, and you are going to get stronger. I refuse to be slowed down by your incompetence." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -787,6 +857,12 @@ Hidden in the dark, trash-strewn alleyway behind Lyze's main lab, a twitchy, fas
 
 "HEY! YOU! YES, YOU, THE `[[Valued Customer]]`! GOT ANY OF THAT SWEET, SWEET `[5CЯ4P]`? BRING IT TO ME! I GIVE YOU THE MOST `<R4D>` DEALS OF YOUR LIFE! DO NOT TRUST THE `[[Upper Class]]` IN THE LAB! BUY FROM THE TRASH!" -[[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
 *   **The Mechanic:** Bring Scrappy unique scrap metal found on your journeys to trade for highly powerful, chaotic, and sketchy items that you can't get anywhere else. (Btw he sells 1 [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]])
+
+Dev notes for the HQ: 
+- Interactive Weapon Proficiency Tree: A Watch UI panel displaying current level progression across Free-hand, Melee, Ranged, and Arcane.
+- Brandon's Frying Pan Rhythm Widget: A quick-time rhythm bar simulating Brandon's high-stress cooking lessons (with pan whacks on missed notes).
+- Steve's Volatile Forge Risk Meter: A visual forge console calculating TNT explosion odds vs. weapon stat gains when upgrading.
+- Scratch's "Thrash Your Own Ass" Simulator: A custom robot design terminal that generates a boss challenge based on your own design choices.
 
 # The Lab & The Grand Map
 
@@ -912,7 +988,7 @@ You walk past him, your eyes locking onto a massive, pulsing crystal humming in 
 "Oh, that? That's the heart of the park! A giant crystal radiating pure **Fun Energy**—or *Funergy*, for short! But don't you go touching it, little buddy. It's highly dangerous! Now come, let's play!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ## 🎡 THE GAMES 
 (The park is based off of merry magoland)
-Septer leads you around the park layout. To progress, you need to visit the **Gift Shop (3)** and purchase the mysterious **"Surprise Toy"**—the most expensive item on the shelf. You only need to complete two games to get enough points!
+Septer leads you around the park layout. To progress, you need to visit the **Gift Shop (3)** and purchase the mysterious **"Surprise Toy"**—the most important item on the shelf. You only need to complete two games to get enough points! You can also buy other cool stuff with points)
 ### Game 1: The Ferris Wheel (2)
 "Welcome to the **Ferris Wheel**! But this isn't your grandma's lazy ride. You have to make this baby spin **20 times in under 3 minutes**! Shoot the bullseye targets to boost your speed, but watch out—my sniper-bots will be shooting at you to stun you and slow you down!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 ### Game 2: Bumper Karts (4)
@@ -994,6 +1070,7 @@ ANCIENT VOICE:
 > **👾 NEW COMPANION: Scepter**
 > A floating, miniature Funergy construct born from the shattered Beacon. It mimics Septer's cheerful movements, but has no mind of its own—a hollow, obedient pet created from the energy of the man you just destroyed.
 > * Scepter floats beside you in combat. Performing cool, high-tier combos fills his **Funergy Meter**. Once full, you can use fun abilities. When evolved, Scepter will strike enemies with his staff 
+> * You also feed Sceptre extra `[5CЯ4P]` to level him up faster.
 
 Your soul snaps back into your body. You open your eyes. The park around you is now dark, silent, and dead.
 
@@ -1027,13 +1104,13 @@ You cross the threshold, beginning a brutal, vertical gauntlet up the multi-floo
  * **⚔️ Floors 1–5: The Arcane Gauntlet:** You fight through waves of Wignus’s personal mages, enchanted stone servants, and glowing summons. You systematically cut down the opposition, harvesting **10 souls** total to feed the Tome's insatiable hunger.
  * **🧩 Floors 6–8: The Defense & The Obby:** You navigate complex, trap-laden platforming rooms (obbies) before triggering Tower Defense-style arenas, where you must deploy tactical barriers to hold off waves of volatile elemental entities.
  * **🏃 Floor 9: The Infinite Outer Wall (High-Speed Flight):**
-   * *The Mechanic:* A frantic, vertical *Subway Surfers* style sequence. Your character takes flight, scaling the sheer, infinite outer brick wall of the tower at extreme speeds. You must rapidly dodge falling debris, slide left and right across lanes, and slash through obstacles. You only pierce through the heavy storm clouds to reach the apex after achieving a high score threshold.
+   * *The Mechanic:* A frantic, vertical *Subway Surfers* style sequence. Your character takes flight, scaling the sheer, infinite outer brick wall of the tower at extreme speeds. You must rapidly dodge falling debris, slide left and right across lanes, and slash through obstacles. You only pierce through the heavy storm clouds to reach the apex after achieving a high score threshold. Close-dodging objects and destroying them without getting hit builds up combo. High combo raises the multiplier, and reaching a certain amount of combo unlocks cool skins.
 ## ⚡ The Apex Confrontation
 You crash onto the open-air roof of the tower. The wind howls violently, throwing rain across the stone platform. Wignus stands at the center, wearing majestic but slightly misaligned wizard robes, casually leaning on a staff.
 
-"You sealed my essence! You condemned me to this pathetic, soul-starved existence! It is time you pay for what you did, wizard!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"You sealed my essence! You condemned me to this pathetic, soul-starved existence! It is time you pay for what you did, wizard!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] (Wignus didn't do it alone, he actually was part of the team who sealed the tome. He's the only one that's still alive though.)
 
-*Scratching his beard, entirely unfazed*"Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+*Scratching his beard, entirely unfazed* "Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 ## ⚔️ BOSS BATTLE: Wignus the Wizard (Phase 1)
  * **The Combat:** Wignus is highly elusive. He warps across the rooftop in flashes of blue light, casts erratic tracking spells, summons spectral weapons that hover and slash independently, and occasionally casts a quick restoration spell to mend his wounds.
 You land a crushing blow, fracturing Wignus's magical barrier. He stumbles back, clutching his side as his health bar drops into the red. He chuckles softly.
@@ -1072,7 +1149,7 @@ But sitting beneath the stone is a pitch-black, jagged katana—**The Dark Sword
 You lift the pitch-black, jagged katana from the chest. Violet energy violently surges from the Tome down your arm, searing dark runes into your skin. A glowing purple eye snaps open on the sword's guard, tracking your face.
 
 (A cold, echoing voice whispers directly inside your head)
-"Master... you have awakened me from the long night. Command me, and I shall reap." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... you have awakened me from the long night. Command me, and I shall reap." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You don't flinch. You flex your fingers around the hilt, testing its weight with a cold, slow nod.
 
@@ -1105,7 +1182,7 @@ Your Watch buzzes with a holographic incoming call from Lyze as you trek through
 The transmission cuts. You keep moving forward, the weight of your new arsenal pulsing at your hip.
 
 *(Its eye widening on the guard, a low hiss echoing in your mind)*
-"Master... I smell it... I smell... **SOULS!!!**" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... I smell it... I smell... **SOULS!!!**" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "Calm yourself, blade. Let the partner handle the reaping." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -1116,7 +1193,7 @@ Through the brush ahead, you spot three small peasant children playing in a clea
 (Your character looks down at the Dark Sword, then back at the kids without a shred of hesitation)
 "Easy souls. Less effort than fighting mages." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Master... let us reap the little ones..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... let us reap the little ones..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You draw the Dark Sword, stepping out of the shadows to strike—
 # 💥 CRASH!
@@ -1143,7 +1220,7 @@ The terrified children scream and scatter into the woods.
 "Hold! To make this duel right, worthy, and just, we must combat as equals!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 
 Knox waves a glowing, gauntleted hand. In a burst of chivalric magic, a majestic, dark obsidian stallion materializes right beside you. 
-In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]])
+In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]])
 
 *Looking at the Dark Stallion, then back at Knox* "You gave your enemy a warhorse just to die 'fairly'? You really are an idiot." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -1166,7 +1243,7 @@ You continue North on horseback, using your blade to effortlessly run down and b
 
 "Look ahead. That jagged opening in the cliffside... that must be the cave Lyze was talking about. I can feel it pulsing from here—along with the distinct, magnetic pull of several of my missing **PageStones** buried deep within." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"Master... the cavern breathes... it smells of older, darker souls..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... the cavern breathes... it smells of older, darker souls..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You halt your stallion at the dark, yawning entrance of the cave. The air turns freezing cold. You step off your mount, drawing the dark blade, and look into the abyss...
  * # Soul Count: 45
@@ -1197,6 +1274,8 @@ You walk forward and pick them up. The first is the seventh [[TALE OF A THOUSAND
 
 (Looking at the title page, then sliding it into your pack with a cold scoff)
 "A thousand deaths? Sounds like a light body count." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+Dev note: from this point on you will find more pages from Samuel's book
 
 With Samuel cleared from the path, you step inside the yawning mouth of the cavern. The moment you cross the threshold, the ambient light completely vanishes. The camera seamlessly swivels from its standard 3D perspective, locking into a strict, stylistic 2D side-scroller view.
 Everything—your character, the terrain, the enemies—is rendered as a stark, pitch-black silhouette against a glowing, deep violet background. Only the glowing runes on your arm and the sharp purple eye of the Dark Sword pierce the darkness.
@@ -1273,14 +1352,15 @@ SEPTER *(Narrating as the backdrop moves)*:
  *One day, the battle grown old, Lampros sought to make a peace treaty with Skotos. But Skotos saw this as an opportunity and struck at Lampros' weakness.*
 *Little did Skotos know... it was actually a trap!*
 
-The golden puppet of Lampros splits open, revealing dozens of smaller wizard and knight puppets hiding inside the scenery.
+(The golden puppet of Lampros splits open, revealing dozens of smaller wizard and knight puppets hiding inside the scenery.)
+
 *When he tried to smash Lampros to pieces, Skotos was surprised to find all of Lampros' servants ready to cast a spell. A spell that would lock Skotos within physical objects, scattering his essence across a set of fighting equipment that belonged to an old warrior! After having defeated Skotos, Lampros entered an eternal slumber state, turning into a giant Chaos Beacon...*
 
 (The stage hands pull a lever, and the Skotos puppet is violently dragged apart, its pieces forced into a tiny wooden book, a sword, and a set of armor. A massive, glowing replica of a Chaos Beacon rises from the center stage floor.)
 
 (The music suddenly cuts to a low, droning, unsettling chord. The Septer puppet turns its wooden head 180 degrees, staring directly into your character's eyes.)
 
-*But the rumors say... that someone has brought Skotos back to life. A kid has found the locker where Skotos was sealed, and is now working with him to restore his power...*
+*But the rumors say... that someone intends to bring Skotos back to life. A kid has found the locker where Skotos was sealed, and is now working with him to restore his power...*
 *But those are just rumors... Right?"*
 
 (Glancing down at the Dark Tome with a cold, suspicious glare)
@@ -1401,7 +1481,7 @@ You step forward, raising the Dark Sword with a cold, merciless glare to claim h
 
 *(Its pages snapping shut in pure rage)* "COWARD! He leaped straight out of our reach! Ugh, no matter... we will harvest him later." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-(A low, disappointed hum vibrating through the obsidian hilt) "Master... the meat escaped... but the scent of blood remains on the trail..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+(A low, disappointed hum vibrating through the obsidian hilt) "Master... the meat escaped... but the scent of blood remains on the trail..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### ⚖️ THE JUDGEMENT: A Cold Warning
 Leaving Jack behind, you push forward onto the true mountain border. The vibrant colors of the lower world begin to fade, replaced by pale grey stones and a light, freezing mist.
 The path levels out into a long, eerie stone bridge stretching across a massive chasm. Standing dead center in the middle of the bridge, completely alone, is **Mike**.
@@ -1467,6 +1547,8 @@ This fight shatters standard combat. The arena becomes a shifting, dynamic night
  * **The Volley:** Samuel hovers in the back, firing magical projectile runes while shouting out rapid-fire questions about the world's lore.
  * **The Execution:** You must use your **Grappling Hook** to swing through the obby, dodging Jack's incoming projectile axes, and land explicitly on the platform that represents the *correct* answer to disable Samuel's warding shield.
  * **High Risk/Reward:** Land on the right platform, and Samuel suffers massive recoil damage while Jack gets briefly stunned. Land on the wrong platform—or fall into the void—and Samuel casts a high-tier spell that restores their shared health bar while blasting your HP.
+- Puppy's Hint: When Samuel asks a difficult trivia question, Puppy can shoot a tiny spectral thread pointing toward the correct platform option (A, B, or C) if the player takes too long to decide!
+- Scepter's Distraction: Scepter can release a burst of confetti/Funergy to temporarily blind Jack when he tries to throw a battle axe mid-grapple.
 With a final, perfectly timed grapple, you strike the ultimate correct platform. The magical feedback triggers a violent explosion. The floating obby shatters, and both brothers crash heavily onto the broken stone steps of the shortcut gate.
 Jack falls over Samuel, shielding his younger brother with his own body until the very end. Their forms begin to flicker and turn to dark ash.
 
@@ -1575,6 +1657,9 @@ You strap the gas mask to your belt. The dark runes on your arm flare with a col
 
 # Chapter 17: Scrambled Chemistry
 The air transitions from the damp forest air into a suffocating, lime-green haze. You pull Salariem’s heavy gas mask over your face, the mechanical filter clicking into place just as the environment shifts into a toxic, bubbling mire.
+
+(Muffled Audio & Vignette: Equipping the Gas Mask as you enter the Swamps adds a subtle muffled breathing sound effect and a protective green-tinted visor HUD overlay, shielding your HP from the toxic fog!)
+
 Tucked into the roots of a giant, dying willow tree is a ramshackle wooden laboratory covered in glowing flasks and copper pipes. You don't burst down the door; you just push it open.
 Inside, there’s no dramatic music. A man covered in stained alchemist aprons and heavy rubber gloves is casually stirring a boiling vat, hummed text boxes floating over his head. This is **Pike the Poisoner**. He doesn't even look up at first.
 
@@ -1609,7 +1694,7 @@ Before you can even draw your sword, Pike slams his fist onto a giant red lever 
 ### 🤢 BOSS BATTLE: Pike The Poisoner
 ### 🌀 MECHANICS: Total Sensory Distortions
 This isn't a clean arena fight. It's a claustrophobic, panicked struggle inside a small room filling with neurotoxins.
- * **Scrambled Controls:** The purple gas instantly bypasses your mask. Your physical keyboard keys randomly swap every 15 seconds. Pressing W might make you move left, while Spacebar suddenly triggers your inventory. You have to constantly adapt to the chaotic UI shifts on the fly.
+ * **Scrambled Controls:** The purple gas instantly bypasses your mask. Your physical keyboard keys randomly swap every 15 seconds. Pressing W might make you move left, while Spacebar suddenly triggers your inventory. You have to constantly adapt to the chaotic UI shifts on the fly. (Btw to not make it impossible the HUD shows what each button does and WASD only change with WASD (So like w is left d is up a is right a is down))
  * **The Confusion Status:** Pike doesn't fight honorably. He throws volatile acid flasks that blind your screen and creates mirror-image illusions of himself in the fog.
  * **The Ticking Clock:** The longer the fight goes, the more your max HP permanently caps down due to the toxic fumes. You have to hunt the real Pike down through the panic before you suffocate.
 You push through the absolute chaos of your scrambled movements, predicting a lunging strike from the fog, and drive your blade straight through Pike's chest, throwing him crashing backward into his own alchemy shelf.
@@ -1629,7 +1714,7 @@ Suddenly, a violent, agonizing pain shoots through your chest. Your character dr
 "Your body is cracking, you fool! Fifty souls! A mortal frame cannot contain this much concentrated energy without shattering to dust! Your mind and body will be pulverized in minutes if we keep pushing forward like this!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 *(The glowing purple eye on the Dark Sword's guard flares with a sharp, pulsing light, pointing its tip directly toward the frozen peaks above)*
-"Master... I sense it... High above... encased in ancient, unyielding ice... **The Dark Armour**! We must reach it before your vessel gives out!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... I sense it... High above... encased in ancient, unyielding ice... **The Dark Armour**! We must reach it before your vessel gives out!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You force yourself back to your feet, gritting your teeth as the dark runes pulse under your skin, holding your cracking form together just long enough to move.
 
@@ -1690,7 +1775,7 @@ The tower hums to life, flashing a brilliant electric blue. A sweeping pulse of 
 As you turn to begin your descent, your body violently contorts. Dark, jagged cracks glow through your thermal suit as the raw weight of 50 souls threatens to pulverize your physical frame. You collapse to your knees, gasping for breath.
 
 *(The Dark Sword vibrates wildly in your hand, its glowing purple eye snapping frantically toward a shadowed cave opening down the ridge)*
-"Master! In there! Deep inside the ice... the resonance is overwhelming! **The Dark Armour** is inside!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master! In there! Deep inside the ice... the resonance is overwhelming! **The Dark Armour** is inside!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *(Its pages flapping with desperate urgency)* "Move, partner! Move before your vessel shatters!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -1707,13 +1792,15 @@ The curse countdown timer locks onto the top of your screen, ticking down rapidl
 Because the Yeti is a colossal brute, standard parries are completely useless—attempting to parry its wild clubbing attacks will shatter your guard and deal full damage.
 * **The Ticking Clock**: You have strictly 3 minutes to finish this fight before your vessel completely shatters. You cannot afford to play defensive or stall.
  * **The Combat:** You must rely strictly on precise dodge-rolls and Jetpack dashes to avoid its sweeping arm slaps, leaping body slams, and ground-ripping ice shockwaves.
- * **The Environmental Hazard:** Every time the Yeti slams the ground, stalactites fall from the ceiling. You can lure its massive leap-attacks directly under falling ice pillars to deal heavy stun damage to its skull.
+ * **The Environmental Hazard:** Every time the Yeti slams the ground, stalactites fall from the ceiling. You can lure its massive leap-attacks directly under falling ice pillars to deal heavy stun damage to its skull. You can also trick it to punch spiky ice formations.
 You dodge a final, furious charge, slicing through its hamstrings with the Dark Sword. The towering beast lets out a final roar, stumbling forward with incredible momentum and crashing headfirst into the giant block of ice.
 The sheer weight of the monster pulverizes the glacier into millions of flying shards, burying the Yeti beneath the rubble while completely freeing the armor!
 ### 🛡️ CLAIMING THE DARK ARMOUR
-From the shattered ice, the **Dark Armour** hovers, radiating a heavy, suffocating aura of absolute dread. The moment you step close, the armor doesn't wait—it violently snaps onto your body, wrapping around your chest, shoulders, and limbs in cold, heavy obsidian plates.
+From the shattered ice, [[TALE OF A THOUSAND/Characters/The Dark Armour\|The Dark Armour]] hovers, radiating a heavy, suffocating aura of absolute dread. The moment you step close, the armor doesn't wait—it violently snaps onto your body, wrapping around your chest, shoulders, and limbs in cold, heavy obsidian plates.
 The agonizing cracks on your skin instantly seal shut. The raw, volatile weight of the 50 souls is suddenly contained, locked inside the heavy sarcophagus of steel.
 
+(Metallic Footsteps & Voice Distortion: Moving around the world or selecting dialogue now features a heavy obsidian footstep thud and a deep, ominous voice filter on your text boxes.
+Dark Resonance Aura: Dark aura particles gently emanate from your character's silhouette, visually representing the 50 souls contained safely inside the armor!)
 #### VESSEL STALEMATE: STABILIZED
 With a sharp metallic shatter effect, the red 3-minute timer on your screen cracks into pieces and completely disappears.
 
@@ -1745,7 +1832,115 @@ You close the map UI, looking out over the mountain ridge with your new, heavy a
 Teleporting to the southern border, the lush green foliage abruptly dies, replaced by endless stretches of scorched, blinding ash and jagged industrial scrap.
 The moment you step onto the dunes, your heavy Dark Armour hums with an uncomfortable heat, and the air shimmers with violent, distorted waves.
 
-(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+​(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
+
+​(The pages of the Dark Tome snap violently in the harsh wind, its voice dripping with cold, impatient disgust)
+​"Ugh... wretched, boiling waste. Do not dare slow down, human. That sun will melt the flesh right off your bones before you can harvest another soul for me. Stick to the shadows of those scrap pillars and move your pathetic legs—or use those thrusters on your back. If you cook out here, I will make sure your death is agonizing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+### 🏜️ MECHANICS: Shadow-Running & Jetpack Bursts
+ * **The Radiational Heat Meter:** Standing in direct sunlight fills a heat meter at the top of the UI. If it maxes out, your HP constantly melts away.
+ * **Shadow-Hopping:** You must move between the long, dark shadows of ancient crane ruins, giant creature ribcages, and sand-worn pillars.
+ * **Jetpack Boosts:** You can fire short bursts from your **Lyze Jetpack** to cross wide sunlit gaps before your heat meter fills up.
+### 🎒 Encounter: Lazarus Shade, The Lone Soul
+Navigating through the shadows, you reach the edge of a colossal, sheer drop—a massive sand dune plunging hundreds of feet down toward an oasis basin. Descending on foot would take far too long and burn you to a crisp.
+Standing right at the edge of the cliff is a strange, solitary figure. He wears a massive, overflowing backpack stuffed with desert gear, a personal shade canopy mounted over his head, and a sleek, heavy **Dune Surfboard** strapped to his back. His face is pale, drawn into a permanent, melancholic frown.
+He doesn't flinch when he sees you. He just clutches his pack tighter.
+
+"Don't come any closer... I know what you are," he mutters, his voice heavy with sorrow. "I know how souls work. I know why your blade hungers. But I've spent an eternity out here in the dust... and I won't let you harvest mine." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+
+Seeing the surfboard on his back, you don't waste time talking. You draw the Dark Sword and lunge!
+### ⏳ BOSS BATTLE: Lazarus Shade
+*(Yields 1 Soul upon defeat)*
+### ⚔️ PHASE 1: Defensive Survival
+ * **The Combat:** Lazarus doesn't fight out of heroics—he fights purely to protect himself. He uses his massive backpack to shield against incoming slashes, relying on quick, agile sand-dashes and occasional wide sweeping strikes with his staff to push you back into the open sunlight.
+With a heavy strike from your Dark Armour, you smash his pack off his back. Lazarus stumbles, his melancholic frown twisting into sudden, desperate rage. He slams his palm into the dune!
+
+"If I must drown in the storm... I'll take you down with me!" -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+### 🌪️ PHASE 2: The Radioactive Sandstorm & The Visual Prompts
+A violent sandstorm erupts, blocking out all visibility. Radiation levels spike, and dangerous mirages begin darting through the swirling sand.
+Because you cannot see through the thick ash, you must rely entirely on the visual reaction prompts of your gear:
+ * **Sword Eye Glowing GREEN:** Signal to **PARRY** an incoming real strike.
+ * **Dark Armour Shuddering:** Signal to **DODGE** a unparryable heavy sand-blast.
+ * **Sword Eye Glowing RED:** Signal to **STRIKE** an exposed weakness through the storm!
+Predicting his final rush through the blinding storm, your blade glows deep red. You step through his guard and drive the Dark Sword through his chest.
+
+​Lazarus collapses onto the sand, his body faltering as the dark magic consumes him. His drawn, pale eyes look up into your helm, his voice a fading whisper.
+
+​"I can see it in your aura... you aren't just harvesting... you're hunting..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+
+​He coughs gray ash, his hand weakly reaching toward the distant horizon
+
+​"You seek a lost soul... a blood tie. If he isn't among the dead... he was taken to the Capital. Everyone missing ends up in the Capital's shadow..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
+
+Lazarus dissolves into fine ash, leaving his massive gear pack behind on the dunes.
+
+"The Capital... as if we needed another reason to march there." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*Its pages flutter open, completely dismissive of Lazarus's fading ashes* "The Central Beacon was already our ultimate target, vessel. If your lost father happens to be rotting in the Prince's domain, then your little mortal quest conveniently aligns with mine. A win-win. But make no mistake—whether he's alive there or not, we will claim that Central Beacon. Do not let sentimentality slow us down. Take his gear and move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+​His purple soul surges directly into your blade! From the scattered remains of his massive pack, a sharp, glowing crystal clatters onto the stone—the eleventh [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]! You also claim his sleek Dune Surfboard, along with a new spell token: [SAND SUMMONS UNLOCKED]!
+### 🛹 MINI-GAME: Dune Surfing
+You throw the stolen surfboard onto the crest of the massive dune and hop on.
+ * **The Gameplay:** A high-speed, momentum-based downhill mini-game. You slide down the massive ash mountain at breakneck speed, leaning left and right to steer through narrow rock canyons.
+ * **The Hazard:** Falling debris from the ruins above creates temporary sliding shadows you can surf through to keep your heat meter cool. But if a falling rock hits you directly, you get knocked off your board and take heavy damage!
+With a final, massive leap off a natural sand ramp, you blast through the air and land cleanly at the bottom, skidding to a stop right at the edge of a lush, isolated desert oasis.
+### 🧊 The Contaminated Oasis & Snowwy
+Parched from the trek, you walk right up to the crystal-clear water of the oasis and plunge your gauntlets in to drink. The dark, corrupting energy pulsing from your 51 souls immediately bleeds into the pool, turning the pristine water into a murky, toxic black.
+Sitting under the shade of a palm tree nearby is a relaxed, melting snowman holding a cold glass of lemonade. He blinks, watching the entire lake turn pitch black.
+
+"Hey, bro... I was drinking that," he says, his voice completely calm, though a bit annoyed. "Not cool." -[[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+
+You don't reply. You step out of the water. Suddenly, the glowing eye on the Dark Sword snaps open, staring directly at the snowman.
+
+*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
+
+Without a word, you step forward and deliver a brutal slash right across Snowwy's chest!
+Snowwy barely flinches, his snow packed tightly.
+"Bro. Seriously? Stop." -[[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+
+You strike him a second time.
+
+"I'm telling you, keep that up and I'm gonna..." -[[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+
+You strike him a third time!
+
+"...You asked for it." -[[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
+### ❄️ BOSS BATTLE: Snowwy The Snowman / Snowwy The Snowstorm
+*(Yields 1 Soul upon defeat)*
+### ⛄ PHASE 1: The Melting Meltdown
+ * **The Combat:** Snowwy remains sitting down, casually waving his stick arms to spawn wave after wave of small, melting Snow Golems.
+ * **The Advantage:** This phase is super easy. Whenever you crush a Snow Golem, it leaves behind a pool of freezing slush. Stepping into the puddles instantly resets your Radiational Heat Meter to zero!
+You slice through his last golem and drive your blade deep into Snowwy's head. His chill expression completely vanishes. (You actually behead him)
+The temperature around the oasis violently drops by a hundred degrees. The sun is instantly swallowed whole by massive, dark storm clouds as a howling blizzard replaces the desert heat!
+From the center of the frost, Snowwy erupts into a towering, terrifying titan of ice and steel armor: **Snowwy The Snowstorm**! (He has a Trojan warrior face now)
+### 🏰 PHASE 2: RTS Castle War (Ice Palace vs. Sand Palace)
+The gameplay completely shifts into an RTS-style side-scrolling base battle (resembling *Stick War: Legacy*).
+ * **The Setup:** An **Ice Citadel** spawns on Snowwy's side, while you use your newly acquired **Sand Summons** to construct a **Sand Fortress** on yours.
+ * **The Execution:** You must spend energy to spawn waves of Sand Warriors, Sand Archers, and Brutes to clash against Snowwy's advancing Frost Armies.
+ * **The Victory:** You push behind your army, using your Dark Sword to cleave through his front lines until your Sand Warriors shatter the gates of his Ice Citadel!
+With his fortress crumbling into avalanches of snow, you leap onto Snowwy's colossal ice shoulder and plunge the Dark Sword straight through his icy crown!
+The blizzard breaks, the giant frost warrior shattering into millions of harmless snowflakes that drift down over the frozen oasis.
+His glowing soul rises from the frost, flying directly into your obsidian hilt.
+### 📞 MISSION BRIEFING: The Uranium Beacon
+(Visual & Audio FX: With a sharp ice-cracking sound, the burning orange Radiational Heat Meter on your HUD freezes solid and shatters into blue frost crystals, permanently removing Heat Damage from the Ashland Desert!)
+
+With Snowwy defeated, the extreme cold from his battle permanently neutralizes the desert's heat radiation. The sky remains cool and overcast, completely removing the Sun-Blight heat hazard for the rest of the region.
+Your communicator blinks to life. It's **Lyze**.
+
+*"Test subject! My long-range scanners just registered a massive atmospheric temperature drop in your sector—what did you do down there? Never mind, it actually worked in your favor! The thermal grid has stabilized!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+*(She brings up a schematic of a sprawling, rusted industrial complex ahead)*
+
+*"Look ahead. Just past the dunes sits the abandoned **Nuclear Facility**. The **Uranium Beacon** is locked deep inside the core reactor level. The security systems are still active, and the radiation inside is off the charts—good thing you've got that heavy armor. Get inside, secure the beacon, and don't get vaporized!"* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+
+You close the transmission, your heavy obsidian boots crunching over the frozen sand as you set your sights on the towering smokestacks of the Nuclear Facility.
+# Soul Count: 52
+# [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 11
+
+# Chapter 19: The Ashland Desert
+Teleporting to the southern border, the lush green foliage abruptly dies, replaced by endless stretches of scorched, blinding ash and jagged industrial scrap.
+The moment you step onto the dunes, your heavy Dark Armour hums with an uncomfortable heat, and the air shimmers with violent, distorted waves.
+
+(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 (The pages of the Dark Tome snap violently in the harsh wind, its voice dripping with cold, impatient disgust)
 "Ugh... wretched, boiling waste. Do not dare slow down, human. That sun will melt the flesh right off your bones before you can harvest another soul for me. Stick to the shadows of those scrap pillars and move your pathetic legs—or use those thrusters on your back. If you cook out here, I will make sure your death is agonizing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -1804,7 +1999,7 @@ Sitting under the shade of a palm tree nearby is a relaxed, melting snowman hold
 
 You don't reply. You step out of the water. Suddenly, the glowing eye on the Dark Sword snaps open, staring directly at the snowman.
 
-*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Without a word, you step forward and deliver a brutal slash right across Snowwy's chest!
 Snowwy barely flinches, his snow packed tightly.
@@ -1849,94 +2044,152 @@ You close the transmission, your heavy obsidian boots crunching over the frozen 
 
 # Chapter 20: Core Integrity
 ### 🏭 The Abandoned Containment Facility
-You push through the heavy, rusted airlock doors of the abandoned Nuclear Facility. Emergency sirens wail in a distorted, broken loop, and red light flashes against corroded steel walls.
+You push through the heavy, rusted airlock doors of the abandoned Nuclear Facility. Emergency sirens wail in a distorted, broken loop, and red lights flash against corroded steel walls.
 
-*(The Dark Tome snaps open at your hip, its pages fluttering in the radioactive draft)*
+(The Dark Tome snaps open at your hip, its pages fluttering in the radioactive draft)  
 "Hurry it up, human. This place stinks of old iron and dead machinery. Find the beacon before the ceiling drops on your head." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-You step deeper into the narrow maintenance halls. Suddenly, a heavy mechanical thud echoes through the metal floors. Down the corridor, a towering, ancient security robot—**Unit-01: Haz-Guard**—smashes straight through a reinforced blast door. Its single visor glows a blinding, hostile red.
+### 🔊 Automated Glitched Intercom: Core-OS
 
-*"INTRUDER DETECTED. SECTOR 4 BREACH. PURGING CONTAMINATION."* -[[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
- * **🏃 THE AXIS CHASE:** Haz-Guard relentlessly hunts you through long, claustrophobic corridors. You must use your **Jetpack** and **Grappling Hook** to bypass collapsed walkways, slide under hydraulic crushers, and dodge tracking laser sweeps while Haz-Guard smashes through steel barriers right behind you!
+As you step down the rusted gantry, static crackles through broken ceiling speakers as the facility's automated AI voice triggers:
+
+📢 "Attention staff: Welcome to Sector 4! Today is Free Donut Tuesday in the breakroom! Please ignore any active security automatons currently purging unauthorized personnel. Remember: A radioactive employee is an efficient employee!" -Core-OS Intercom
+
+Suddenly, a heavy mechanical thud echoes through the metal floors. Down the corridor, a towering, ancient security robot—**Unit-01: Haz-Guard**—rolls out from a hydraulic bay on electric buzzing wheels. Its single visor glows a blinding, hostile red.
+
+### 🛡️ THE IMPENETRABLE PROTOCOL
+Seeing the robot block your path, you draw the Dark Sword and deliver a devastating slash straight across Haz-Guard's chest! Sparks fly and its chassis buckles—but within a fraction of a second, a blinding green light surges through the facility's floor conduits.
+
+> **[⚡ HAZ-GUARD PROTOCOL: CORE AUTO-REPAIR GRID ACTIVE]**  
+> 100% Hull Integrity Restored Instantly.
+
+Haz-Guard's wounds instantly seal shut without a single scratch!
+
+(The blade hums with frustration) "Master... its plating is tethered directly to the facility's Central Reactor Power Grid! Every time we strike it, the reactor heals it back to full HP instantly! We can't destroy it until we reach the Main Core terminal and cut its power!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
+
+Haz-Guard's corrupt database scans your heavy dark plate armor:
+
+"IDENTIFICATION CONFIRMED: EMPLOYEE #402. YOU ARE CURRENTLY 42,000 HOURS LATE FOR YOUR SHIFT. CEASE EXISTING IMMEDIATELY TO AVOID DEDUCTIONS FROM YOUR FINAL PAYCHECK." -[[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]
+
+"I don't work overtime." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+(The Dark Tome shrieks in pure disgust)  
+"Did this rust-bucket just call us underpaid interns?! We can't kill it here—move your legs, vessel!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+### 🏃 THE AXIS CHASE & STEALTH ENCOUNTERS
+Because Haz-Guard's auto-repair makes it immortal in these outer sectors, you are forced to navigate through its security zones while making your way toward the Core:
+
+- **🗑️ Trash Bin & Steam Vent Stealth:** When Haz-Guard sweeps the hallway with its red searchlight, you must hide inside empty hazmat trash bins or jump into overhead steam vents.  
+    - Haz-Guard scans the trash bin with buzzing wheel sounds:  
+        "ATTEMPTING ORGANIC SCAN... CONTAINER STATUS: 99% TRASH, 1% UNLICENSED ANOMALY. RESUMING PATROL."  
+    - The Dark Tome whispers furiously in your ear about the humiliation of hiding inside a garbage can.      
+- **📢 Core-OS Workplace Announcements:**
+    - "Notice: If you experience sudden melting or third-degree radiation burns, please submit Form 404-B to HR before perishing."        
+    - "Unit-01 Haz-Guard is simply enforcing mandatory unpaid overtime protocols. Have a productive day!"       
+- **🛠️ The Steam Generator & Keycard Puzzle:** You reach a sealed blast door blocking the Core. You must use your **Jetpack** to reach high steam valves and blast Haz-Guard with superheated steam, freezing its rusted joints for 10 seconds so you can grab the Sector Access Keycard and unlock the Core!    
+- **🏃 High-Speed Pursuit:** With the keycard secured, Haz-Guard smashes through steel barriers right behind you. You use your **Jetpack** and **Grappling Hook** to bypass collapsed walkways, slide under hydraulic crushers, and dodge tracking laser sweeps!
+    
+
+---
+
 ### 🤖 BOSS BATTLE: Unit-01: Haz-Guard
-You burst into the massive dome of the Main Reactor Core and slam the heavy emergency containment doors behind you. Seconds later, Haz-Guard rips the doors right off their hinges, stepping into the arena!
+You burst into the massive dome of the Main Reactor Core. You leap onto the central terminal and plunge the Dark Sword into the main circuit breaker, severing the facility's power grid!
+
+> **[⚡ CORE REPAIR GRID OFFLINE — HAZ-GUARD AUTO-HEAL DISABLED]**
+
+Haz-Guard rips the heavy containment doors off their hinges and rolls into the arena, its red visor pulsing with fury as its auto-repair lights flicker out. Now, it can finally bleed steel!
+
 ### ⚔️ MECHANICS: Heavy Industrial Defense
- * **Phase 1 (System Patrol):** Haz-Guard fires hyper-dense radiation blasts, sweeps the room with spinning plasma saws, and drops heavy containment shields around itself.
- * **Phase 2 (Overheat Flaw):** Overusing its heavy plasma attacks causes its exhaust valves to vent superheated steam. You must dodge its charge attacks, hooking onto its exposed back heat-sink to deal heavy damage with the Dark Sword.
+- **Phase 1 (System Patrol):** Haz-Guard fires hyper-dense radiation blasts, sweeps the room with spinning plasma saws, and drops heavy containment shields around itself.
+- **Phase 2 (Overheat Flaw):** Overusing its heavy plasma attacks causes its exhaust valves to vent superheated steam. You must dodge its charge attacks, hooking onto its exposed back heat-sink to deal heavy damage with the Dark Sword.   
+
 With a final, brutal downswing of your Dark Sword, you cleave Haz-Guard's chest plate wide open! The robot freezes, sparks showering from its joints as its red visor slowly dims into pitch darkness.
 
 "Pathetic pile of bolts." -[[TALE OF A THOUSAND/Characters/You\|You]]
- * **Loot Acquired:** You pick up the twelfth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
- * **Boss Drops:** You unlock Haz-Guard's Visor and Heavy Hazmat Plating!
+
+- **Loot Acquired:** You pick up the twelfth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]!
+- **Boss Drops:** You unlock Haz-Guard's Visor and Heavy Hazmat Plating! 
+
+---
+
 ### ☢️ INSIDE THE BEACON: The 5-Night Meltdown Trial
-You approach the glowing **Uranium Beacon** floating over the dead reactor. The moment your hand touches the crystal, your soul is pulled into a high-stakes, retro-fused security office inside the memory of the Beacon. (You're the manager)
+
+You approach the glowing **Uranium Beacon** floating over the dead reactor. The moment your hand touches the crystal, your soul is pulled into a high-stakes, retro-fused security office inside the memory of the Beacon. (You're the manager)
+
 > **[⚠️ BEACON TRIAL INITIATED: SURVIVE 5 NIGHTS AT THE PLANT]**
- 
+
 ### 🌙 NIGHT 1: The Leaking Pipes
- * **Task:** Manage the water pressure to keep the core cool. Run between terminals to turn leaking valves and divert water to the core before the temperature spikes.
- * **Cutscene 1:** You watch a memory play out. The plant's workers are impoverished and enraged about unpaid wages. Angry mobs start smashing control panels and cutting power cables in violent riots.
+- **Task:** Manage the water pressure to keep the core cool. Run between terminals to turn leaking valves and divert water to the core before the temperature spikes. 
+- **Cutscene 1:** You watch a memory play out. The plant's workers are impoverished and enraged about unpaid wages. Angry mobs start smashing control panels and cutting power cables in violent riots.  
 ### 🌙 NIGHT 2: Power Sabotage & The Security Guard
- * **Task:** Divert both **Water and Power** while fixing sabotaged breaker boxes.
- * **New Threat — The Security Guard:** A rigid automaton patrolling the halls. Monitor the security cameras. When he reaches your office hallway, **slam the metal security doors shut** until he walks away!
- * **Cutscene 2:** A sleek, terrifying black car arrives at the facility gates. A sharp-looking man with a golden clip-board steps out—**The Inspector HAS ARRIVED.**
+- **Task:** Divert both **Water and Power** while fixing sabotaged breaker boxes.  
+- **New Threat — The Security Guard:** A rigid automaton patrolling the halls (makes a buzzing and electric wheel sound). Monitor the security cameras. When he reaches your office hallway, **slam the metal security doors shut** until he walks away!  
+- **Cutscene 2:** A sleek, terrifying black car arrives at the facility gates. A sharp-looking man with a golden clip-board steps out—**The Inspector HAS ARRIVED.**  
 ### 🌙 NIGHT 3: The Inspector's Visit
- * **Task:** Divert power/water and repair electrical/valve leaks while avoiding the Guard.
- * **New Threat — The Inspector:** The Inspector ignores locked doors entirely (he one-taps them down). He is blind, but tracks **NOISE**. When rioting employees or loud alarms go off, you must trigger noisemakers down distant hallways to lure him away from your office!
- * **Cutscene 3:** Desperate, starving employees begin sneaking into the vault late at night, shoving glowing bars of raw Uranium into their lunchboxes to sell on the black market.
+- **Task:** Divert power/water and repair electrical/valve leaks while avoiding the Guard.   
+- **New Threat — The Inspector:** The Inspector ignores locked doors entirely (he one-taps them down while saying inspector stuff). He is blind, but tracks **NOISE**. When rioting employees or loud alarms go off, you must trigger noisemakers down distant hallways to lure him away from your office!   
+- **Cutscene 3:** Desperate, starving employees begin sneaking into the vault late at night, shoving glowing bars of raw Uranium into their lunchboxes to sell on the black market. 
 ### 🌙 NIGHT 4: Rogue Employees & The Tax Man
- * **Task:** Divert systems, fix water/power leaks, and plug volatile **Uranium Leaks**.
- * **New Hazard — Rogue Employees:** Catch stealing employees around the office and manually drag them into the **TIME OUT CHAIR** in the corner so they stop breaking pipes!
- * **Cutscene 4:** A towering, shadowy silhouette with a scary briefcase steps out of a dark limo under thunderous rain... **THE TAX MAN HAS ARRIVED.** *(SCARY AHHH!)*
+- **Task:** Divert systems, fix water/power leaks, and plug volatile **Uranium Leaks**.
+- **New Hazard — Rogue Employees:** Catch stealing employees around the office shouting "Raise our wage! Raise our pays!" and manually drag them into the **TIME OUT CHAIR** in the corner so they stop breaking pipes! (Funny physics, you grab them and can fling them)
+- **Cutscene 4:** A towering, shadowy silhouette with a scary briefcase steps out of a dark limo under thunderous rain... **THE TAX MAN HAS ARRIVED.** (SCARY AHHH!)
 ### 🛑 NIGHT 5: HELL NIGHT
- * **The Chaos:** Everything collides at once!
-   * Divert Water & Power to prevent total meltdown!
-   * Fix water valves, electrical short-circuits, and Uranium leaks!
-   * Catch sabotaging employees and throw them in the **Time Out Chair**!
-   * Check cameras & lock doors for **The Security Guard**!
-   * Use noise-makers to distract **The Inspector** away from your desk!
-   * **THE TAX MAN:** He marches directly into your office, ignoring doors and noise completely. There is only ONE solution: **GRAB THE EMERGENCY BAZOOKA UNDER THE DESK AND BLAST HIM INTO SPACE!**
-## Notes:
-- The guard makes a buzzing and electric wheel sound
-- The inspector says inspector stuff 
-- Tax man screams TAX TAX TAX TAX TAX TAX 
-- Employees say Raise our wage! Raise our pays!
-- The manager was secretly in love with the engineer
+**The Chaos:** Everything collides at once!
+- Divert Water & Power to prevent total meltdown!
+- Fix water valves, electrical short-circuits, and Uranium leaks!
+- Catch sabotaging employees shouting "Raise our wage!" and throw them in the **Time Out Chair**!
+- Check cameras & lock doors for **The Security Guard**!    
+- Use noise-makers to distract **The Inspector** away from your desk!    
+- **THE TAX MAN:** Marches directly into your office screaming "TAX TAX TAX TAX TAX TAX!" ignoring doors and noise completely. There is only ONE solution: **GRAB THE EMERGENCY BAZOOKA UNDER THE DESK AND BLAST HIM INTO SPACE!**    
+
+---
+
 ### 📜 THE FINAL TRAGEDY CUTSCENE
+
 You survive 06:00 AM on Hell Night. The chaotic security office dissolves, leaving behind the final, lingering memory of the facility's downfall:
 
-> The factory floor is quiet.
-> The Factory Owner stands over the reactor control console, discovering his most trusted Lead Engineer stealing a canister of raw Uranium.
-> *"Why...?"* the Owner whispers, trembling in heartbreak. He reaches out and grabs her hand. *"Why would you do this to us?!"*
-> In his desperate rage, he shakes her hand too violently. The engineer's hand, still inside the delicate nuclear trigger mechanism, accidentally trips the core safety pin.
-> -*FLASH OF BLINDING WHITE LIGHT.*-
+> The factory floor is quiet.  
+> The Factory Owner stands over the reactor control console, discovering his most trusted Lead Engineer stealing a canister of raw Uranium.  
+> "Why...?" the Owner whispers, trembling in heartbreak (the manager was secretly in love with the engineer). He reaches out and grabs her hand. "Why would you do this to us?!"  
+> In his desperate rage, he shakes her hand too violently. The engineer's hand, still inside the delicate nuclear trigger mechanism, accidentally trips the core safety pin.  
+> -FLASH OF BLINDING WHITE LIGHT.-  
 > The reactor detonates, killing them both instantly and entombing the Owner's lingering soul inside his own security automaton forever.
+
+---
 
 ### ⚡ THE BEACON’S AWAKENING & PET UNLOCK
 The flashback shatters.
 
-(You watch the memory fade to ash, your heavy metallic armor motionless in the void)
+(You watch the memory fade to ash, your heavy metallic armor motionless in the void)  
+
 "He let his heart shake his hand. Softness kills." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-ANCIENT VOICE:
+ANCIENT VOICE:  
 **"You who have conquered this Chaos Beacon... take my power. Become stronger."**
 
 The light condenses into a tiny, cute, floating version of [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]].
 
-ANCIENT VOICE:
+ANCIENT VOICE:  
 **"This is Knuke. His nuclear defense systems will guide you on your dark path. Now go... seek my brothers."**
 
 > **🤖 NEW COMPANION: Knuke**
->  * **Appearance:** A floating, industrial hazard drone with two tiny mechanical arms, a glowing green eye, and a miniature reactor core.
->  * **Base Ability (Ionizing Pulse):** Emits a radiation wave that strips enemy shields and inflicts a stacking damage-over-time debuff on surrounding foes.
->  * **Ultimate Upgrade (Meltdown Shield):** Creates a localized hazard barrier around you that absorbs incoming damage and reflects it back as radioactive plasma bursts.
+> - **Appearance:** A floating, industrial hazard drone with two tiny mechanical arms, a glowing green eye, and a miniature reactor core.
+> - **Base Ability (Ionizing Pulse):** Emits a radiation wave that strips enemy shields and inflicts a stacking damage-over-time debuff on surrounding foes.
+> - **Ultimate Upgrade (Meltdown Shield):** Creates a localized hazard barrier around you that absorbs incoming damage and reflects it back as radioactive plasma bursts.
+
+---
+
 ### 🚪 Exiting the Core
-Your soul snaps violently back into your physical body. You open your eyes in the real world, standing in the silent, ruined reactor room.
-The glowing purple soul of the Factory Owner surges from Haz-Guard's husk, absorbing into your dark blade
+
+Your soul snaps violently back into your physical body. You open your eyes in the real world, standing in the silent, ruined reactor room.  
+The glowing purple soul of the Factory Owner surges from Haz-Guard's husk, absorbing into your dark blade (Soul #53).
 
 "Ah, your soul has returned to the physical world. Marvelous. Another piece of the puzzle claimed for our ultimate power." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*Your voice echoes through your dark helmet, heavy and completely hollow* "One step closer to the Capital." -[[TALE OF A THOUSAND/Characters/You\|You]]
+Your voice echoes through your dark helmet, heavy and completely hollow "One step closer to the Capital." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 # Soul Count: 53
+
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
 
 # Chapter 21: Cyber City (Part 1 - The Underbelly)
@@ -1987,9 +2240,9 @@ With a precise counter-slash, you disarm Tengaro, sending his rapier clattering 
 Tengaro falls to one knee. Lying on a velvet pedestal right behind him is **The Dark Tome**.
 The moment your gauntlet grips the Tome's cover, the violet flame surges back into your eyes. You look down at the kneeling Tengaro. The temporary softness in your heart vanishes, replaced by a cold, practical realization: he is worth a soul
 
-"A promise to a thief is worth nothing," you whisper, raising the Dark Sword high above his neck. -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"A promise to a thief is worth nothing," you whisper, raising the Dark Sword high above his neck. -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-(The Dark Tome cackles in dark delight)
+​(The Dark Tome cackles in dark delight)
 "Yes! Yield to the hunger!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 Your face goes dark. Raised high, your Dark Sword begins to descend straight toward Tengaro's neck—completely breaking the promise you just made!
@@ -2037,14 +2290,19 @@ You close the transmission, looking up through the neon fog toward the towering 
 Stepping into the massive glass lobby of the **Platinum Skyscraper**, the towering atrium glimmers with polished white marble, holographic fish swimming through the air, and pristine chrome elevators.
 High above, heavy corporate security drones hum in rhythmic patrol patterns. The front gates snap shut, locking you inside the monolith.
 
+### 🔊 Automated Glitched Intercom: Platinum Corp AI
+As you ascend the chrome elevators, static crackles through ceiling speakers as the corporate PA system chirps:
+
+📢 *"Reminder to all staff: Executive lounge champagne is strictly reserved for C-suite personnel. Unregistered drinking will result in automated turret execution. Have a productive fiscal quarter!"* -Platinum Corp Intercom
+
 *(The Dark Tome snaps open at your hip, its pages rustling with dark anticipation)*
 "A fortress of glass and coin... delicious. The air up here is ripe with weak, pampered souls. How shall we dismantle them, human?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### 🎮 PLAYSTYLE CHOICE: Stealth vs. Rampage
 The Skyscraper gives you total operational freedom in how you tackle its 100 floors:
- * **🥷 THE PHANTAM ROUTE (Sneak):**
+ * **🥷 THE PHANTOM ROUTE (Sneak):**
    * Navigate ventilation shafts, shadow corners, and blind spots of security cameras.
-   * Disable security rooms to shut down sector turrets.
-   * Perform silent stealth-assassinations on patrolling corporate guards to swipe their floor keycards without raising the building-wide alarm.
+   * **The Shadow Extraction:** Drop down from overhead air ducts or step out from holographic curtains to deliver swift, Assassin's Creed-style silent neck-snaps with your gauntlet, absorbing each guard's soul instantly before the body hits the floor to keep the floor's alarm at 0%.
+   * Disable security rooms to shut down sector turrets and swipe floor keycards undetected.
  * **💥 THE RAMPAGE ROUTE (Heavy Assault):**
    * Draw the Dark Sword and smash through everything in sight!
    * **The Lock-Down Rule:** Security blast doors are magnetically sealed by corporate AI. The Dark Sword refuses to cut through them until **every single soul on the floor has been reaped**.
@@ -2087,9 +2345,6 @@ Inside, you can hear the faint, frantic pacing of the billionaire CEO... and the
 You slide the Executive Master Keycard into the lock. The golden doors let out a deep, pneumatic hiss as the lock turns green...
 # Soul Count: 73
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
-
-
-
 
 # Chapter 21: Cyber City (Part 3 - Slaves of the Screen)
 ### 💎 THE PENTHOUSE: The CEO & The Bodyguard
@@ -2158,7 +2413,6 @@ ANCIENT VOICE:
 >  * **Appearance:** A floating, retro-styled neon screen drone with animated pixel faces (happy, angry, glitched) and dual floating laser emitters.
 >  * **Base Ability (Glitch Pulse):** Emits a digital EMP wave that scrambles enemy HUDs, stuns robotic enemies, and forces organic foes to attack holographic decoys.
 >  * **Ultimate Upgrade (Overclock Matrix):** Fires an orbital data beam that turns surrounding enemy projectiles into bonus energy shields for you while boosting your attack speed.
-
 ### 🌆 EXITING THE SKYSCRAPER
 Your soul snaps back into reality. You open your eyes, standing in the silent Penthouse over CEO Sterling's body. The Fourth Minor Chaos Beacon is yours.
 
@@ -2218,7 +2472,7 @@ Wignus leans back against a steel pillar, twirling his glowing wooden staff with
 
 "Well, look who grew dark wings," Wignus chuckles, leaning lazily on his staff. "And look at that... the ancient, scary book isn't driving the bus anymore. Look at you, Tome—you're just a battery in his holster now. How embarrassing." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 
-The Dark Tome vibrates with frustrated, helpless rage, unable to deny it
+​The Dark Tome vibrates with frustrated, helpless rage, unable to deny it
 "SILENCE! Human, rip his tongue out!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### ⚔️ BOSS BATTLE: The Holy Trinity
 *(3-v-1 Tactical Showdown)*
@@ -2257,7 +2511,7 @@ It is dead silent—save for the heavy, rhythmic crunch of your dark boots again
 "I don't care about your ancient grudge, and I don't care about saving anyone," you continue, your tone as cold and level as a flatline. "The souls make me stronger. That's the only metric that matters. And I don't need your permission to spend them. Back on that skyscraper, I took those wings myself." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 *(A sinister, raspy whisper echoes directly from the dark steel of your weapon)*
-*"Power... souls... it matters not whose hands grip the hilt, so long as the edge stays wet..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Power... souls... it matters not whose hands grip the hilt, so long as the edge stays wet..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You pause mid-stride, reaching down toward your hip. Your fingers hover right over the leather straps binding the Tome to your belt.
 
@@ -2280,17 +2534,17 @@ Without warning, your **Dark Armor** snaps tight! The heavy steel plates contrac
 
 *(Suddenly, the Dark Sword thrums violently at your hip, its dark steel emitting a low, resonant growl that vibrates right through your gauntlet)*
 
-"Silence, paper." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Silence, paper." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 (The Tome pauses mid-screech, dark runes flickering)
 
-"You claim the blood... but the hand on the hilt is HIS. I am the weapon. He is the master. Know your place." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"You claim the blood... but the hand on the hilt is HIS. I am the weapon. He is the master. Know your place." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 The Tome's pages whip into a frenzy, dark sparks popping wildly from its binding.
 
 "Hold your tongue, hollow iron!" the Tome screeches, pure venom in its tone. "You are nothing but a conduit for MY authority! I forged you! I feed you!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*"You fed us souls..."* the Dark Sword retorts, its edge pulsing with an eerie, loyal violet light. *"But HE gives us purpose. Speak to him with respect, leech... or the next time he reaches for his belt, I will sever your leather straps myself."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"You fed us souls..."* the Dark Sword retorts, its edge pulsing with an eerie, loyal violet light. *"But HE gives us purpose. Speak to him with respect, leech... or the next time he reaches for his belt, I will sever your leather straps myself."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 A tense, deadly silence hangs in the foggy air. The Tome's runes flicker erratically, caught completely off guard by the blade's unexpected defiance.
 You grit your teeth through the agonizing pressure of the armor, a cold, bitter smirk tugging at the corner of your lips as you feel the sword's weight backing you up. Slowly, the armor eases its grip just enough for you to breathe, though the steel remains uncomfortably tight against your chest.
@@ -2334,7 +2588,7 @@ You glare at the shimmering barrier blocking your path, the violet aura around y
 "I'm saying drop the arrogant act, human," the Tome commands, its leather cover tightening against your belt. "You want to enter this city? I need **95 souls** to overload a seal of this magnitude. Look at your hilt—you only have 75. You're 20 souls short." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 *(The Dark Sword vibrates against your hip)*
-*"More... blood... required..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"More... blood... required..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "We aren't banging our heads against this wall," the Tome dictates coldly. "Use your wrist watch. Teleport us back to the ruined village—back to the exact spot where you first picked me up from that cave. We are going to walk the entire path again from the beginning and sweep every sector clean. Leave no survivors, spare no one, and harvest every single soul left in this world." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -2423,10 +2677,10 @@ He explodes into dust, releasing his soul.
 ### 🌉 THE BRIDGE: AN UNSEEN EXECUTION
 You sprint out of the village square, heading toward the wooden bridge that connects the village to the Green Fields.
 You step onto the creaking wooden planks. A sudden memory flashes in your mind: *this was the exact spot where Mike stopped you for the first time.*
-A faint memory flashes in your mind: this was where Mike stood to lecture you. You don't feel anger—just profound, irritation at the memory of his noise. Without stopping your stride, you flick your wrist and hurl the Dark Sword into the high grass on the opposite bank like trash.
-THWACK!
-You stroll across the planks, grab the hilt sticking out of the mud, and pull. Beneath the steel lies fresh gray dust and a rising purple soul. You don't even check who it was.
-"Efficient," the Dark Sword purrs.
+A faint memory flashes in your mind: this was where Mike stood to lecture you. You don't feel anger—just profound irritation at the memory of his noise. Without stopping your stride, you flick your wrist and hurl the Dark Sword into the high grass on the opposite bank like trash.
+​THWACK!
+​You stroll across the planks, grab the hilt sticking out of the mud, and pull. Beneath the steel lies fresh gray dust and a rising purple soul. You don't even check who it was.
+​"Efficient," the Dark Sword purrs.
 > **[SOUL COUNT: 78 / 95]**
 > **[TIMER RESET TO 03:00]**
 ### 🏴‍☠️ THE PIRATE DOCKS & THE SEA CHASE
@@ -2531,26 +2785,26 @@ As you march up the incline, the surrounding air freezes. The sky turns a sickly
 The shadows twist together, forming the second **Nightmare Mike**. It raises a crackling sword of condensed shadow, stepping forward with relentless speed!
 
 *(The Dark Sword in your hand vibrates violently, its dark steel humming with absolute malice)*
-*"More fake shadows?! Waste of time! Where is the blood?! WHERE IS THE FLESH?!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"More fake shadows?! Waste of time! Where is the blood?! WHERE IS THE FLESH?!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You don't pause. You activate your **Dark Wings**, executing a blinding double air-dash straight through the shadow projection!
 *FLASH-CRACK!*
 You spin mid-air, raining down a barrage of dark-infused slashes that tear Nightmare Mike into shreds of useless black smoke! It dissolves into nothingness.
 *(Nightmares carry no souls. Timer: **02:22... 02:21...**)*
 
-*"Tch! Useless dust!"* the Dark Sword snarls in your mind. *"Keep moving! The scientist is waiting!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Tch! Useless dust!"* the Dark Sword snarls in your mind. *"Keep moving! The scientist is waiting!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### 🚨 LYZE HQ: THE EMPTY HALLS
 You reach the giant pneumatic blast doors of Lyze HQ. You thrust the Dark Sword into the seam and pry the steel doors open with sheer physical force.
 You step inside. The bustling base is dead silent. Emergency red strobe lights flash against cold, empty hallways. Every computer terminal has been wiped; every supply crate emptied.
 Near the central hub, a **Dark Constellation** floats above the main platform.
 > **[SAFE ZONE REACHED — TIMER RESET TO 03:00]**
 
-As you step into the central chamber, a automated holo-projection of **Lyze** flares to life in the center of the room.
+As you step into the central chamber, an automated holo-projection of **Lyze** flares to life in the center of the room.
 
 *"If you're watching this, it means you broke down my front door,"* Lyze's recorded voice speaks coldly. *"Did you really think I didn't know what you were? That watch on your wrist wasn't just a GPS—it was recording your heart rate, your telemetry, and every life form that stopped breathing around you from day one."* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 *(The Dark Sword trembles with rage)*
-*"She knew... the rat knew the entire time! She was watching us!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"She knew... the rat knew the entire time! She was watching us!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *"I knew you'd eventually come back to turn this base into an open grave,"* the projection continues. *"So I emptied it. Everyone's gone. And as for you... enjoy my parting gift."* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 ### ⚙️ BOSS BATTLE: THE DREAD-NOUGHT WAR MACHINE
@@ -2577,7 +2831,7 @@ She turns around, her eyes widening as you step out of the smoke—much faster t
 You don't say a word. Your face is a cold mask of absolute violence. You raise the Dark Sword high above your head, stepping forward to split her in half.
 
 *(The Dark Sword's eye flares red)*
-*"YES! DRINK HER BLOOD! SLAUGHTER HER!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"YES! DRINK HER BLOOD! SLAUGHTER HER!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Lyze doesn't panic. She simply looks at your left wrist and taps a rapid sequence of commands onto her pad.
 
@@ -2590,12 +2844,12 @@ A blinding, high-voltage electrical current surges violently out of the communic
 
 Your muscles lock up instantly! The agonizing shock drops you hard onto your knees, your dark armor sparking furiously as your vision goes white! The Dark Sword clatters onto the wet asphalt next to your hand!
 
-*"AAAARGH! TRAITOROUS WRENCH-MONKEY!"* the Dark Sword screams in agony as the electrical feedback surges through its hilt. *"WE WILL SKIN HER ALIVE! GET UP! GET UP!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"AAAARGH! TRAITOROUS WRENCH-MONKEY!"* the Dark Sword screams in agony as the electrical feedback surges through its hilt. *"WE WILL SKIN HER ALIVE! GET UP! GET UP!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Lyze doesn't hesitate for a second. She hits the door close switch, steps backward into the rear of the Cyber-Truck, and the heavy titanium doors slam shut.
 *VROOOOOOOOM!*
 The Cyber-Truck's rocket thrusters ignite, tearing out of the courtyard and speeding across the wasteland at blinding speeds, disappearing into the distant fog.
-### 🌧️ THEAFTERMATH
+### 🌧️ THE AFTERMATH
 The electrical surge finally fizzles out. The watch on your wrist melts into a useless, charred lump of dead metal, completely fried and silent.
 You force yourself back to your feet, your breathing heavy, your dark wings twitching as the static leaves your body. You reach down and scoop up the Dark Sword.
 
@@ -2603,7 +2857,7 @@ You force yourself back to your feet, your breathing heavy, your dark wings twit
 You turn away from the burning tire tracks left by Lyze's truck, preparing to leave the courtyard.
 Suddenly, the Dark Sword in your right hand vibrates violently. The crimson eye on its hilt spins wildly before locking onto the narrow, trash-strewn alleyway tucked behind the main lab.
 
-*"Hold on..."* the Dark Sword rasps, its voice echoing with greedy anticipation. *"Don't walk away just yet, human. I smell it... a faint, greasy little heartbeat hiding in the garbage. ONE LAST SOUL!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Hold on..."* the Dark Sword rasps, its voice echoing with greedy anticipation. *"Don't walk away just yet, human. I smell it... a faint, greasy little heartbeat hiding in the garbage. ONE LAST SOUL!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You shift your grip on the hilt and step into the shadowed alleyway. Crushed metal cans, copper wires, and discarded circuit boards litter the mud.
 At the dead end of the alley sits a rusted, oversized industrial dumpster.
@@ -2652,7 +2906,7 @@ Beneath the dust, a glowing, crystalline fragment catches the pale light—the f
 > **[ITEM ACQUIRED: PAGESTONE #14!]** (Unless you already bought it previously)
 
 *(The Dark Sword purrs with satisfaction, its red eye gleaming in the dark)*
-*"Now HQ is truly dead,"* the blade whispers. *"Eighty-three souls... twelve more, human. Twelve more and we tear that city's barrier to shreds."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Now HQ is truly dead,"* the blade whispers. *"Eighty-three souls... twelve more, human. Twelve more and we tear that city's barrier to shreds."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You sheath your sword, step over the mountains of lag-inducing scrap cluttering the alley, and march toward the exit gate.
 Next stop: **Super Fun Land** and **Wignus Tower**.
@@ -2661,7 +2915,7 @@ Next stop: **Super Fun Land** and **Wignus Tower**.
 You step out of the alley into the foggy plaza outside **Super Fun Land**.
 The Dark Sword at your hip hums with a hollow, vibrating resonance, its red eye scanning the horizon.
 
-*"Tch... dead silence,"* the Dark Sword snarls, thoroughly annoyed. *"No hearts beating in the theme park. No magic humming in Wignus Tower. Both places are completely empty! No flesh, no blood, no souls!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Tch... dead silence,"* the Dark Sword snarls, thoroughly annoyed. *"No hearts beating in the theme park. No magic humming in Wignus Tower. Both places are completely empty! No flesh, no blood, no souls!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "We don't need souls from them," you answer coldly, looking toward the main entrance. "We need speed. The curse timer will liquidate us before we reach the northern mountains on foot." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -2679,7 +2933,7 @@ Positioned directly at the front entrance is a colossal, enchanted stone ramp.
 
 "Hold on!" you growl, gripping the wheel.
 
-*"FLATTEN IT ALL!"* the Dark Sword screams in delight. -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"FLATTEN IT ALL!"* the Dark Sword screams in delight. -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *BOOM!*
 The kart hits the ramp at Mach 3, launching into the air and locking its magnetic tires directly onto the sheer, 90-degree vertical brick wall of Wignus Tower!
@@ -2728,7 +2982,7 @@ A harsh, glitched text overlay flashes across your visor:
 You reach beneath the control console and haul out a heavy, multi-barreled **Emergency Bazooka**.
 
 *(The Dark Sword on your belt laughs maniacally)*
-*"NOW WE'RE TALKING! BLOW THEM ALL TO PIECES!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"NOW WE'RE TALKING! BLOW THEM ALL TO PIECES!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *CREAK-CRASH!*
 The left security door is kicked off its hinges! Screaming, shadowy nightmare entities push through the doorway, alongside sharp-dressed, terrifying **Tax Collectors** carrying glowing briefcases!
@@ -2762,7 +3016,7 @@ The blast completely incinerates the back wall of the office, clearing the hallw
 The screeching sirens die down. The office, the desk, and the radioactive mist dissolve like dust in the wind, dropping you back onto your boots in the real world at the mountain ridge exit.
 The Dark Sword in your hand gleams with fresh, dark energy, pulsing rapidly as eighty-eight souls writhe within its steel.
 
-*"Eighty-eight..."* the blade whispers, its voice trembling with dark euphoria. *"Only SEVEN MORE SOULS, human... seven more and we are unstoppable!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Eighty-eight..."* the blade whispers, its voice trembling with dark euphoria. *"Only SEVEN MORE SOULS, human... seven more and we are unstoppable!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You shoulder your weapon and look up at the towering path leading toward the final sector...
 ### 🏜️ THE FROZEN ASHLANDS: DUNE SURFING
@@ -2770,7 +3024,7 @@ You unfurl your massive, tattered **Dark Wings** and launch yourself into the sk
 Below you, the desolate sands lie still. Lazarus Shade and Snowwy are long dead—their domain now nothing more than a quiet, frozen graveyard. Phantom apparitions of Nightmare Mikes flicker across the dunes below, but you don't waste time descending for them.
 
 *(The Dark Sword's crimson eye rolls in boredom)*
-*"Don't bother with those shadowy hallucinations,"* the blade growls. *"They're empty illusions. No flesh, no blood, zero souls. Save your edge for real meat."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Don't bother with those shadowy hallucinations,"* the blade growls. *"They're empty illusions. No flesh, no blood, zero souls. Save your edge for real meat."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You throw down the **Dune Surfboard**, catching a thermal draft to glide across the frozen crags at blinding speeds, bypassing the desert in minutes and heading straight toward the neon skyline of **Cyber City**.
 ### 🏙️ CYBER CITY: THE NEON GRAVEYARD
@@ -2822,7 +3076,7 @@ His dark, corrupted soul is ripped from his core, swirling violently into the hi
 ### 🏰 THE CAPITAL GATES
 *(The Dark Sword vibrates with uncontrollable, hysterical euphoria, its red eye glowing like a dying star)*
 
-*"NINETY-FOUR SOULS!"* the blade roars in your mind, its voice echoing with sheer, apocalyptic power. *"AND ALL FIFTEEN PAGESTONES! WE HAVE IT ALL, HUMAN! ONE... MORE... SOUL! ONE MORE SINGLE DROP OF BLOOD AND THE BOUNDARY BREAKS!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"NINETY-FOUR SOULS!"* the blade roars in your mind, its voice echoing with sheer, apocalyptic power. *"AND ALL FIFTEEN PAGESTONES! WE HAVE IT ALL, HUMAN! ONE... MORE... SOUL! ONE MORE SINGLE DROP OF BLOOD AND THE BOUNDARY BREAKS!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *(The Dark Tome lies open on the cold stone, its pages fluttering with desperate violet sparks)*
 *"You see?!"* the Tome demands, its leather cover twitching on the pavement. *"You need me! Pick me up, human! Without my incantations, you won't know how to channel all fifteen PageStones once the Capital barrier is down!"* -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -2851,16 +3105,16 @@ The Dark Tome floats down, stopping inches from your nose, its pages snapping sh
 "Pick me up, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### ⛓️ RE-ATTACHING THE CHAINS
 Your vision swims with red static as the armor crushes your ribs. You stare at the floating grimoire, your ego burning hotter than the electrical shock from Lyze's watch. You were wrong. You aren't the ruler yet—you're still the hound.
-You force your trembling gauntlet forward, wrapping your fingers tightly around the spine of the book.
+​You force your trembling gauntlet forward, wrapping your fingers tightly around the spine of the book.
 
-"We finish the Capital..." you rasp through cracked lips, the shadow blades inches from your throat dissolving into mist. "...then we settle who holds the leash." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"We finish the Capital..." you rasp through cracked lips, the shadow blades inches from your throat dissolving into mist. "...then we settle who holds the leash." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"That's a good boy," the Tome purrs softly as it snaps back onto your hip.
+​"That's a good boy," the Tome purrs softly as it snaps back onto your hip.
 
 The moment your palm makes contact, the shadow swords dissolve into thin air. The Dark Tome snaps itself right back onto the heavy leather holster at your belt, locking its steel straps shut around your waist with a heavy, final *CLICK*.
 
 *(The Dark Sword's crimson eye rolls in dark amusement)*
-*"Heh... power has a price, master... and the book holds the receipts..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Heh... power has a price, master... and the book holds the receipts..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### 🔮 THE THRESHOLD OF THE CAPITAL
 You force yourself back to your feet, coughing as the armor eases its deadly pressure back to normal operating levels.
 Standing before you are the monolithic **Capital Gates**, pulsing with the radiant Anti-Chaos Forcefield.
@@ -2872,9 +3126,9 @@ You look down at the dark steel of your weapon, holding **94 souls** within its 
 
 *The Dark Tome hums with ancient, suffocating power at your belt* "One soul opens the gate," the Tome dictates softly. "Six more unlocks your absolute, unchecked form."
 
-You look at the colossal iron doors of the Capital, 94 purple souls surging within your blade and 15 PageStones in The Tome.
+​You look at the colossal iron doors of the Capital, 94 purple souls surging within your blade and 15 PageStones in The Tome.
 
-"Let them open it," you say coldly. "I'll find all six inside." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"Let them open it," you say coldly. "I'll find all six inside." -[[TALE OF A THOUSAND/Characters/You\|You]]
 # Soul Count: 94 / 95 Needed (Barrier) | 100 Needed (Total Power)
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 15 / 15 (COMPLETE!)
 
@@ -2901,16 +3155,27 @@ From the storm-wracked clouds above, a massive shadow cuts through the lightning
 ### The Gate & The Shadow
 The moment Dani's soul feeds into the Tome, the book flares with blinding, corrupted light. The Anti-Chaos Forcefield violently overloads—shattering into millions of glowing, crystalline dust particles that rain down onto the threshold.
 You step over the threshold of the ruined gates and enter the legendary Capital. The grandeur is unsettling. Silent avenues, abandoned markets, and quiet fountains line the streets. It is entirely empty; the populace successfully evacuated while Dani bought them time with her life.
-### The Warning (Wignus & Alice)
-Deep within the silent avenues, standing at the base of the grand marble staircase leading to the Central Beacon, two final sentinels step out from the shadows: **Wignus** and **Alice**.
-> *"You won't step another foot toward the royal chamber,"* Wignus growls, unsheathing his battle-worn staff, his knuckles white against the hilt. —[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
-> 
-> *"He's just a boy!"* Alice screams through raw, bitter tears, raising her sniper as holy magic crackles around her fingers. *"We won't let you touch the Prince!"* —[[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
-> 
-The two throw themselves at you with desperate, reckless fury. Wignus acts as an aggressive vanguard, charging with heavy shield-bashes, while Alice rains down defensive light barriers and offensive holy bolts from the stairs above.
-During the brutal clash, the harrowing truth comes to light: **Mike**, the simple, kind-hearted boy you met earlier in your journey, is **The Prince Of The Tale**.
-Wignus and Alice fight with every ounce of their remaining lifeforce to protect their young lord. But against the overwhelming weight of ninety-five souls and your corrupted dark equipment, their bravery is nothing more than a tragedy. You parry Wignus' desperate overhead slam, run him through, and swing around to strike down Alice as her barrier shatters.
-You harvest their souls (**96th & 97th**), leaving their lifeless bodies draped across the pristine marble steps.
+### The Sentinels of the Staircase (Wignus & Alice)
+Deep within the silent avenues, standing at the base of the grand marble staircase leading to the Central Beacon, two final guardians step out from the light: **Wignus** and **Alice**.
+
+Unlike the frantic defenders of the lower sectors, Wignus stands perfectly composed. He rests his ancient, battle-worn staff against the marble step with an easy, unhurried posture. An ancient, faithful servant of Lampros who has guarded this realm since the Tome's original sealing, Wignus holds no fear in his eyes. He isn't desperate—he is tranquil, content with a long life spent in holy service, fully accepting that today he meets the dark fate foretold centuries ago.
+
+> *"Ah... so the dark cycle turns once more,"* Wignus speaks softly, his voice calm and warm as a fading twilight. *"I always knew the shadows of Skotos would return... and that I would fall beneath their blade. I have lived a long, blessed life in Lampros' grace, and I am grateful to have served until the end."* —[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+
+Standing beside him on the upper steps, her sniper rifle charged with crackling radiant energy, is **Alice**. Tears glisten in her eyes—not of terror, but of decades of suppressed grief and bitter determination.
+
+> *"Look at you... wrapped in that cursed iron,"* Alice's voice trembles with raw emotion. *"You have no idea whose legacy you're spitting on, do you?! You are her son! You are the child of the Cleric who gave her life to seal the previous Dark One!"* —[[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+
+During the high-stakes clash at the base of the stairs, the deep history comes to light:
+Alice was your **Mother's apprentice** (Part 1). When your Mother unleashed her divine sacrificial explosion in the dark forest—freezing the previous dark host solid and leaving the Orchid of Power blooming in the ash—Alice was just a young initiate. Wignus, who fought in that original trio alongside your Mother and the Warrior, brought back the tragic news. Devastated, Alice swore an eternal oath of vengeance against the Dark Tome and the entity of Skotos. She watched the Capital fall into paranoid isolation after your Mother's death, training under Wignus and waiting for the day the dark curse would resurface.
+
+And now, standing before her master's son—who has been completely consumed by the very darkness that killed his mother—Alice fights alongside Wignus to protect **Prince Mike**, the simple, kind-hearted boy you met earlier in your journey.
+
+Wignus casts serene, high-tier light barriers and slow, deliberate holy strikes, fighting with graceful, ancient mastery while Alice fires radiant piercing bolts from above. But against ninety-five souls and your unstoppable dark power, the divine order yields.
+
+You step past Wignus' calm staff parry and run him through. The old wizard lets out a soft, peaceful sigh, smiling gently as his body dissolves into a fountain of shimmering, golden light dust. Turning to Alice, your blade shatters her final barrier. She looks at you one last time with tragic pity before her physical form shatters into brilliant, ethereal motes of holy white light.
+
+You harvest their souls (**96th & 97th**), as the swirling trails of divine dust drift away on the wind, leaving the grand staircase empty and the doors to the Central Beacon wide open.
 ## ACT II: The Broken Reunion
 ### The Last Beacon
 You push open the gilded doors at the top of the stairs, entering the massive, vaulted chamber of the Central Beacon. Prince Mike stands alone near the pulsating crystal core. Hearing your heavy boots echo against the stone, he turns toward the entrance.
@@ -2930,10 +3195,10 @@ Prince Mike steps forward, drawing his blade to fight alongside him, but your fa
 ### The Unforgivable Strike
 Your father raises Lampros' Blade, its holy light illuminating your dark visor. He lunges forward with a heavy strike—but mid-swing, his hands freeze. His eyes fill with tears. He can't bring himself to cut down his own child.
 
-"I held you when you were born..." he whispers, his grip on the hilt slipping. "I can't... I can't do it..."
+​"I held you when you were born..." he whispers, his grip on the hilt slipping. "I can't... I can't do it..."
 
-You don't hesitate. You step inside his open guard and drive the Dark Sword straight through his chest.
-Prince Mike lets out a blood-curdling scream of horror as your father's soul (98th) is violently torn into the Tome, rushing to your father's side as the old man breathes his last. Mike looks up at you, his eyes wide, trembling as he realizes the horrifying monster standing before him—a killer so completely consumed by darkness that they wouldn't even hesitate to butcher their own flesh and blood.
+​You don't hesitate. You step inside his open guard and drive the Dark Sword straight through his chest.
+​Prince Mike lets out a blood-curdling scream of horror as your father's soul (98th) is violently torn into the Tome, rushing to your father's side as the old man breathes his last. Mike looks up at you, his eyes wide, trembling as he realizes the horrifying monster standing before him—a killer so completely consumed by darkness that they wouldn't even hesitate to butcher their own flesh and blood.
 Grief mutates instantly into blinding, righteous fury. Mike reaches down and picks up **Lampros' Blade** from your father's limp hand. A blinding shockwave of holy energy erupts from the sword as magnificent, fiery **Light Wings** burst from Mike's back—burning bright against the dark, jagged wings sprouting from your armor.
 ## ACT III: Prince Mike (The Prince of the Tale)
  [ BOSS ENCOUNTER: PRINCE MIKE ]
@@ -3007,11 +3272,11 @@ The Tome floats a inch closer. The shadow beneath it begins to stretch unnatural
 
 "Your bloated ego blinded you," the Tome snarls, pure malice dripping from every syllable. "You were so drunk on power and desperate for the finish line that you cut corners." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-Your mind races backwards through your journey. Images flash violently through your head—Lyze escaping in her truck while you stood paralyzed, bypassing empty outposts, ignoring stragglers just to sprint to the Capital Gates. You didn't leave people alive out of mercy—you left them because you were arrogant, reckless, and hasty.
+​Your mind races backwards through your journey. Images flash violently through your head—Lyze escaping in her truck while you stood paralyzed, bypassing empty outposts, ignoring stragglers just to sprint to the Capital Gates. You didn't leave people alive out of mercy—you left them because you were arrogant, reckless, and hasty.
 
-"I... I rushed," your voice cracks, the sudden, terrible realization choking you from the inside out. "I thought... I thought I already had enough..." -[[TALE OF A THOUSAND/Characters/You\|You]]
+​"I... I rushed," your voice cracks, the sudden, terrible realization choking you from the inside out. "I thought... I thought I already had enough..." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Precisely," the Tome whispers. "You played the grand reaper, yet you skipped the weak because you thought you were invincible. And now... you are one soul short." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+​"Precisely," the Tome whispers. "You played the grand reaper, yet you skipped the weak because you thought you were invincible. And now... you are one soul short." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 You grit your teeth, forcing your burning arm to lift the Dark Sword, pointing the glowing edge directly at the floating book. "It doesn't matter! I'll go back! I'll take Lyze's soul right now! I'll finish it!" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -3037,11 +3302,12 @@ SPECIAL VICTORY REWARDS UNLOCKED:
 • Grants Early Access Content Trigger for Part 2 
 
 > (The victory screen glitches violently as red static tears across the UI) 
-> The Dark Tome: "Impressive work, puppet. But you forgot one simple rule of my game..."* —[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+> The Dark Tome: "Impressive work, human. But you forgot one simple rule of my game..." —[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 > 
 Before you can celebrate your impossible victory, the dark armor worn on your shoulders suddenly flares with violent, hostile authority!
 *CLANG-CRUNCH!*
 Without warning, the steel plates contract instantly into an iron maiden—smashing inward, crushing your bones, and pulverizing your physical body into ash inside the suits hollow shell.
+
 ## 🖤 Epilogue: The Darkness Falls
 The Dark Tome claims your soul—the **100th Soul**.
 The empty, heavy armor floats off the ground, settling onto the shadowy frame of the Dark Puppet, sealing the ancient entity of **Skotos** into physical, steel form.
@@ -3065,4 +3331,6 @@ The screen snaps to black instantly.
 
 
 TO BE CONTINUED... IN PART 2
+
+
 

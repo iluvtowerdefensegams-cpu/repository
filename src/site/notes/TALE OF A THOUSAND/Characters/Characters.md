@@ -21,13 +21,13 @@ For Soul order, go to [[TALE OF A THOUSAND/Part 1/Others/Soul\|Soul]]
 - ## [[TALE OF A THOUSAND/Characters/Explorers\|Explorers]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Witch\|Witch]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]] ✅
-- ## [[TALE OF A THOUSAND/Characters/Brandon The Baker\|Brandon The Baker]]
-- ## [[TALE OF A THOUSAND/Characters/Steve The BlackSmith-Smithy Steve\|Steve The BlackSmith-Smithy Steve]]
-- ## [[TALE OF A THOUSAND/Characters/Scratch\|Scratch]]
-- ## [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]]
-- ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+- ## [[TALE OF A THOUSAND/Characters/Brandon The Baker\|Brandon The Baker]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Steve The BlackSmith-Smithy Steve\|Steve The BlackSmith-Smithy Steve]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Scratch\|Scratch]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Scrappy\|Scrappy]] ✅
+- ## [[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]] ✅
 - ## [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
-- ## [[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+- ## [[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 - ## [[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 - ## [[TALE OF A THOUSAND/Characters/Samuel The Storymaster\|Samuel The Storymaster]]
 - ## [[TALE OF A THOUSAND/Characters/Sebastian The Shadow Speaker\|Sebastian The Shadow Speaker]]
@@ -36,7 +36,7 @@ For Soul order, go to [[TALE OF A THOUSAND/Part 1/Others/Soul\|Soul]]
 - ## [[TALE OF A THOUSAND/Characters/Mary The Musician\|Mary The Musician]]
 - ## [[TALE OF A THOUSAND/Characters/Pike The Poisoner\|Pike The Poisoner]]
 - ## [[TALE OF A THOUSAND/Characters/Yeti\|Yeti]]
-- ## [[TALE OF A THOUSAND/Equipment/Armours/The Dark Armour\|The Dark Armour]]
+- ## [[TALE OF A THOUSAND/Characters/The Dark Armour\|The Dark Armour]]
 - ## [[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
 - ## [[TALE OF A THOUSAND/Characters/Snowwy The Snowman\|Snowwy The Snowman]]
 - ## [[TALE OF A THOUSAND/Characters/Haz-Guard\|Haz-Guard]]

@@ -96,18 +96,23 @@ You close the transmission, looking up through the neon fog toward the towering 
 
 
 
-# Chapter 21: Cyber City (Part 2 - The Skyscraper Ascent)
+# Chapter 21 Part 2 - The Skyscraper Ascent
 Stepping into the massive glass lobby of the **Platinum Skyscraper**, the towering atrium glimmers with polished white marble, holographic fish swimming through the air, and pristine chrome elevators.
 High above, heavy corporate security drones hum in rhythmic patrol patterns. The front gates snap shut, locking you inside the monolith.
+
+### 🔊 Automated Glitched Intercom: Platinum Corp AI
+As you ascend the chrome elevators, static crackles through ceiling speakers as the corporate PA system chirps:
+
+📢 *"Reminder to all staff: Executive lounge champagne is strictly reserved for C-suite personnel. Unregistered drinking will result in automated turret execution. Have a productive fiscal quarter!"* -Platinum Corp Intercom
 
 *(The Dark Tome snaps open at your hip, its pages rustling with dark anticipation)*
 "A fortress of glass and coin... delicious. The air up here is ripe with weak, pampered souls. How shall we dismantle them, human?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ### 🎮 PLAYSTYLE CHOICE: Stealth vs. Rampage
 The Skyscraper gives you total operational freedom in how you tackle its 100 floors:
- * **🥷 THE PHANTAM ROUTE (Sneak):**
+ * **🥷 THE PHANTOM ROUTE (Sneak):**
    * Navigate ventilation shafts, shadow corners, and blind spots of security cameras.
-   * Disable security rooms to shut down sector turrets.
-   * Perform silent stealth-assassinations on patrolling corporate guards to swipe their floor keycards without raising the building-wide alarm.
+   * **The Shadow Extraction:** Drop down from overhead air ducts or step out from holographic curtains to deliver swift, Assassin's Creed-style silent neck-snaps with your gauntlet, absorbing each guard's soul instantly before the body hits the floor to keep the floor's alarm at 0%.
+   * Disable security rooms to shut down sector turrets and swipe floor keycards undetected.
  * **💥 THE RAMPAGE ROUTE (Heavy Assault):**
    * Draw the Dark Sword and smash through everything in sight!
    * **The Lock-Down Rule:** Security blast doors are magnetically sealed by corporate AI. The Dark Sword refuses to cut through them until **every single soul on the floor has been reaped**.
@@ -151,7 +156,7 @@ You slide the Executive Master Keycard into the lock. The golden doors let out a
 # Soul Count: 73
 # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 12
 
-# Chapter 21: Cyber City (Part 3 - Slaves of the Screen)
+# Chapter 21 Part 3 - Slaves of the Screen
 ### 💎 THE PENTHOUSE: The CEO & The Bodyguard
 The golden elevator doors slide open with a silent hiss, revealing a sprawling, multi-million-dollar penthouse suite. Floor-to-ceiling panoramic glass overlooks the sprawling neon lights of Cyber City.
 Standing behind a massive obsidian desk, frantically pouring himself a glass of expensive champagne with trembling hands, is the owner of the tower—**CEO Sterling**.
@@ -234,7 +239,7 @@ The rain pours over your heavy dark armor. Ahead lies the long, quiet road to th
 
 
 
-# Chapter 21: Cyber City (Part 3 - The Leap & The Trinity)
+# Chapter 21 Part 4 - The Leap & The Trinity
 ### 🪶 THE LEAP OF FAITH
 You step out onto the rain-slicked ledge of the 100th-floor skybridge. Below you, Cyber City is a sea of flickering neon, howling wind, and miles of empty drop.
 

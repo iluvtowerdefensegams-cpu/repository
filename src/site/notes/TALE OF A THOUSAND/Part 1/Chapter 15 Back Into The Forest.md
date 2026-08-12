@@ -17,6 +17,8 @@ This fight shatters standard combat. The arena becomes a shifting, dynamic night
  * **The Volley:** Samuel hovers in the back, firing magical projectile runes while shouting out rapid-fire questions about the world's lore.
  * **The Execution:** You must use your **Grappling Hook** to swing through the obby, dodging Jack's incoming projectile axes, and land explicitly on the platform that represents the *correct* answer to disable Samuel's warding shield.
  * **High Risk/Reward:** Land on the right platform, and Samuel suffers massive recoil damage while Jack gets briefly stunned. Land on the wrong platform—or fall into the void—and Samuel casts a high-tier spell that restores their shared health bar while blasting your HP.
+- Puppy's Hint: When Samuel asks a difficult trivia question, Puppy can shoot a tiny spectral thread pointing toward the correct platform option (A, B, or C) if the player takes too long to decide!
+- Scepter's Distraction: Scepter can release a burst of confetti/Funergy to temporarily blind Jack when he tries to throw a battle axe mid-grapple.
 With a final, perfectly timed grapple, you strike the ultimate correct platform. The magical feedback triggers a violent explosion. The floating obby shatters, and both brothers crash heavily onto the broken stone steps of the shortcut gate.
 Jack falls over Samuel, shielding his younger brother with his own body until the very end. Their forms begin to flicker and turn to dark ash.
 

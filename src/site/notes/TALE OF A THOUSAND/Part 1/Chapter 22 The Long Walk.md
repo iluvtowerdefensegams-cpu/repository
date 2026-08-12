@@ -16,7 +16,7 @@ It is dead silent—save for the heavy, rhythmic crunch of your dark boots again
 ​"I don't care about your ancient grudge, and I don't care about saving anyone," you continue, your tone as cold and level as a flatline. "The souls make me stronger. That's the only metric that matters. And I don't need your permission to spend them. Back on that skyscraper, I took those wings myself." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
 *(A sinister, raspy whisper echoes directly from the dark steel of your weapon)*
-*"Power... souls... it matters not whose hands grip the hilt, so long as the edge stays wet..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Power... souls... it matters not whose hands grip the hilt, so long as the edge stays wet..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You pause mid-stride, reaching down toward your hip. Your fingers hover right over the leather straps binding the Tome to your belt.
 
@@ -39,17 +39,17 @@ Without warning, your **Dark Armor** snaps tight! The heavy steel plates contrac
 
 *(Suddenly, the Dark Sword thrums violently at your hip, its dark steel emitting a low, resonant growl that vibrates right through your gauntlet)*
 
-"Silence, paper." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Silence, paper." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 ​(The Tome pauses mid-screech, dark runes flickering)
 
-​"You claim the blood... but the hand on the hilt is HIS. I am the weapon. He is the master. Know your place." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+​"You claim the blood... but the hand on the hilt is HIS. I am the weapon. He is the master. Know your place." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 The Tome's pages whip into a frenzy, dark sparks popping wildly from its binding.
 
 "Hold your tongue, hollow iron!" the Tome screeches, pure venom in its tone. "You are nothing but a conduit for MY authority! I forged you! I feed you!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*"You fed us souls..."* the Dark Sword retorts, its edge pulsing with an eerie, loyal violet light. *"But HE gives us purpose. Speak to him with respect, leech... or the next time he reaches for his belt, I will sever your leather straps myself."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"You fed us souls..."* the Dark Sword retorts, its edge pulsing with an eerie, loyal violet light. *"But HE gives us purpose. Speak to him with respect, leech... or the next time he reaches for his belt, I will sever your leather straps myself."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 A tense, deadly silence hangs in the foggy air. The Tome's runes flicker erratically, caught completely off guard by the blade's unexpected defiance.
 You grit your teeth through the agonizing pressure of the armor, a cold, bitter smirk tugging at the corner of your lips as you feel the sword's weight backing you up. Slowly, the armor eases its grip just enough for you to breathe, though the steel remains uncomfortably tight against your chest.
@@ -93,7 +93,7 @@ You glare at the shimmering barrier blocking your path, the violet aura around y
 "I'm saying drop the arrogant act, human," the Tome commands, its leather cover tightening against your belt. "You want to enter this city? I need **95 souls** to overload a seal of this magnitude. Look at your hilt—you only have 75. You're 20 souls short." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 *(The Dark Sword vibrates against your hip)*
-*"More... blood... required..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"More... blood... required..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "We aren't banging our heads against this wall," the Tome dictates coldly. "Use your wrist watch. Teleport us back to the ruined village—back to the exact spot where you first picked me up from that cave. We are going to walk the entire path again from the beginning and sweep every sector clean. Leave no survivors, spare no one, and harvest every single soul left in this world." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 

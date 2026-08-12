@@ -4,6 +4,9 @@
 
 # Chapter 17: Scrambled Chemistry
 The air transitions from the damp forest air into a suffocating, lime-green haze. You pull Salariem’s heavy gas mask over your face, the mechanical filter clicking into place just as the environment shifts into a toxic, bubbling mire.
+
+(Muffled Audio & Vignette: Equipping the Gas Mask as you enter the Swamps adds a subtle muffled breathing sound effect and a protective green-tinted visor HUD overlay, shielding your HP from the toxic fog!)
+
 Tucked into the roots of a giant, dying willow tree is a ramshackle wooden laboratory covered in glowing flasks and copper pipes. You don't burst down the door; you just push it open.
 Inside, there’s no dramatic music. A man covered in stained alchemist aprons and heavy rubber gloves is casually stirring a boiling vat, hummed text boxes floating over his head. This is **Pike the Poisoner**. He doesn't even look up at first.
 
@@ -38,7 +41,7 @@ Before you can even draw your sword, Pike slams his fist onto a giant red lever 
 ### 🤢 BOSS BATTLE: Pike The Poisoner
 ### 🌀 MECHANICS: Total Sensory Distortions
 This isn't a clean arena fight. It's a claustrophobic, panicked struggle inside a small room filling with neurotoxins.
- * **Scrambled Controls:** The purple gas instantly bypasses your mask. Your physical keyboard keys randomly swap every 15 seconds. Pressing W might make you move left, while Spacebar suddenly triggers your inventory. You have to constantly adapt to the chaotic UI shifts on the fly.
+ * **Scrambled Controls:** The purple gas instantly bypasses your mask. Your physical keyboard keys randomly swap every 15 seconds. Pressing W might make you move left, while Spacebar suddenly triggers your inventory. You have to constantly adapt to the chaotic UI shifts on the fly. (Btw to not make it impossible the HUD shows what each button does and WASD only change with WASD (So like w is left d is up a is right a is down))
  * **The Confusion Status:** Pike doesn't fight honorably. He throws volatile acid flasks that blind your screen and creates mirror-image illusions of himself in the fog.
  * **The Ticking Clock:** The longer the fight goes, the more your max HP permanently caps down due to the toxic fumes. You have to hunt the real Pike down through the panic before you suffocate.
 You push through the absolute chaos of your scrambled movements, predicting a lunging strike from the fog, and drive your blade straight through Pike's chest, throwing him crashing backward into his own alchemy shelf.
@@ -58,7 +61,7 @@ Suddenly, a violent, agonizing pain shoots through your chest. Your character dr
 "Your body is cracking, you fool! Fifty souls! A mortal frame cannot contain this much concentrated energy without shattering to dust! Your mind and body will be pulverized in minutes if we keep pushing forward like this!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
 *(The glowing purple eye on the Dark Sword's guard flares with a sharp, pulsing light, pointing its tip directly toward the frozen peaks above)*
-"Master... I sense it... High above... encased in ancient, unyielding ice... **The Dark Armour**! We must reach it before your vessel gives out!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... I sense it... High above... encased in ancient, unyielding ice... **The Dark Armour**! We must reach it before your vessel gives out!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You force yourself back to your feet, gritting your teeth as the dark runes pulse under your skin, holding your cracking form together just long enough to move.
 

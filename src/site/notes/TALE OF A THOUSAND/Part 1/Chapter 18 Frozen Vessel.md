@@ -29,7 +29,7 @@ The tower hums to life, flashing a brilliant electric blue. A sweeping pulse of 
 As you turn to begin your descent, your body violently contorts. Dark, jagged cracks glow through your thermal suit as the raw weight of 50 souls threatens to pulverize your physical frame. You collapse to your knees, gasping for breath.
 
 *(The Dark Sword vibrates wildly in your hand, its glowing purple eye snapping frantically toward a shadowed cave opening down the ridge)*
-"Master! In there! Deep inside the ice... the resonance is overwhelming! **The Dark Armour** is inside!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master! In there! Deep inside the ice... the resonance is overwhelming! **The Dark Armour** is inside!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *(Its pages flapping with desperate urgency)* "Move, partner! Move before your vessel shatters!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -46,13 +46,15 @@ The curse countdown timer locks onto the top of your screen, ticking down rapidl
 Because the Yeti is a colossal brute, standard parries are completely useless—attempting to parry its wild clubbing attacks will shatter your guard and deal full damage.
 * **The Ticking Clock**: You have strictly 3 minutes to finish this fight before your vessel completely shatters. You cannot afford to play defensive or stall.
  * **The Combat:** You must rely strictly on precise dodge-rolls and Jetpack dashes to avoid its sweeping arm slaps, leaping body slams, and ground-ripping ice shockwaves.
- * **The Environmental Hazard:** Every time the Yeti slams the ground, stalactites fall from the ceiling. You can lure its massive leap-attacks directly under falling ice pillars to deal heavy stun damage to its skull.
+ * **The Environmental Hazard:** Every time the Yeti slams the ground, stalactites fall from the ceiling. You can lure its massive leap-attacks directly under falling ice pillars to deal heavy stun damage to its skull. You can also trick it to punch spiky ice formations.
 You dodge a final, furious charge, slicing through its hamstrings with the Dark Sword. The towering beast lets out a final roar, stumbling forward with incredible momentum and crashing headfirst into the giant block of ice.
 The sheer weight of the monster pulverizes the glacier into millions of flying shards, burying the Yeti beneath the rubble while completely freeing the armor!
 ### 🛡️ CLAIMING THE DARK ARMOUR
-From the shattered ice, the **Dark Armour** hovers, radiating a heavy, suffocating aura of absolute dread. The moment you step close, the armor doesn't wait—it violently snaps onto your body, wrapping around your chest, shoulders, and limbs in cold, heavy obsidian plates.
+From the shattered ice, [[TALE OF A THOUSAND/Characters/The Dark Armour\|The Dark Armour]] hovers, radiating a heavy, suffocating aura of absolute dread. The moment you step close, the armor doesn't wait—it violently snaps onto your body, wrapping around your chest, shoulders, and limbs in cold, heavy obsidian plates.
 The agonizing cracks on your skin instantly seal shut. The raw, volatile weight of the 50 souls is suddenly contained, locked inside the heavy sarcophagus of steel.
 
+(Metallic Footsteps & Voice Distortion: Moving around the world or selecting dialogue now features a heavy obsidian footstep thud and a deep, ominous voice filter on your text boxes.
+Dark Resonance Aura: Dark aura particles gently emanate from your character's silhouette, visually representing the 50 souls contained safely inside the armor!)
 #### VESSEL STALEMATE: STABILIZED
 With a sharp metallic shatter effect, the red 3-minute timer on your screen cracks into pieces and completely disappears.
 

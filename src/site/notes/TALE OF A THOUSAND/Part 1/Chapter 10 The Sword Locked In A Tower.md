@@ -23,13 +23,13 @@ You cross the threshold, beginning a brutal, vertical gauntlet up the multi-floo
  * **⚔️ Floors 1–5: The Arcane Gauntlet:** You fight through waves of Wignus’s personal mages, enchanted stone servants, and glowing summons. You systematically cut down the opposition, harvesting **10 souls** total to feed the Tome's insatiable hunger.
  * **🧩 Floors 6–8: The Defense & The Obby:** You navigate complex, trap-laden platforming rooms (obbies) before triggering Tower Defense-style arenas, where you must deploy tactical barriers to hold off waves of volatile elemental entities.
  * **🏃 Floor 9: The Infinite Outer Wall (High-Speed Flight):**
-   * *The Mechanic:* A frantic, vertical *Subway Surfers* style sequence. Your character takes flight, scaling the sheer, infinite outer brick wall of the tower at extreme speeds. You must rapidly dodge falling debris, slide left and right across lanes, and slash through obstacles. You only pierce through the heavy storm clouds to reach the apex after achieving a high score threshold.
+   * *The Mechanic:* A frantic, vertical *Subway Surfers* style sequence. Your character takes flight, scaling the sheer, infinite outer brick wall of the tower at extreme speeds. You must rapidly dodge falling debris, slide left and right across lanes, and slash through obstacles. You only pierce through the heavy storm clouds to reach the apex after achieving a high score threshold. Close-dodging objects and destroying them without getting hit builds up combo. High combo raises the multiplier, and reaching a certain amount of combo unlocks cool skins.
 ## ⚡ The Apex Confrontation
 You crash onto the open-air roof of the tower. The wind howls violently, throwing rain across the stone platform. Wignus stands at the center, wearing majestic but slightly misaligned wizard robes, casually leaning on a staff.
 
-"You sealed my essence! You condemned me to this pathetic, soul-starved existence! It is time you pay for what you did, wizard!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"You sealed my essence! You condemned me to this pathetic, soul-starved existence! It is time you pay for what you did, wizard!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]] (Wignus didn't do it alone, he actually was part of the team who sealed the tome. He's the only one that's still alive though.)
 
-*Scratching his beard, entirely unfazed*"Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+*Scratching his beard, entirely unfazed* "Alright, arright. You talk a big game for a textbook. Come git meh." -[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
 ## ⚔️ BOSS BATTLE: Wignus the Wizard (Phase 1)
  * **The Combat:** Wignus is highly elusive. He warps across the rooftop in flashes of blue light, casts erratic tracking spells, summons spectral weapons that hover and slash independently, and occasionally casts a quick restoration spell to mend his wounds.
 You land a crushing blow, fracturing Wignus's magical barrier. He stumbles back, clutching his side as his health bar drops into the red. He chuckles softly.
@@ -68,7 +68,7 @@ But sitting beneath the stone is a pitch-black, jagged katana—**The Dark Sword
 You lift the pitch-black, jagged katana from the chest. Violet energy violently surges from the Tome down your arm, searing dark runes into your skin. A glowing purple eye snaps open on the sword's guard, tracking your face.
 
 ​(A cold, echoing voice whispers directly inside your head)
-"Master... you have awakened me from the long night. Command me, and I shall reap." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... you have awakened me from the long night. Command me, and I shall reap." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 ​You don't flinch. You flex your fingers around the hilt, testing its weight with a cold, slow nod.
 

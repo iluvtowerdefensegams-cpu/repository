@@ -116,7 +116,7 @@ You step down onto the beach, heading toward the treasure chest. But right befor
 
 "He was a pirate. He would have hunted us down." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-*A single tear falls down his cheek, his voice trembling but firm* "That doesn't give you the right to play executioner! You can't just go around slaughtering everyone in sight! I sense the frustration, the anger, and the deep depression twisting inside you, `<username`>. But you don't have to let it control you! You can choose who to be. No matter where you are, or what you do... *you shouldn't change who you are inside!*" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+*A single tear falls down his cheek, his voice trembling but firm* "That doesn't give you the right to play executioner! You can't just go around slaughtering everyone in sight! I sense the frustration, the anger, and the deep depression twisting inside you, `<username>`. But you don't have to let it control you! You can choose who to be. No matter where you are, or what you do... *you shouldn't change who you are inside!*" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 
 Hearing Peter’s exact final words echoes like a thunderclap in your mind. Your character takes a step back, visibly shaken, drawing their weapon defensively.
 

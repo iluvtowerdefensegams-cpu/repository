@@ -50,14 +50,15 @@ SEPTER *(Narrating as the backdrop moves)*:
  *One day, the battle grown old, Lampros sought to make a peace treaty with Skotos. But Skotos saw this as an opportunity and struck at Lampros' weakness.*
 *Little did Skotos know... it was actually a trap!*
 
-The golden puppet of Lampros splits open, revealing dozens of smaller wizard and knight puppets hiding inside the scenery.
+(The golden puppet of Lampros splits open, revealing dozens of smaller wizard and knight puppets hiding inside the scenery.)
+
 *When he tried to smash Lampros to pieces, Skotos was surprised to find all of Lampros' servants ready to cast a spell. A spell that would lock Skotos within physical objects, scattering his essence across a set of fighting equipment that belonged to an old warrior! After having defeated Skotos, Lampros entered an eternal slumber state, turning into a giant Chaos Beacon...*
 
 (The stage hands pull a lever, and the Skotos puppet is violently dragged apart, its pieces forced into a tiny wooden book, a sword, and a set of armor. A massive, glowing replica of a Chaos Beacon rises from the center stage floor.)
 
 (The music suddenly cuts to a low, droning, unsettling chord. The Septer puppet turns its wooden head 180 degrees, staring directly into your character's eyes.)
 
-*But the rumors say... that someone has brought Skotos back to life. A kid has found the locker where Skotos was sealed, and is now working with him to restore his power...*
+*But the rumors say... that someone intends to bring Skotos back to life. A kid has found the locker where Skotos was sealed, and is now working with him to restore his power...*
 *But those are just rumors... Right?"*
 
 (Glancing down at the Dark Tome with a cold, suspicious glare)

@@ -3,8 +3,8 @@
 ---
 
 [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
-[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
-[[TALE OF A THOUSAND/Equipment/Armours/The Dark Armour\|The Dark Armour]]
+[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
+[[TALE OF A THOUSAND/Characters/The Dark Armour\|The Dark Armour]]
 
 When Skotos was defeated by Lampros, it's soul was fragmented across the dark set. The Dark Tome (main element of the set) is the smarts. It aims to restore Skotos by recovering it's souls and pages and bringing the set to [[TALE OF A THOUSAND/Part 1/Extras/Central Beacon\|Central Beacon]], where consuming Lampros' essence it can be reborn anew
 

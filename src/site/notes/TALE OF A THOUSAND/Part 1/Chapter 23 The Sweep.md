@@ -41,7 +41,7 @@ He explodes into dust, releasing his soul.
 ### 🌉 THE BRIDGE: AN UNSEEN EXECUTION
 You sprint out of the village square, heading toward the wooden bridge that connects the village to the Green Fields.
 You step onto the creaking wooden planks. A sudden memory flashes in your mind: *this was the exact spot where Mike stopped you for the first time.*
-A faint memory flashes in your mind: this was where Mike stood to lecture you. You don't feel anger—just profound, irritation at the memory of his noise. Without stopping your stride, you flick your wrist and hurl the Dark Sword into the high grass on the opposite bank like trash.
+A faint memory flashes in your mind: this was where Mike stood to lecture you. You don't feel anger—just profound irritation at the memory of his noise. Without stopping your stride, you flick your wrist and hurl the Dark Sword into the high grass on the opposite bank like trash.
 ​THWACK!
 ​You stroll across the planks, grab the hilt sticking out of the mud, and pull. Beneath the steel lies fresh gray dust and a rising purple soul. You don't even check who it was.
 ​"Efficient," the Dark Sword purrs.
@@ -149,26 +149,26 @@ As you march up the incline, the surrounding air freezes. The sky turns a sickly
 The shadows twist together, forming the second **Nightmare Mike**. It raises a crackling sword of condensed shadow, stepping forward with relentless speed!
 
 *(The Dark Sword in your hand vibrates violently, its dark steel humming with absolute malice)*
-*"More fake shadows?! Waste of time! Where is the blood?! WHERE IS THE FLESH?!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"More fake shadows?! Waste of time! Where is the blood?! WHERE IS THE FLESH?!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You don't pause. You activate your **Dark Wings**, executing a blinding double air-dash straight through the shadow projection!
 *FLASH-CRACK!*
 You spin mid-air, raining down a barrage of dark-infused slashes that tear Nightmare Mike into shreds of useless black smoke! It dissolves into nothingness.
 *(Nightmares carry no souls. Timer: **02:22... 02:21...**)*
 
-*"Tch! Useless dust!"* the Dark Sword snarls in your mind. *"Keep moving! The scientist is waiting!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Tch! Useless dust!"* the Dark Sword snarls in your mind. *"Keep moving! The scientist is waiting!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### 🚨 LYZE HQ: THE EMPTY HALLS
 You reach the giant pneumatic blast doors of Lyze HQ. You thrust the Dark Sword into the seam and pry the steel doors open with sheer physical force.
 You step inside. The bustling base is dead silent. Emergency red strobe lights flash against cold, empty hallways. Every computer terminal has been wiped; every supply crate emptied.
 Near the central hub, a **Dark Constellation** floats above the main platform.
 > **[SAFE ZONE REACHED — TIMER RESET TO 03:00]**
 
-As you step into the central chamber, a automated holo-projection of **Lyze** flares to life in the center of the room.
+As you step into the central chamber, an automated holo-projection of **Lyze** flares to life in the center of the room.
 
 *"If you're watching this, it means you broke down my front door,"* Lyze's recorded voice speaks coldly. *"Did you really think I didn't know what you were? That watch on your wrist wasn't just a GPS—it was recording your heart rate, your telemetry, and every life form that stopped breathing around you from day one."* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 *(The Dark Sword trembles with rage)*
-*"She knew... the rat knew the entire time! She was watching us!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"She knew... the rat knew the entire time! She was watching us!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *"I knew you'd eventually come back to turn this base into an open grave,"* the projection continues. *"So I emptied it. Everyone's gone. And as for you... enjoy my parting gift."* -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 ### ⚙️ BOSS BATTLE: THE DREAD-NOUGHT WAR MACHINE
@@ -195,7 +195,7 @@ She turns around, her eyes widening as you step out of the smoke—much faster t
 You don't say a word. Your face is a cold mask of absolute violence. You raise the Dark Sword high above your head, stepping forward to split her in half.
 
 *(The Dark Sword's eye flares red)*
-*"YES! DRINK HER BLOOD! SLAUGHTER HER!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"YES! DRINK HER BLOOD! SLAUGHTER HER!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Lyze doesn't panic. She simply looks at your left wrist and taps a rapid sequence of commands onto her pad.
 
@@ -208,12 +208,12 @@ A blinding, high-voltage electrical current surges violently out of the communic
 
 Your muscles lock up instantly! The agonizing shock drops you hard onto your knees, your dark armor sparking furiously as your vision goes white! The Dark Sword clatters onto the wet asphalt next to your hand!
 
-*"AAAARGH! TRAITOROUS WRENCH-MONKEY!"* the Dark Sword screams in agony as the electrical feedback surges through its hilt. *"WE WILL SKIN HER ALIVE! GET UP! GET UP!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"AAAARGH! TRAITOROUS WRENCH-MONKEY!"* the Dark Sword screams in agony as the electrical feedback surges through its hilt. *"WE WILL SKIN HER ALIVE! GET UP! GET UP!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Lyze doesn't hesitate for a second. She hits the door close switch, steps backward into the rear of the Cyber-Truck, and the heavy titanium doors slam shut.
 *VROOOOOOOOM!*
 The Cyber-Truck's rocket thrusters ignite, tearing out of the courtyard and speeding across the wasteland at blinding speeds, disappearing into the distant fog.
-### 🌧️ THEAFTERMATH
+### 🌧️ THE AFTERMATH
 The electrical surge finally fizzles out. The watch on your wrist melts into a useless, charred lump of dead metal, completely fried and silent.
 You force yourself back to your feet, your breathing heavy, your dark wings twitching as the static leaves your body. You reach down and scoop up the Dark Sword.
 
@@ -221,7 +221,7 @@ You force yourself back to your feet, your breathing heavy, your dark wings twit
 You turn away from the burning tire tracks left by Lyze's truck, preparing to leave the courtyard.
 Suddenly, the Dark Sword in your right hand vibrates violently. The crimson eye on its hilt spins wildly before locking onto the narrow, trash-strewn alleyway tucked behind the main lab.
 
-*"Hold on..."* the Dark Sword rasps, its voice echoing with greedy anticipation. *"Don't walk away just yet, human. I smell it... a faint, greasy little heartbeat hiding in the garbage. ONE LAST SOUL!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Hold on..."* the Dark Sword rasps, its voice echoing with greedy anticipation. *"Don't walk away just yet, human. I smell it... a faint, greasy little heartbeat hiding in the garbage. ONE LAST SOUL!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You shift your grip on the hilt and step into the shadowed alleyway. Crushed metal cans, copper wires, and discarded circuit boards litter the mud.
 At the dead end of the alley sits a rusted, oversized industrial dumpster.
@@ -270,7 +270,7 @@ Beneath the dust, a glowing, crystalline fragment catches the pale light—the f
 > **[ITEM ACQUIRED: PAGESTONE #14!]** (Unless you already bought it previously)
 
 *(The Dark Sword purrs with satisfaction, its red eye gleaming in the dark)*
-*"Now HQ is truly dead,"* the blade whispers. *"Eighty-three souls... twelve more, human. Twelve more and we tear that city's barrier to shreds."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Now HQ is truly dead,"* the blade whispers. *"Eighty-three souls... twelve more, human. Twelve more and we tear that city's barrier to shreds."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You sheath your sword, step over the mountains of lag-inducing scrap cluttering the alley, and march toward the exit gate.
 Next stop: **Super Fun Land** and **Wignus Tower**.
@@ -279,7 +279,7 @@ Next stop: **Super Fun Land** and **Wignus Tower**.
 You step out of the alley into the foggy plaza outside **Super Fun Land**.
 The Dark Sword at your hip hums with a hollow, vibrating resonance, its red eye scanning the horizon.
 
-*"Tch... dead silence,"* the Dark Sword snarls, thoroughly annoyed. *"No hearts beating in the theme park. No magic humming in Wignus Tower. Both places are completely empty! No flesh, no blood, no souls!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Tch... dead silence,"* the Dark Sword snarls, thoroughly annoyed. *"No hearts beating in the theme park. No magic humming in Wignus Tower. Both places are completely empty! No flesh, no blood, no souls!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "We don't need souls from them," you answer coldly, looking toward the main entrance. "We need speed. The curse timer will liquidate us before we reach the northern mountains on foot." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -297,7 +297,7 @@ Positioned directly at the front entrance is a colossal, enchanted stone ramp.
 
 "Hold on!" you growl, gripping the wheel.
 
-*"FLATTEN IT ALL!"* the Dark Sword screams in delight. -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"FLATTEN IT ALL!"* the Dark Sword screams in delight. -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *BOOM!*
 The kart hits the ramp at Mach 3, launching into the air and locking its magnetic tires directly onto the sheer, 90-degree vertical brick wall of Wignus Tower!
@@ -346,7 +346,7 @@ A harsh, glitched text overlay flashes across your visor:
 You reach beneath the control console and haul out a heavy, multi-barreled **Emergency Bazooka**.
 
 *(The Dark Sword on your belt laughs maniacally)*
-*"NOW WE'RE TALKING! BLOW THEM ALL TO PIECES!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"NOW WE'RE TALKING! BLOW THEM ALL TO PIECES!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *CREAK-CRASH!*
 The left security door is kicked off its hinges! Screaming, shadowy nightmare entities push through the doorway, alongside sharp-dressed, terrifying **Tax Collectors** carrying glowing briefcases!
@@ -380,7 +380,7 @@ The blast completely incinerates the back wall of the office, clearing the hallw
 The screeching sirens die down. The office, the desk, and the radioactive mist dissolve like dust in the wind, dropping you back onto your boots in the real world at the mountain ridge exit.
 The Dark Sword in your hand gleams with fresh, dark energy, pulsing rapidly as eighty-eight souls writhe within its steel.
 
-*"Eighty-eight..."* the blade whispers, its voice trembling with dark euphoria. *"Only SEVEN MORE SOULS, human... seven more and we are unstoppable!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Eighty-eight..."* the blade whispers, its voice trembling with dark euphoria. *"Only SEVEN MORE SOULS, human... seven more and we are unstoppable!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You shoulder your weapon and look up at the towering path leading toward the final sector...
 ### 🏜️ THE FROZEN ASHLANDS: DUNE SURFING
@@ -388,7 +388,7 @@ You unfurl your massive, tattered **Dark Wings** and launch yourself into the sk
 Below you, the desolate sands lie still. Lazarus Shade and Snowwy are long dead—their domain now nothing more than a quiet, frozen graveyard. Phantom apparitions of Nightmare Mikes flicker across the dunes below, but you don't waste time descending for them.
 
 *(The Dark Sword's crimson eye rolls in boredom)*
-*"Don't bother with those shadowy hallucinations,"* the blade growls. *"They're empty illusions. No flesh, no blood, zero souls. Save your edge for real meat."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Don't bother with those shadowy hallucinations,"* the blade growls. *"They're empty illusions. No flesh, no blood, zero souls. Save your edge for real meat."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You throw down the **Dune Surfboard**, catching a thermal draft to glide across the frozen crags at blinding speeds, bypassing the desert in minutes and heading straight toward the neon skyline of **Cyber City**.
 ### 🏙️ CYBER CITY: THE NEON GRAVEYARD
@@ -440,7 +440,7 @@ His dark, corrupted soul is ripped from his core, swirling violently into the hi
 ### 🏰 THE CAPITAL GATES
 *(The Dark Sword vibrates with uncontrollable, hysterical euphoria, its red eye glowing like a dying star)*
 
-*"NINETY-FOUR SOULS!"* the blade roars in your mind, its voice echoing with sheer, apocalyptic power. *"AND ALL FIFTEEN PAGESTONES! WE HAVE IT ALL, HUMAN! ONE... MORE... SOUL! ONE MORE SINGLE DROP OF BLOOD AND THE BOUNDARY BREAKS!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"NINETY-FOUR SOULS!"* the blade roars in your mind, its voice echoing with sheer, apocalyptic power. *"AND ALL FIFTEEN PAGESTONES! WE HAVE IT ALL, HUMAN! ONE... MORE... SOUL! ONE MORE SINGLE DROP OF BLOOD AND THE BOUNDARY BREAKS!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 *(The Dark Tome lies open on the cold stone, its pages fluttering with desperate violet sparks)*
 *"You see?!"* the Tome demands, its leather cover twitching on the pavement. *"You need me! Pick me up, human! Without my incantations, you won't know how to channel all fifteen PageStones once the Capital barrier is down!"* -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -478,7 +478,7 @@ Your vision swims with red static as the armor crushes your ribs. You stare at t
 The moment your palm makes contact, the shadow swords dissolve into thin air. The Dark Tome snaps itself right back onto the heavy leather holster at your belt, locking its steel straps shut around your waist with a heavy, final *CLICK*.
 
 *(The Dark Sword's crimson eye rolls in dark amusement)*
-*"Heh... power has a price, master... and the book holds the receipts..."* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*"Heh... power has a price, master... and the book holds the receipts..."* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### 🔮 THE THRESHOLD OF THE CAPITAL
 You force yourself back to your feet, coughing as the armor eases its deadly pressure back to normal operating levels.
 Standing before you are the monolithic **Capital Gates**, pulsing with the radiant Anti-Chaos Forcefield.

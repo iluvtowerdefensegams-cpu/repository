@@ -32,7 +32,7 @@ You step forward, raising the Dark Sword with a cold, merciless glare to claim h
 
 *(Its pages snapping shut in pure rage)* "COWARD! He leaped straight out of our reach! Ugh, no matter... we will harvest him later." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-(A low, disappointed hum vibrating through the obsidian hilt) "Master... the meat escaped... but the scent of blood remains on the trail..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+(A low, disappointed hum vibrating through the obsidian hilt) "Master... the meat escaped... but the scent of blood remains on the trail..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 ### ⚖️ THE JUDGEMENT: A Cold Warning
 Leaving Jack behind, you push forward onto the true mountain border. The vibrant colors of the lower world begin to fade, replaced by pale grey stones and a light, freezing mist.
 The path levels out into a long, eerie stone bridge stretching across a massive chasm. Standing dead center in the middle of the bridge, completely alone, is **Mike**.

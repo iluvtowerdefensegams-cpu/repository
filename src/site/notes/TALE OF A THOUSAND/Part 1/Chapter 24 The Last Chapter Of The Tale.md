@@ -25,16 +25,27 @@ From the storm-wracked clouds above, a massive shadow cuts through the lightning
 ### The Gate & The Shadow
 The moment Dani's soul feeds into the Tome, the book flares with blinding, corrupted light. The Anti-Chaos Forcefield violently overloads—shattering into millions of glowing, crystalline dust particles that rain down onto the threshold.
 You step over the threshold of the ruined gates and enter the legendary Capital. The grandeur is unsettling. Silent avenues, abandoned markets, and quiet fountains line the streets. It is entirely empty; the populace successfully evacuated while Dani bought them time with her life.
-### The Warning (Wignus & Alice)
-Deep within the silent avenues, standing at the base of the grand marble staircase leading to the Central Beacon, two final sentinels step out from the shadows: **Wignus** and **Alice**.
-> *"You won't step another foot toward the royal chamber,"* Wignus growls, unsheathing his battle-worn staff, his knuckles white against the hilt. —[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
-> 
-> *"He's just a boy!"* Alice screams through raw, bitter tears, raising her sniper as holy magic crackles around her fingers. *"We won't let you touch the Prince!"* —[[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
-> 
-The two throw themselves at you with desperate, reckless fury. Wignus acts as an aggressive vanguard, charging with heavy shield-bashes, while Alice rains down defensive light barriers and offensive holy bolts from the stairs above.
-During the brutal clash, the harrowing truth comes to light: **Mike**, the simple, kind-hearted boy you met earlier in your journey, is **The Prince Of The Tale**.
-Wignus and Alice fight with every ounce of their remaining lifeforce to protect their young lord. But against the overwhelming weight of ninety-five souls and your corrupted dark equipment, their bravery is nothing more than a tragedy. You parry Wignus' desperate overhead slam, run him through, and swing around to strike down Alice as her barrier shatters.
-You harvest their souls (**96th & 97th**), leaving their lifeless bodies draped across the pristine marble steps.
+### The Sentinels of the Staircase (Wignus & Alice)
+Deep within the silent avenues, standing at the base of the grand marble staircase leading to the Central Beacon, two final guardians step out from the light: **Wignus** and **Alice**.
+
+Unlike the frantic defenders of the lower sectors, Wignus stands perfectly composed. He rests his ancient, battle-worn staff against the marble step with an easy, unhurried posture. An ancient, faithful servant of Lampros who has guarded this realm since the Tome's original sealing, Wignus holds no fear in his eyes. He isn't desperate—he is tranquil, content with a long life spent in holy service, fully accepting that today he meets the dark fate foretold centuries ago.
+
+> *"Ah... so the dark cycle turns once more,"* Wignus speaks softly, his voice calm and warm as a fading twilight. *"I always knew the shadows of Skotos would return... and that I would fall beneath their blade. I have lived a long, blessed life in Lampros' grace, and I am grateful to have served until the end."* —[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]]
+
+Standing beside him on the upper steps, her sniper rifle charged with crackling radiant energy, is **Alice**. Tears glisten in her eyes—not of terror, but of decades of suppressed grief and bitter determination.
+
+> *"Look at you... wrapped in that cursed iron,"* Alice's voice trembles with raw emotion. *"You have no idea whose legacy you're spitting on, do you?! You are her son! You are the child of the Cleric who gave her life to seal the previous Dark One!"* —[[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+
+During the high-stakes clash at the base of the stairs, the deep history comes to light:
+Alice was your **Mother's apprentice** (Part 1). When your Mother unleashed her divine sacrificial explosion in the dark forest—freezing the previous dark host solid and leaving the Orchid of Power blooming in the ash—Alice was just a young initiate. Wignus, who fought in that original trio alongside your Mother and the Warrior, brought back the tragic news. Devastated, Alice swore an eternal oath of vengeance against the Dark Tome and the entity of Skotos. She watched the Capital fall into paranoid isolation after your Mother's death, training under Wignus and waiting for the day the dark curse would resurface.
+
+And now, standing before her master's son—who has been completely consumed by the very darkness that killed his mother—Alice fights alongside Wignus to protect **Prince Mike**, the simple, kind-hearted boy you met earlier in your journey.
+
+Wignus casts serene, high-tier light barriers and slow, deliberate holy strikes, fighting with graceful, ancient mastery while Alice fires radiant piercing bolts from above. But against ninety-five souls and your unstoppable dark power, the divine order yields.
+
+You step past Wignus' calm staff parry and run him through. The old wizard lets out a soft, peaceful sigh, smiling gently as his body dissolves into a fountain of shimmering, golden light dust. Turning to Alice, your blade shatters her final barrier. She looks at you one last time with tragic pity before her physical form shatters into brilliant, ethereal motes of holy white light.
+
+You harvest their souls (**96th & 97th**), as the swirling trails of divine dust drift away on the wind, leaving the grand staircase empty and the doors to the Central Beacon wide open.
 ## ACT II: The Broken Reunion
 ### The Last Beacon
 You push open the gilded doors at the top of the stairs, entering the massive, vaulted chamber of the Central Beacon. Prince Mike stands alone near the pulsating crystal core. Hearing your heavy boots echo against the stone, he turns toward the entrance.

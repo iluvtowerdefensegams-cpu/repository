@@ -16,7 +16,7 @@ Your Watch buzzes with a holographic incoming call from Lyze as you trek through
 The transmission cuts. You keep moving forward, the weight of your new arsenal pulsing at your hip.
 
 *(Its eye widening on the guard, a low hiss echoing in your mind)*
-"Master... I smell it... I smell... **SOULS!!!**" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... I smell it... I smell... **SOULS!!!**" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 "Calm yourself, blade. Let the partner handle the reaping." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -27,7 +27,7 @@ The transmission cuts. You keep moving forward, the weight of your new arsenal p
 ​(Your character looks down at the Dark Sword, then back at the kids without a shred of hesitation)
 "Easy souls. Less effort than fighting mages." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-​"Master... let us reap the little ones..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+​"Master... let us reap the little ones..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You draw the Dark Sword, stepping out of the shadows to strike—
 # 💥 CRASH!
@@ -54,7 +54,7 @@ Out of nowhere, a heavily armored figure on a white stallion barrels through the
 "Hold! To make this duel right, worthy, and just, we must combat as equals!" -[[TALE OF A THOUSAND/Characters/Knox The Knight\|Knox The Knight]]
 
 Knox waves a glowing, gauntleted hand. In a burst of chivalric magic, a majestic, dark obsidian stallion materializes right beside you. 
-In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]])
+In your hands, the Dark Sword morphs, extending into a heavy, dark-infused **Lance**. (*"Master... this shape is strange, but its point is deadly!"* -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]])
 
 *Looking at the Dark Stallion, then back at Knox* "You gave your enemy a warhorse just to die 'fairly'? You really are an idiot." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
@@ -77,7 +77,7 @@ You continue North on horseback, using your blade to effortlessly run down and b
 
 "Look ahead. That jagged opening in the cliffside... that must be the cave Lyze was talking about. I can feel it pulsing from here—along with the distinct, magnetic pull of several of my missing **PageStones** buried deep within." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"Master... the cavern breathes... it smells of older, darker souls..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+"Master... the cavern breathes... it smells of older, darker souls..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 You halt your stallion at the dark, yawning entrance of the cave. The air turns freezing cold. You step off your mount, drawing the dark blade, and look into the abyss...
  * # Soul Count: 45

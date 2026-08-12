@@ -6,7 +6,7 @@
 Teleporting to the southern border, the lush green foliage abruptly dies, replaced by endless stretches of scorched, blinding ash and jagged industrial scrap.
 The moment you step onto the dunes, your heavy Dark Armour hums with an uncomfortable heat, and the air shimmers with violent, distorted waves.
 
-​(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+​(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 ​(The pages of the Dark Tome snap violently in the harsh wind, its voice dripping with cold, impatient disgust)
 ​"Ugh... wretched, boiling waste. Do not dare slow down, human. That sun will melt the flesh right off your bones before you can harvest another soul for me. Stick to the shadows of those scrap pillars and move your pathetic legs—or use those thrusters on your back. If you cook out here, I will make sure your death is agonizing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -45,7 +45,7 @@ Predicting his final rush through the blinding storm, your blade glows deep red.
 
 ​"You seek a lost soul... a blood tie. If he isn't among the dead... he was taken to the Capital. Everyone missing ends up in the Capital's shadow..." -[[TALE OF A THOUSAND/Characters/Lazarus Shade\|Lazarus Shade]]
 
-Lazarus dissolves into fine ash as his purple soul flies into your blade.
+Lazarus dissolves into fine ash, leaving his massive gear pack behind on the dunes.
 
 "The Capital... as if we needed another reason to march there." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
@@ -65,7 +65,7 @@ Sitting under the shade of a palm tree nearby is a relaxed, melting snowman hold
 
 You don't reply. You step out of the water. Suddenly, the glowing eye on the Dark Sword snaps open, staring directly at the snowman.
 
-*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Without a word, you step forward and deliver a brutal slash right across Snowwy's chest!
 Snowwy barely flinches, his snow packed tightly.
@@ -95,6 +95,8 @@ With his fortress crumbling into avalanches of snow, you leap onto Snowwy's colo
 The blizzard breaks, the giant frost warrior shattering into millions of harmless snowflakes that drift down over the frozen oasis.
 His glowing soul rises from the frost, flying directly into your obsidian hilt.
 ### 📞 MISSION BRIEFING: The Uranium Beacon
+(Visual & Audio FX: With a sharp ice-cracking sound, the burning orange Radiational Heat Meter on your HUD freezes solid and shatters into blue frost crystals, permanently removing Heat Damage from the Ashland Desert!)
+
 With Snowwy defeated, the extreme cold from his battle permanently neutralizes the desert's heat radiation. The sky remains cool and overcast, completely removing the Sun-Blight heat hazard for the rest of the region.
 Your communicator blinks to life. It's **Lyze**.
 
@@ -112,7 +114,7 @@ You close the transmission, your heavy obsidian boots crunching over the frozen 
 Teleporting to the southern border, the lush green foliage abruptly dies, replaced by endless stretches of scorched, blinding ash and jagged industrial scrap.
 The moment you step onto the dunes, your heavy Dark Armour hums with an uncomfortable heat, and the air shimmers with violent, distorted waves.
 
-(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+(A low, hungry hum vibrates through the obsidian hilt as its glowing purple eye scans the barren horizon) "Master... this place is dead. Not a drop of blood in the dust... no souls to reap..." -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 (The pages of the Dark Tome snap violently in the harsh wind, its voice dripping with cold, impatient disgust)
 "Ugh... wretched, boiling waste. Do not dare slow down, human. That sun will melt the flesh right off your bones before you can harvest another soul for me. Stick to the shadows of those scrap pillars and move your pathetic legs—or use those thrusters on your back. If you cook out here, I will make sure your death is agonizing." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -171,7 +173,7 @@ Sitting under the shade of a palm tree nearby is a relaxed, melting snowman hold
 
 You don't reply. You step out of the water. Suddenly, the glowing eye on the Dark Sword snaps open, staring directly at the snowman.
 
-*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Equipment/Weapons/The Dark Sword\|The Dark Sword]]
+*(The blade hums with sudden realization)* "Master... look closely. That melting heap of ice... it harbors a soul!" -[[TALE OF A THOUSAND/Characters/The Dark Sword\|The Dark Sword]]
 
 Without a word, you step forward and deliver a brutal slash right across Snowwy's chest!
 Snowwy barely flinches, his snow packed tightly.

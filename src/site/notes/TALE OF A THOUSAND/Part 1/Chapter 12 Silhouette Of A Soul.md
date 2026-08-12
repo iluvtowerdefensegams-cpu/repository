@@ -28,6 +28,8 @@ The quiz UI violently shatters and glitches out. Before Samuel can finish his th
 (Looking at the title page, then sliding it into your pack with a cold scoff)
 "A thousand deaths? Sounds like a light body count." -[[TALE OF A THOUSAND/Characters/You\|You]]
 
+Dev note: from this point on you will find more pages from Samuel's book
+
 With Samuel cleared from the path, you step inside the yawning mouth of the cavern. The moment you cross the threshold, the ambient light completely vanishes. The camera seamlessly swivels from its standard 3D perspective, locking into a strict, stylistic 2D side-scroller view.
 Everything—your character, the terrain, the enemies—is rendered as a stark, pitch-black silhouette against a glowing, deep violet background. Only the glowing runes on your arm and the sharp purple eye of the Dark Sword pierce the darkness.
 
