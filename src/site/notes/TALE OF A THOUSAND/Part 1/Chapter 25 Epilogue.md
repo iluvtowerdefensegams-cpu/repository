@@ -9,8 +9,15 @@ Moving with your stolen strength, the armored Puppet turns away from your remain
 With one brutal, heavy strike of the Dark Sword, the Puppet shatters the crystal.
 *BOOOOOOM!*
 The radiant core explodes into dying, golden embers. A gargantuan wave of absolute darkness ripples outward from the Capital across the entire horizon, smothering the sun, extinguishing the stars, and plunging the continent into eternal, suffocating night. Hope is completely extinguished...
-> *...But somewhere, in a distant region nearby, there might just be someone left with the power to fight the darkness.*
-> *That, however, will be another tale.*
+Amidst the suffocating, pitch-black silence of the ruined Capital, a single, burnt page from Samuel's chronicle flutters down through the dark ash.
+It drifts slowly past the hollow, armored shell of Skotos, coming to rest upon the cold, blood-stained marble floor.
+A faint, flickering ember of golden light illuminates the handwritten ink on the parchment, revealing the final lines ever penned into the manuscript:
+> "The ink has turned to shadow. The thousand deaths are paid.
+   Yet far beyond this silent grave, where hopeless dreamers tread...
+   A single spark still defies the dark, awaiting a new blade.
+   ...That, however, shall be another tale."
+   
+The faint ember sputters and dies. The page vanishes into absolute blackness.*
 ## 🎬 Post-Credits Scene
 The screen cuts to pitch black and holds in dead silence for several long seconds.
 Suddenly, the frantic, desperate sound of someone gasping for air cuts through the quiet speakers!

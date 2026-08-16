@@ -7,10 +7,18 @@
 # [[TALE OF A THOUSAND/Part 1/Locations/World Map P1\|WORLD MAP]]
 # [[TALE OF A THOUSAND/Characters/Characters\|CHARACTERS]]
 # Endings
-- ## Dark Ending (Canon)
-- ## Incomplete Ending
+- ## The Skotos Route 
+(Dark Route, you absolutely destroy the world)
+- ## The Light Route
+(meme route, meme ending, you win by 1 tapping the tome since you 1 tap anyone. The story ends here?)
+- ## The Fractured Route
+(You break the barrier without having to sweep. You don't get wings you use the elevator. The ending isn't canon, at the ending The Tome tells you he will let you try again from the beginning. Kinda like Undertale Yellow neutral ending.)
 - ## April's Ending
-- ## Light Ending 
+(Yes)
+- ## Aura Route
+(Triggered by finding the book in the Library "How To Get Aura". Instead of PageStones, you get AuraStones. Instead of Souls, Aura. You are the ultimate AuraFarmer. Armours no longer have Defense, they now have +Aura attribute. Better looking = more +Aura. Long capes +1000 +Aura. Carries into Part 2)
+- ## Smelly Route 
+(Triggered by completing a dungeon inside a dumpster before returning medicine to your dad. The dungeon is hard to prevent new players from accidentally playing on this mode. Carries into Part 2)
 # Chapters
 - # [[TALE OF A THOUSAND/Part 1/Introduction\|Introduction]]
 - ##  [[TALE OF A THOUSAND/Part 1/Chapter 1 Raiders\|Chapter 1 Raiders]]

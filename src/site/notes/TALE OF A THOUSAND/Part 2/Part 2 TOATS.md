@@ -11,7 +11,8 @@
 - ## Egoist Ending
 - ## Smelly Route
 - ## Incomplete Ending
-- ## Aura Farm Route
+- ## Aura Route
+(Continued from Part 1)
 - ## April's Ending
 # Chapters
 - # [[TALE OF A THOUSAND/Part 2/Introduction 2\|Introduction 2]]
