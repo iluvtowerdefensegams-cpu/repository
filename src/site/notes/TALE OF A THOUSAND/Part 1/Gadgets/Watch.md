@@ -3,3 +3,4 @@
 ---
 
 Second gadget you recieve. It had utility functions, like contacting [[TALE OF A THOUSAND/Characters/Lyze\|Lyze]], TP, Digital Menu, Enemy Log, Upgraded Map...
+Also lets you save almost anywhere.

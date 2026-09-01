@@ -48,6 +48,7 @@ Lyze casually walks over to the giant, humming turret and smacks it with her wre
 
 You utilize the Grappling Hook to shatter the turret's armor and defeat it. The machine deactivates, popping open to drop a handful of glowing, metallic gears.
  * **Rewards Unlocked:** You obtained **Gears** (Used at Lyze's workshop for tech upgrades).
+
 "Not bad! Every time you clear a trial or beat my malfunctioning tech, you'll earn Gears to upgrade your arsenal. Oh, and before I forget, you'll definitely be needing this, too." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 She slaps a sleek digital smart-watch onto your wrist.
@@ -57,9 +58,11 @@ She slaps a sleek digital smart-watch onto your wrist.
 ## 📱 UI & Progression System Unlocked: The Digital Menu
  * **Skill Tree:** Spend EXP to unlock specific branches (**Martial Arts/Parkour**, **Stun Parries/Dual Wielding**, etc.).
  * **Enemy Log:** Access detailed lore, stats, and weaknesses for all encountered humans, bosses, and feral monsters.
+
 "Welp, I've got data to analyze and junk to build. See ya around, partner!" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 With a swift tap on her wrist controller, a holographic grid surrounds Lyze, and she instantly warps away in a flash of blue light.
+
 *The book resting at your hip shudders slightly, its iron clasp creaking as its pages rustle against your leg.*
 
 "An obnoxious girl... her mind is completely shielded by artificial logic. I cannot read her intentions, nor can I sense a soul I can easily harvest. Do not trust her tech, human. But... keep the grappling hook. It will make our hunts much more efficient." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -82,6 +85,7 @@ Before you can reach the source of the smoke, a group of local forest explorers 
 *(After the 3rd wave falls to ash)*
 
 "...They didn't have a choice, did they?" -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 "And neither did you. Welcome to real life, partner. Move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 ## 🏚️ The Witch's Cottage
 With the explorers finally turned to ash, you press forward and find the source of the smoke: a crooked, ancient wooden cottage covered in thick, glowing spiderwebs.
