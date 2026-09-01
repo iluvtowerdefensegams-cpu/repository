@@ -66,4 +66,4 @@ The map on your [[TALE OF A THOUSAND/Part 1/Gadgets/Watch\|Watch]] blinks, guidi
 - # Soul Count: 29
 - # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 4
 
-# [[TALE OF A THOUSAND/Part 1/Chapter 67\|Chapter 67]]
+# [[TALE OF A THOUSAND/Part 1/Chapter 8 A Scientist's HeadQuarters\|Chapter 8 A Scientist's HeadQuarters]]
