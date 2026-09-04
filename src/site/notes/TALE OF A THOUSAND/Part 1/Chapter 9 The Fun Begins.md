@@ -93,7 +93,7 @@ Septer falls to his knees, his colorful suit scorched and smoking. He looks up a
 
 ​SLASH.
 
-​The screen flashes black with a heavy, metallic strike. Septer disintegrates into ash, leaving his golden crown and staff smoldering in the dirt.
+​The screen flashes black with a heavy, metallic strike. Septer disintegrates into ash, leaving his golden hat and staff smoldering in the dirt.
 
 ​(The Tome's pages flutter slowly, its voice dropping into a sinister, satisfied whisper)
 "Oho... I didn't even have to push you for that one. You're learning fast, partner." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
@@ -102,15 +102,68 @@ Septer falls to his knees, his colorful suit scorched and smoking. He looks up a
  * **Boss Drops:** You unlock Septer's Hat, Septer's Sceptre (cool item, tradable with [[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]), and Septer's Suit gear!
 ## 🌟 Claiming the Funergy Beacon
 You walk up to the giant, humming Chaos Beacon and press **[E]**.
-*(Your soul is gently pulled from your physical body, entering a vibrant, neon-colored puzzle dimension inside the Beacon. After solving a quick, rhythm-based game trial, the crystal shatters, releasing a blinding wave of light.)*
+*(Your soul is gently pulled from your physical body.)*
+### 🎪 INSIDE THE BEACON: The 5-Attempt Rigged Gauntlet
+The power zone fades into a blinding, hyper-saturated carnival dimension inside the crystal. 
+
+> **[⚠️ BEACON TRIAL INITIATED: EARN YOUR EXIT TICKET]**
+> To open the carnival exit gate, you must win just ONE game.
+> * Attempt 1: Ring Toss — The bottleneck expands mid-throw, deflecting the ring. (RIGGED)
+> * Attempt 2: Balloon Darts — The dart tip blunts against rubberized steel. (RIGGED)
+> * Attempt 3: Milk Bottle Knockdown — The bottom bottles are magnetized to the pedestal. (RIGGED)
+> * Attempt 4: High Striker — The puck hits a magnetic catch right before ringing the bell. (RIGGED)
+> * Attempt 5: Ball in the Bucket — The bucket bottom opens into an incinerator chute. (RIGGED)
+> 
+> *[ERROR: ALL 5 ATTEMPTS FAILED. SECURITY PROTOCOL TRIGGERED: CITIZEN GUILTY OF FAILING TO ENJOY SUPER FUN LAND. REPORT TO CELL BLOCK 8 FOR ETERNAL HOUSING.]*
+
+The flashing neon carnival arcade shatters into static, plunging you into the Beacon's core memory:
+
+---
+
+### 📜 THE MEMORY: The Founders' Departure
+The fog clears to the cobblestone avenue near the Main Gates years ago. Steam-robots on brass tracks are escorting crying guests in iron collars toward Cell Block 8 in the background. 
+
+Near the open turnstiles stand two figures with travel coats—his original partners and early financial backers from before the beacons.
+
+Septer rushes up to them, his ringmaster coat pristine, frantically thrusting a handful of golden tickets toward their chests:
+
+*"Wait, wait, wait! Look, you haven't tried the upgraded Ferris Wheel! It's powered by the Beacon's second circuit! The view of the valley—it's breathtaking! Just stay for the night show, please?!"* -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+
+The first backer pushes the tickets away, looking past him at the brass robots herding people into cages with shock batons:
+*"We gave you our life savings because we believed in your dream to 'Spread The Fun,' Septer. We stood by you when you laid off the human staff. We made excuses when you brought in the steam-robots. But look at what you’re doing back there."*
+
+Septer's manic grin twitches, sweat beading on his forehead:
+*"They just... they didn't win their exit tickets! Those are the park rules! You have to win a game to leave! It's exciting! It's high stakes!"*
+
+The second partner looks at him with profound pity:
+*"Your games are rigged, Septer. Nobody can win. You're not spreading fun. You're just terrified of being alone in an empty park. We're done funding this nightmare. We're leaving."*
+
+Septer takes a step back, clutching his golden sceptre with trembling hands. His brass security robots roll up behind the partners, red visors glowing, gears grinding as they raise their restraint clamps:
+`"UNAUTHORIZED EXIT DETECTED. PREPARING DETENTION..."`
+
+Septer's voice cracks into a desperate, panicked shout:
+*"NO! STAND DOWN! CANCEL ORDER!"*
+
+The robots power down their clamps, rolling back into the shadows.
+
+The two founders walk through the iron gates out onto the open road, never looking back. The heavy iron gates creak shut behind them, locking with a final, hollow clang.
+
+Septer stands alone in the dead center of the plaza, confetti drifting down over his silent robots. His staff slips from his fingers, clattering against the pavement. He drops to his knees, staring blankly at the iron bars:
+
+*"They didn't even want to play... Even without the cages... they still left me..."*
+
+---
+
+### ⚡ THE BEACON’S AWAKENING & PET UNLOCK
+The memory shatters into thousands of glowing confetti sparks.
 
 ANCIENT VOICE:
-"You who have conquered this Chaos Beacon... take my power. Become stronger."
+**"You who have conquered this Chaos Beacon... take my power. Become stronger."**
 
-The light condenses into a tiny, cute, floating version of Septer.
+The light condenses into a tiny, floating version of Septer with a miniature staff.
 
 ANCIENT VOICE:
-"This is **Scepter**. His Funergy abilities will guide you on your dark path. Now go... seek my brothers."
+**"This is Scepter. His Funergy abilities will guide you on your dark path. Now go... seek my brothers."**
 
 > **👾 NEW COMPANION: Scepter**
 > A floating, miniature Funergy construct born from the shattered Beacon. It mimics Septer's cheerful movements, but has no mind of its own—a hollow, obedient pet created from the energy of the man you just destroyed.

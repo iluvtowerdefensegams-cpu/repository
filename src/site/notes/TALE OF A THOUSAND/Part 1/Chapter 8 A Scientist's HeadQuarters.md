@@ -96,14 +96,14 @@ Gasps, stepping back in absolute shock
 > **⚠️ [LORE NOTE: The Tome's Deception]**
 > *The Tome is lying. The 'Dark Set' are not armor pieces—they are the physical fragments of **Skotos**, the primordial entity of darkness, who was defeated and sealed away. The Tome is using your cursed body as a puppet to gather his fragmented soul. If you bring the Dark Set to the Central Beacon with enough harvested souls, Skotos will be reborn, and you will be erased.*
 
-*Skeptical, but typing on her console* "Right... well, a magic sword and armor sound useful, I guess. I've patched the locations of the regional [[TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons\|Chaos Beacons]] directly to your Watch. Good luck." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+*Skeptical, but typing on her console* "Right... well, a magic sword and armor sound useful, I guess. I've patched the locations of the regional [[TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons\|TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons]] directly to your Watch. Good luck." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 Your watch pings. A massive overlay of the world map displays four shining beacons and the looming threat of the capital in the center.
 
 *Its pages tremble, sensing something in the air*
 "I... I can feel it. The Dark Sword is near. It's calling to me from a high place... a place of cold stone." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"High place? That's got to be [[TALE OF A THOUSAND/Part 1/Locations/Wignus Tower\|Wignus Tower]], just past the valley." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+"High place? That's got to be [[TALE OF A THOUSAND/Part 1/Locations/Wignus Tower\|Wignus Tower]]" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 "[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus]]... That miserable, wretched insect." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 

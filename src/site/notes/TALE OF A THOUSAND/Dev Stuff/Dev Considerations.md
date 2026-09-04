@@ -34,3 +34,8 @@ Add system like wave defense overdrive where you can collect materials
 You use materials to craft weapons, perks, passives, abilities...
 # 11. Intro trailer or whatever 
 You have lethal magic wounds. You would die if it weren't for the Tome. A thousand deaths, he promises your salvation. A thousand deaths, that's the price to pay
+# 12. Unlock item
+Whenever you open a chest or smth, I wanna have the effect from old Zelda games where link raises the object (You got a Braincell! You now have 2)
+# 13. Aura Route 
+Instead of mana, you have Aura. You also have a special key to aura farm (like dragon ball charging). Also dodging has a slowmo effect just to make you cool and you gain a buncha parkour abilities. Aura menu: You can roll, air dash, slide, wallrun, wallkick, do backflips (big aura), pose, emote...
+

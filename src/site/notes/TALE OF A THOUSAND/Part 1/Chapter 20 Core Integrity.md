@@ -46,6 +46,7 @@ Because Haz-Guard's auto-repair makes it immortal in these outer sectors, you ar
 - **📢 Core-OS Workplace Announcements:**
     - "Notice: If you experience sudden melting or third-degree radiation burns, please submit Form 404-B to HR before perishing."        
     - "Unit-01 Haz-Guard is simply enforcing mandatory unpaid overtime protocols. Have a productive day!"       
+    - "Notice: High-voltage power transmission to the Royal Capital is operating at 99%. Reminder: All worker wages remain garnished to fund Capital luxury development."
 - **🛠️ The Steam Generator & Keycard Puzzle:** You reach a sealed blast door blocking the Core. You must use your **Jetpack** to reach high steam valves and blast Haz-Guard with superheated steam, freezing its rusted joints for 10 seconds so you can grab the Sector Access Keycard and unlock the Core!    
 - **🏃 High-Speed Pursuit:** With the keycard secured, Haz-Guard smashes through steel barriers right behind you. You use your **Jetpack** and **Grappling Hook** to bypass collapsed walkways, slide under hydraulic crushers, and dodge tracking laser sweeps!
     

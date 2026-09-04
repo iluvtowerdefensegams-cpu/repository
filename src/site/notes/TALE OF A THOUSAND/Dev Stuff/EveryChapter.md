@@ -905,7 +905,7 @@ Gasps, stepping back in absolute shock
 > **⚠️ [LORE NOTE: The Tome's Deception]**
 > *The Tome is lying. The 'Dark Set' are not armor pieces—they are the physical fragments of **Skotos**, the primordial entity of darkness, who was defeated and sealed away. The Tome is using your cursed body as a puppet to gather his fragmented soul. If you bring the Dark Set to the Central Beacon with enough harvested souls, Skotos will be reborn, and you will be erased.*
 
-*Skeptical, but typing on her console* "Right... well, a magic sword and armor sound useful, I guess. I've patched the locations of the regional [[TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons\|Chaos Beacons]] directly to your Watch. Good luck." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+*Skeptical, but typing on her console* "Right... well, a magic sword and armor sound useful, I guess. I've patched the locations of the regional [[TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons\|TALE OF A THOUSAND/Part 1/Extras/Chaos Beacons]] directly to your Watch. Good luck." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 Your watch pings. A massive overlay of the world map displays four shining beacons and the looming threat of the capital in the center.
 
