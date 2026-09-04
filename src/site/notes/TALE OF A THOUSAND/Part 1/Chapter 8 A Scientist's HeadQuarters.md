@@ -129,7 +129,9 @@ You walk back out to the plaza. Salariem's shop is wide open, decorated with col
 
 Though, sad story, really—nobody has set foot in that park for years. Septer went completely off his rocker! He filled the entire place with automated, killer steam-robots, and he's running the whole park using a glowing Chaos Beacon as a battery! 
 
-You're going there to take it, aren't you? Oh, I knew it! If you fight him, do me a favor and try not to break his Sceptre—I absolutely *adore* his Sceptre. Might even buy it off you if you bring it back!" -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
+You're going there to take it, aren't you? Oh, I knew it! If you fight him, do me a favor and try not to break his Sceptre—I absolutely *adore* his Sceptre. Might even buy it off you if you bring it back!
+
+Oh, and one trade secret, my friend! Septer never lets anyone leave unless they buy the ultimate prize from his gift shop—the Surprise Toy! You may think it's just a silly trinket, but between you and me? Inside that box is the only stamped Golden Exit Pass out of that madhouse. Two-for-one special: play his games, buy the toy, and you get the toy AND your ticket out! Just don't let him catch you trying to leave without it!" -[[TALE OF A THOUSAND/Characters/Salariem The Shopkeeper\|Salariem The Shopkeeper]]
 
 ## 🛣️ The Road to Super Fun Land
 

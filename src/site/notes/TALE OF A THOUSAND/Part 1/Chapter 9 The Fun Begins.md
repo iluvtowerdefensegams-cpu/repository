@@ -40,27 +40,36 @@ Septer leads you around the park layout. To progress, you need to visit the **Gi
 A high-speed arena where you drive a heavy-duty bumper kart. The objective is simple: **RAM EVERYONE** off the track or use your blaster to shoot them down before they wreck your ride!
 *(Other optional games on the map include: The Shooting Range (5), The Mines (6), and the high-speed Glide Tower (7).)*
 ## 🎁 The Gift Shop & The Trap
-After winning enough points, you walk into the **Gift Shop (3)** and purchase the glittering **Surprise Toy** box. You open it.
-> **🎁 EASTER EGG:** The contents of the Surprise Toy box actually change depending on what Chapter of the game you decide to open it!
- 
-"Hooray! You got the ultimate Surprise Toy! Isn't this just the most **FUN** you've ever had?!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+After winning enough points from the attractions, you walk into the **Gift Shop (3)** and purchase the glittering **Surprise Toy** box—just as Salariem tipped you off back at HQ.
+
+You pop open the ribbon.
+> **🎁 EASTER EGG:** The companion item inside the Surprise Toy box changes depending on what Chapter of the game you decide to open it!
+
+Tucked beneath the toy is a gilded, stamped ticket: the **Golden Exit Pass**.
+
+"Hooray! You got the ultimate Surprise Toy AND the Golden Exit Pass! The legendary two-for-one package! Isn't this just the most **FUN** you've ever had in your entire life?!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
 *(Shaking furiously at your hip, its pages fluttering in pure disgust)* "This is mind-numbing. Pathetic. We came here for the Beacon, human. Stop playing with this lunatic and let's get this over with." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-*(Coldly, ignoring the toy)* "I want to see the Beacon now." -[[TALE OF A THOUSAND/Characters/You\|You]]
+*(Pocketing the pass and ignoring the toy, your eyes fixate on the heavy steel blast doors)* 
+"I'm not leaving yet. I want to see the Beacon." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
 SEPTER:
-*His wide, painted-on smile twitches* "Oh, sorry, my friend! But the Power Zone is strictly off-limits to guests. Security reasons, you know!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+*His wide, painted-on smile twitches violently, his knuckles whitening around his staff* 
+"Wait... you have an Exit Pass, but you want to go to the Power Zone?! No, no, no, my friend! The Power Zone is strictly off-limits to guests! Security reasons! Company policy!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
-"I want to go. **NOW.**" -[[TALE OF A THOUSAND/Characters/You\|You]]
+"I'm going. **NOW.**" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-"Are you sure you don't want to keep playing? We have so many games left..." -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+*His eyes widen in frantic, rising panic* 
+"Are you sure you don't want to keep playing? We have so many games left! You can't just take that pass and abandon me... not like the others... NOT AGAIN!" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
 
 "**Beacon.**" -[[TALE OF A THOUSAND/Characters/You\|You]]
 
-*His eyes turn completely dark, his voice dropping into a static-filled register*
-"Alright. Guards... **lock him up.**" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
-The ceiling hatches open. A legion of heavy security robots drops down. The screen violently cuts to black.
-## 🚨 ESCAPE FROM CELL BLOCK 8 (8)
+*His painted smile snaps into a vacant, static-filled scowl, his voice dropping into a dark, distorted register*
+"Fine. If you won't play... you don't get to leave either. Guards... **LOCK HIM IN CELL BLOCK 8.**" -[[TALE OF A THOUSAND/Characters/Septer The Sceptre\|Septer The Sceptre]]
+
+The ceiling hatches burst open. A legion of heavy security steam-robots drops down with clanking iron restraints. The screen violently cuts to black.
+## 🚨 ESCAPE FROM CELL BLOCK 8
 *(You wake up inside a rusty, damp jail cell in the top-left corner of the park. The cheerful carnival music has been replaced by a tense, industrial alarm klaxon. Heavy patrol robots sweep the area with red searchlights.)*
 
 "This prison is pathetic. It's practically rusted shut—you can break the bars with a single strike. Get us out of here, and let's claim that Beacon. But be careful... if those tin cans catch you, we'll end up right back in this cage." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
