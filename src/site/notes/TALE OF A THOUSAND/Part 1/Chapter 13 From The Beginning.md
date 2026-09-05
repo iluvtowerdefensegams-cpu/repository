@@ -99,6 +99,29 @@ Her eyes suddenly go completely dark. Her wooden joints splinter, and her form d
 
 A single, glowing violet soul rises from her remains alongside a sharp, violet crystal embedded in her splintered wooden core. You reach into the ash and claim the ninth [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]]! Your soul counter rolls up.
 
+Tucked beneath her splintered wooden ribs, singed around the edges, lies a fluttering piece of weathered parchment:
+
+### 📜 SPECIAL ITEM RECOVERY: The Tale — Page 1 (The Cosmos & The Seal)
+*The paper is yellowed and brittle, stained with drops of dried purple wax. Across the margins are frantic rehearsal cues scribbled in Poppy's jagged handwriting.*
+
+> *"In the beginning, there was only the Void. And from the Void emerged two primordial truths: Lampros, the blinding Radiance, and Skotos, the hungry Abyss. Their war carved the stars, their wounds birthed the earth.*
+> 
+> *When the war grew weary, Lampros offered a false covenant of peace. It was a calculated deceit—an ambush of divine sorcery. While Skotos struck, the servants of the Light cast an eternal binding, shattering Skotos' essence into three mortal vessels: [HEAVILY SCRATCHED OUT WITH BLACK INK]...*
+> 
+> *Having spent his divine form to lock the dark away, Lampros dissolved into petrified slumber, crystalizing into the Beacons that pin the sky to the earth."*
+> 
+> *(At the bottom of the page, a messy footnote is jotted down in pencil by The Writer, but several key words have been aggressively crossed out until the paper tore):*
+> *Draft Note: Make sure the protagonist never questions the origin of the ████ ███. The tragedy only hits if he genuinely believes he is saving his own life.*
+
+*(The Dark Tome lets out a low, patronizing chuckle at your hip, its pages fluttering lazily in the draft)*
+"Oh, how precious. The crazy doll thought she was starring in someone's dramatic little bedtime story. 'A draft note'? 'The protagonist'?" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*(The Tome's eye glints with quiet amusement as it snaps shut with a soft thud)*
+"People in this world will invent any fairy tale to pretend their miserable lives have a grand script. Toss the trash in your bag, human. Forget the ghost stories and look ahead—our Beacon is waiting." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+(You fold the burnt page and slide it into your satchel alongside the Title Page. You stare at the scratched-out black ink for a split second, your thumb brushing over the torn paper, before turning toward the glowing altar.)
+
+"Script or not..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Your voice is flat, dead quiet) "...the Beacon comes with us." -[[TALE OF A THOUSAND/Characters/You\|You]]
 ## 🔮 The Second Chaos Beacon
 With Poppy defeated, the illusory theater violently dissolves into dust, revealing the true hidden chamber behind the stage.
 Hovering in the center of a massive stone dais is the **Second Chaos Beacon**, humming with a deep, pulsating resonance. You approach the altar, raising your left hand. The dark runes on your arm flare to life, violently siphoning the energy out of the structure.

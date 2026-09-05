@@ -103,7 +103,7 @@ Your watch pings. A massive overlay of the world map displays four shining beaco
 *Its pages tremble, sensing something in the air*
 "I... I can feel it. The Dark Sword is near. It's calling to me from a high place... a place of cold stone." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
-"High place? That's got to be [[TALE OF A THOUSAND/Part 1/Locations/Wignus Tower\|Wignus Tower]]" -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
+"High place? That's got to be [[TALE OF A THOUSAND/Part 1/Locations/Wignus Tower\|Wignus Tower]]." -[[TALE OF A THOUSAND/Characters/Lyze\|Lyze]]
 
 "[[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus]]... That miserable, wretched insect." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 
