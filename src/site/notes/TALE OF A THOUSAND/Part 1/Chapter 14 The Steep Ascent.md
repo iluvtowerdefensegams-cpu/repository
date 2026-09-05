@@ -58,6 +58,30 @@ The screen flashes with a stark, ominous text overlay:
 
 (The Dark Tome shudders, its eye narrowing as the mist clears)
 "That one... he's not like the others, partner. He sees right through us. Keep your blade sharp—when he finally steps up, it won't be a game." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+Where his boots had stood against the rime, pinned beneath a cluster of frozen pebbles, something flutters in the biting alpine wind—a second singed sheet from the manuscript:
+
+### 📜 SPECIAL ITEM RECOVERY: The Tale — Page 2 (The Hero & The Chosen)
+*The paper is stiff with frost, its edges charred with violet soot. The handwriting is deliberate and crisp, matching the cosmic scripture of Page 1.*
+
+> *"Yet the Dark One's chosen would not march unopposed. For when the shadows swell to choke the skies, a pure-hearted soul shall be summoned by the Light to stand upon the precipice.*
+> 
+> *He shall bear neither malice nor thirst for conquest. Armed only with conviction, the Paragon of Radiance will cast his shadow across the border, weighing the deeds of the fallen against the dawn.*
+> 
+> *Two souls bound by ancient design: one to burn the world in crimson ash, the other to extinguish the flame—or die trying."*
+> 
+> *(In the margins below, penned in hasty graphite by The Writer, lies another unnerving draft note):*
+> *Draft Note: Make the contrast between the protagonist and Mike jarring here. The player needs to see the mirror: one boy rotting from the inside under a cursed script, the other genuinely pure of heart. When they clash at the end, it must feel like fate was rigged from the very first line.*
+
+*(The Dark Tome lets out a raspy, irritated scoff as the wind flaps the frozen parchment)*
+"The Dark One's chosen? A hero pure of heart? Bah. Look at who left this scrap behind—the little prince is reading the same damn fairytale script!" -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*(The Tome's demonic eye swivels back toward the misty chasm, its voice dropping into a sinister murmur)*
+"Let him play the shining white knight all he wants. When the time comes, his pure heart will bleed just like all the rest. Pocket it, human. Let's move." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+(You fold the frozen page and slide it into your satchel alongside the Front Page and Page 1. You gaze into the swirling mist where Mike disappeared, your fingers numb on the obsidian hilt of your sword.)
+
+"Rigged or not..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Your breath pluming in the icy air) "...he stays out of my way." -[[TALE OF A THOUSAND/Characters/You\|You]]
 ### 🏔️ QUEST START: The Mountain Antenna
 You cross the bridge, the temperature plummeting instantly. Your character begins to shiver, movement speed dropping to a crawl as frost forms on the edges of the screen.
 
