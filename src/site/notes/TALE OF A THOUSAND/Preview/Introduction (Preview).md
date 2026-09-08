@@ -11,15 +11,14 @@ Out of the oppressive shadows, a towering entity of pure malice materializes: Th
  * The player engages in a brutal, heavily disadvantaged boss fight against the looming shadow.
 ### Scenario A: The Player Loses (Standard)
 The player falls to the floor, defeated and gasping for air.
-"Pathetic. Get up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|???]]
+"Pathetic. Get up." -???
 ### Scenario B: The Player Wins (The Secret Choice)
 The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]] dissolves into thin air. The void grows deathly still.
-"Magnificent... Congratulations, My Special One." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|???]]
-*(Note: Flag unlocked. For the rest of the game, The Dark Tome will address the player as "My Special One" instead of "The One".)*
+"Magnificent... Congratulations, My Special One." -???
 ## Phase 2: The Awakening of Power
-"You are the One. The One I have chosen to fulfill my desires. With my power, you will rule over all... even if you must walk over a thousand graves to do it. Yes, you." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"You are the One. The One I have chosen to fulfill my desires. With my power, you will rule over all... even if you must walk over a thousand graves to do it. Yes, you." -The Dark Tome
 
-The player's arm begins to pulse with a violent, glowing dark light. They reach out and grasp a pitch-black book floating in midair: [[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]].
+The player's arm begins to pulse with a violent, glowing dark light. They reach out and grasp a pitch-black book floating in midair: The Dark Tome.
 
 The [[TALE OF A THOUSAND/Characters/Nightmare\|Nightmare]] stands before them again (or reforms if defeated). The player raises their hand and, with a mere snap of their fingers, completely disintegrates the entity into nothingness.
 Suddenly, the hundreds of souls from the pillars line the area. Their eyes snap open, glowing with absolute terror, and they rush toward the player in a frenzied stampede.
@@ -27,5 +26,5 @@ The player draws their sword and slashes the air. A shockwave of dark energy eru
 As the souls desperately try to scramble back to their feet, the player charges a catastrophic, blinding blast of energy aimed directly at them. The beam fires, pulverizing every last soul into dust.
 
 *(Dark, echoing laughter)*
-"Well done. Now, it is time. Wake up." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+"Well done. Now, it is time. Wake up." -The Dark Tome
 # [[TALE OF A THOUSAND/Preview/Chapter 1 Raiders (Preview)\|Chapter 1 Raiders (Preview)]]
