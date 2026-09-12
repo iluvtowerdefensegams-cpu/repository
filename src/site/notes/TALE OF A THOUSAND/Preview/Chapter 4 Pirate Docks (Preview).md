@@ -142,5 +142,5 @@ You approach the chest and open it. Resting atop a pile of gold coins is a glowi
    You look up from the chest. Directly ahead of the beach lies an incredibly dense, suffocatingly dark forest. The trees seem to swallow the very daylight.
 "Ah... I sense another PageStone buried deep inside those wretched woods. Let us move, partner. Our buffet is far from finished." -The Dark Tome
  * # Soul Count: 20
- * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 2
+ * # PageStone Count: 2
 # [[TALE OF A THOUSAND/Preview/Chapter 5 Dark Forest (Preview)\|Chapter 5 Dark Forest (Preview)]]

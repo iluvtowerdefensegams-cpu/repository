@@ -79,6 +79,6 @@ The sheer, unbothered optimism of his answer catches you completely off guard. Y
  * **The Penalty:** If you try to swing your weapon at a wild monster, Mike will instantly dash in front of your blade, parry the attack, and hit you with a non-lethal shield bash that **ragdolls your character onto the floor**.
  * **The Tome's Reaction:** Every time you get ragdolled, the Tome deeply sighs or mocks your lack of authority.
  * # Soul Count: 10
- * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
+ * # PageStone Count: 1
 
 # [[TALE OF A THOUSAND/Preview/Chapter 4 Pirate Docks (Preview)\|Chapter 4 Pirate Docks (Preview)]]

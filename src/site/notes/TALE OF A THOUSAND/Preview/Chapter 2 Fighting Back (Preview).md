@@ -158,7 +158,7 @@ You pick up the map with trembling fingers, staring blankly at the ink. You have
 
 ​(You numbly fold the map, turn away from the burning ruins of your home, and start walking.)
  * # Soul Count: 10
- * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 1
+ * # PageStone Count: 1
 
 # [[TALE OF A THOUSAND/Preview/Chapter 3 Green Fields (Preview)\|Chapter 3 Green Fields (Preview)]]
 

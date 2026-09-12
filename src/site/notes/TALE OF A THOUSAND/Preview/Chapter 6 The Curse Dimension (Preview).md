@@ -67,7 +67,7 @@ The Witch turns completely to dust. The glowing violet PageStone she held clatte
 "Yes... cling to my power, human. Feed that suspicion. The world wants you dead—and I am the only thing keeping your heart beating. Now move." -The Dark Tome
 
 - # Soul Count: 29
-- # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 3
+- # PageStone Count: 3
 
 ## Dev note: here the demo would end
 # Chapter 7 Mike Returns
