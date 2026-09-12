@@ -71,7 +71,7 @@ With a final, shattering impact, Knox is thrown from his saddle, crashing heavil
 
 You deliver a swift downward strike. Knox disintegrates into a cloud of white feathers and steel fragments.
  * **🏆 REWARD ACQUIRED: Summon Spell - Dark Stallion**
-   * *Effect:* You can now summon the Dark Stallion in the overworld to travel across the map at hyper-speed! While riding, you can keep your sword out to trample and slice through minor enemies on the road.
+   * *Effect:* You can now summon the Dark Stallion in the overworld to travel across the map at faster speeds! While riding, you can keep your sword out to trample and slice through minor enemies on the road.
 ## 🏔️ The Cavern Mouth
 You continue North on horseback, using your blade to effortlessly run down and butcher a wandering pack of mountain Goblins along the way.
 
