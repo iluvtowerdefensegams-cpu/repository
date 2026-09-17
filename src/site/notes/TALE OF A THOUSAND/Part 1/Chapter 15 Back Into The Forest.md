@@ -31,6 +31,43 @@ They dissolve completely, leaving behind two glowing purple souls that fly viole
 You wipe a smear of dark ash from your shoulder, sheathing the humming blade without giving the empty steps a second glance
 
 "A story with no happy ending." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+They dissolve completely, leaving behind two glowing purple souls that fly violently into your dark blade.
+
+You wipe a smear of dark ash from your shoulder, sheathing the humming blade without giving the empty steps a second glance.
+
+"A story with no happy ending." -[[TALE OF A THOUSAND/Characters/You\|You]]
+
+As the wind clears the dust from the stone steps where Samuel fell, two items remain resting amidst his cracked spectacles: a sturdy, brass-clasped **Leather Binder** designed to organize scattered parchment, and a meticulously preserved sheet written in gilded ink—Samuel’s prized possession.
+
+### 💼 SPECIAL ITEM RECOVERY: The Tale Binder
+*A handcrafted traveler's portfolio lined in reinforced midnight leather. Slipping your loose pages inside snaps them into a clean, unified dossier, bound by polished steel rings.*
+> **[UI UPGRADE UNLOCKED: THE TALE DOSSIER]**
+> *All recovered manuscript pages from The Writer are now neatly cataloged into an interactive storybook menu accessible anytime from your satchel.*
+
+### 📜 SPECIAL ITEM RECOVERY: The Tale — Page 3 (The Fools of Foreknowledge)
+*Unlike the torn scraps found in the dirt, this page was lovingly treated with wax sealant to keep the corners pristine. The calligraphy is ornate, adorned with hand-drawn constellations along the header.*
+
+> *"Yet it was not solely the Paragon of Radiance who sought to bar the shadow's march. Across the fractured lands, others would stir in the wake of impending ruin—some spurred by reckless valor, others gripped by frantic dread.*
+> 
+> *Among them arose a youth who unearthed the sacred chronicles—the very parchment wherein the tapestry of fate was inscribed. Beholden to the forbidden words, he gazed upon the destined twilight and deemed himself the exception to the rule.*
+> 
+> *Blind to the cruelty of ordained design, his hubris whispered that foresight was salvation. Armed with certainty, he rallied the strong and stepped onto the path of the Calamity, fully cognizant of the monster before him... only to discover that knowing one's doom does not grant the strength to rewrite it.*
+> 
+> *The ink had dried long before he drew his breath."*
+> 
+> *(Scrawled across the bottom in The Writer's hurried blue ballpoint pen):*
+> *Draft Note: Samuel's tragedy shouldn't be that he didn't know—it's that he knew EVERYTHING and STILL thought he was the editor instead of an extra. Keep his death pathetic. The script does not negotiate with the characters.*
+
+*(The Dark Tome lets out a low, mocking wheeze as it scans the ornate text)*
+"Look at this puffed-up little nerd. He read the spoilers for his own murder, strutted out here with his brother's axes, and honestly thought his high-school reading comprehension would change the ending." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+*(The Tome's demonic eye rolls toward the dark clouds overhead)*
+"'The ink had dried long before he drew his breath.' Heh. For once, whoever scribbled this trash actually got something right. Snap it in your binder, partner. We're done listening to dead bookworms." -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+
+(You slide the gilded page into the leather binder alongside the Title Page, Page 1, and Page 2. You run your thumb over the steel rings, the brass lock clicking shut with a cold, solid snap.)
+
+"He knew the script..." -[[TALE OF A THOUSAND/Characters/You\|You]] (Your visor reflects the empty steps) "...and he still stepped in front of the blade." -[[TALE OF A THOUSAND/Characters/You\|You]]
 # ⚙️ ARRIVAL: Lyze HQ
 ​You push open the pneumatic doors of the high-tech sanctuary. The machines hum, and cooling fans whir. Salariem, Steve the Blacksmith, and Scrappy are set up at their usual stations in the central hub.
 
