@@ -38,4 +38,5 @@ You have lethal magic wounds. You would die if it weren't for the Tome. A thousa
 Whenever you open a chest or smth, I wanna have the effect from old Zelda games where link raises the object (You got a Braincell! You now have 2)
 # 13. Aura Route 
 Instead of mana, you have Aura. You also have a special key to aura farm (like dragon ball charging). Also dodging has a slowmo effect just to make you cool and you gain a buncha parkour abilities. Aura menu: You can roll, air dash, slide, wallrun, wallkick, do backflips (big aura), pose, emote...
-
+# 14: Writer's Notes
+They only become visible after beating the game for the first time, to avoid spoilers. The character can't see them, they're extra lore for second time players.
