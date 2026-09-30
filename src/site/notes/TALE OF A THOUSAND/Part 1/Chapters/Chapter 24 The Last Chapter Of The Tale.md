@@ -34,7 +34,7 @@ Unlike the frantic defenders of the lower sectors, Wignus stands perfectly compo
 
 Standing beside him on the upper steps, her sniper rifle charged with crackling radiant energy, is **Alice**. Tears glisten in her eyes—not of terror, but of decades of suppressed grief and bitter determination.
 
-> *"Look at you... wrapped in that cursed iron,"* Alice's voice trembles with raw emotion. *"You have no idea whose legacy you're spitting on, do you?! You are her son! You are the child of the Cleric who gave her life to seal the previous Dark One!"* —[[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+> *"Look at you... wrapped in that cursed iron,"* Alice's voice trembles with raw emotion. *"You have no idea whose legacy you're spitting on, do you?! You are her son! You are the child of the Cleric who gave her life to seal the previous Dark One!"* —[[TALE OF A THOUSAND/Characters/Alice\|Alice]]
 
 During the high-stakes clash at the base of the stairs, the deep history comes to light:
 Alice was your **Mother's apprentice** (Part 1). When your Mother unleashed her divine sacrificial explosion in the dark forest—freezing the previous dark host solid and leaving the Orchid of Power blooming in the ash—Alice was just a young initiate. Wignus, who fought in that original trio alongside your Mother and the Warrior, brought back the tragic news. Devastated, Alice swore an eternal oath of vengeance against the Dark Tome and the entity of Skotos. She watched the Capital fall into paranoid isolation after your Mother's death, training under Wignus and waiting for the day the dark curse would resurface.
@@ -56,20 +56,102 @@ Out of the deep shadows behind the crystal steps a tall, weary figure—a man lo
 He steps forward, staring at you. There is no warmth in his gaze, no tearful embrace, no relief. His expression is one of cold, absolute devastation. Mike has told him everything: the massacres across the sectors, the dark path you chose, and the trail of stolen souls in your wake.
 > *"My son... I am not proud of what you've become. I must stop you."* —[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 > 
-Prince Mike steps forward, drawing his blade to fight alongside him, but your father calmly raises a hand, halting the boy. In his right grip, your father holds an ancient, pristine longsword emitting a blinding, radiant aura: **Lampros' Blade**.
+Prince Mike steps forward, drawing his blade to fight alongside him, but your father calmly raises a hand, halting the boy. 
+
+In his weathered grip, your father holds an ancient, pristine broadsword pulsing with pure, incandescent sunlight: **Lampros' Blade**. 
+
+Your father’s journey across the scorched continent was never about running away. While you were swept up in the dark currents of slaughter, your father had searched ancient crypts and sunken sanctuaries to unearth the final lost relic of the Dawn God. Just as you had methodically reunited the corrupted **Dark Set**—the Sword, the Tome, and the Armour—your father had finally brought the sacred cornerstone needed to complete the holy **Light Set** for Lampros’ true heir.
+
 > *"No, Prince Mike. Stay back,"* your father demands softly, his voice trembling with heartbreak. *"This is my child. Let me fix my mistake."* —[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
  
  [ BOSS ENCOUNTER: THE FATHER ]
  Special Condition: High Weapon Damage (Lampros' Blade) / Zero Combat Skill
  Strategy: Easy punish mechanics; raw power undermined by sloppy footwork.
+
 ### The Unforgivable Strike
-Your father raises Lampros' Blade, its holy light illuminating your dark visor. He lunges forward with a heavy strike—but mid-swing, his hands freeze. His eyes fill with tears. He can't bring himself to cut down his own child.
+Your father raises Lampros' Blade, its ancient holy radiance illuminating your dark visor. He lunges forward with a heavy, awkward strike—but mid-swing, his hands freeze. His eyes fill with tears. He can't bring himself to cut down his own child.
 
-​"I held you when you were born..." he whispers, his grip on the hilt slipping. "I can't... I can't do it..."
+"I held you when you were born..." he whispers, his trembling grip on the hilt slipping. "I can't... I can't do it..." -[[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 
-​You don't hesitate. You step inside his open guard and drive the Dark Sword straight through his chest.
-​Prince Mike lets out a blood-curdling scream of horror as your father's soul (98th) is violently torn into the Tome, rushing to your father's side as the old man breathes his last. Mike looks up at you, his eyes wide, trembling as he realizes the horrifying monster standing before him—a killer so completely consumed by darkness that they wouldn't even hesitate to butcher their own flesh and blood.
-Grief mutates instantly into blinding, righteous fury. Mike reaches down and picks up **Lampros' Blade** from your father's limp hand. A blinding shockwave of holy energy erupts from the sword as magnificent, fiery **Light Wings** burst from Mike's back—burning bright against the dark, jagged wings sprouting from your armor.
+You don't hesitate. You step inside his open guard and drive the Dark Sword straight through his chest.
+
+*THWACK.*
+
+No divine clash. No heroic struggle. Just a dull, hollow puncture through frail cloth and brittle bone. 
+
+Your father’s hands slip from Lampros’ Blade. His knees buckle beneath him, his body slumping heavily onto the cold white marble in a pool of spreading crimson. A quiet, pathetic rasp escapes his lips before his head rolls to the side, lifeless.
+
+**One hit.** That was all it took.
+
+As his purple soul (98th) is violently wrenched from his ribcage and drawn into the Dark Tome, a blinding flash of golden script sears itself into the air above his corpse. A loose, pristine parchment tears itself free from the ether, fluttering down to rest upon the pool of your father's ash.
+
+---
+
+### 📜 THE TALE — THE LAST PAGE OF THE TALE?
+
+> *"How pathetic is the mortal mind that it requires an excuse to bleed.*
+>
+> *For twenty-four chapters you told yourself the lie: 'I must find my father. I must bring him home. Everything I do, every throat I open, every soul I burn... it is for him.'*
+>
+> *And there he lies.*  
+> *One strike. One single, effortless thrust into the chest of a weeping old man who could not bear to raise a hand against his boy.*
+>
+> *Did you weep? Did your blade hesitate?*  
+> *No.*
+>
+> *Because deep beneath the dirt and the rot, you always knew the truth:*  
+> *THE WRITER DID NOT TAKE UP THE PEN FOR A MISERABLE FATHER.*
+>
+> *This story was never about a family reunion. It was never about a lost boy seeking warmth in the cold.*  
+> *IT WAS FOR THE STEEL.*  
+> *IT WAS FOR THE HUNGER.*  
+> *IT WAS FOR THE RAGE.*  
+> *IT WAS FOR THE DRIVE.*  
+> *IT WAS FOR THIS FINAL CONFRONTATION.*
+>
+> *Just as the Dark One forged his path to reunite the three pieces of the Dark Set, the Light One has gathered the sacred relics of the Sun.*
+>
+> *Every burned village, every slaughtered guardian, every broken machine, and every drop of stolen blood was written for one purpose and one purpose alone: TO REACH THIS VERY MOMENT.*
+>
+> *AND NOW, AT LONG LAST, IT HAS COME.*
+>
+> *THE DARK SET AGAINST THE LIGHT SET.*  
+> *THE HERO AGAINST THE VILLAIN.*  
+> *THE LIGHT OF THE SUN AGAINST THE BOTTOM OF THE VOID.*
+>
+> *The entire fate of creation—the fragile, weeping hope of whatever is left of this shattered world—now rests upon the trembling shoulders of a broken kid, standing alone to defend a crystal of light.*
+>
+> *Draw your steel, monster. The ink is running out."*
+
+---
+
+> 📝 **[THE WRITER'S DRAFT NOTE]**  
+> *"Make it epic. It MUST be. All of the story, all thousand deaths, all twenty-four chapters were designed solely to reach this single second.*  
+> *How will it end? Who knows. Let them fight."*
+
+Also you unlocked Writer's notes
+
+---
+
+Prince Mike lets out a blood-curdling scream of pure, unadulterated anguish. 
+
+He falls to his knees beside your father's corpse, his hands trembling over the pooling ash. Slowly, his head turns up toward you. The gentle boy from the bridge, the kid who offered you mercy, the prince who tried to believe you had a heart—he is gone. 
+
+His eyes burn with a blinding, incandescent fire.
+
+"You... you monster..." Mike whispers, his voice trembling so violently that the marble beneath him cracks. "HE WAS YOUR FATHER!" -[[TALE OF A THOUSAND/Characters/Mike\|Mike]]
+
+Grief mutates instantly into apocalyptic, righteous fury. 
+
+Mike reaches down with both hands and grips the golden hilt of **Lampros' Blade**. 
+
+*SHRRRRR-BOOM!*
+
+The final relic of Lampros connects with its rightful heir! 
+With the **Light Set** fully united, a cataclysmic shockwave of holy white fire erupts across the sanctuary! Brilliant, celestial plate armor materializes over Mike's body, and magnificent, fiery **Wings of Divine Light** burst from his back—burning in blinding defiance against the jagged obsidian wings of your Dark Set!
+
+He rises into the air, Lampros' Blade pointed squarely at your neck.
+
 ## ACT III: Prince Mike (The Prince of the Tale)
  [ BOSS ENCOUNTER: PRINCE MIKE ]
  Theme: Light (Lampros) vs. Darkness (Skotos)
@@ -157,7 +239,7 @@ The towering shadow behind it explodes upward, filling the entire ceiling of the
 
 The book snaps open once more, its dark violet light blindingly bright, reflecting off your helmet's visor.
 
-**"DON'T WORRY... YOURS WILL SUFFICE!"** -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
+**"...YOURS WILL SUFFICE!"** -[[TALE OF A THOUSAND/Characters/The Dark Tome\|The Dark Tome]]
 # TRUE FINAL BOSS: THE DARK PUPPET
  Condition: Curse Timer Active (Health depletes continuously over time)
  Difficulty: EXTREME (The hardest encounter in the game)

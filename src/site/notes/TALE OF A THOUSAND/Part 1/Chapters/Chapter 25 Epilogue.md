@@ -27,7 +27,7 @@ The camera snaps abruptly into a dimly lit modern bedroom. **The Writer / Narrat
 He breathes heavily, running a hand through his hair as he looks around the familiar, safe surroundings of his room. He lets out a long, shaky sigh of relief and buries his face in his hands.
 > *"Whew... It was all just a dream... Or was it?"* —[[TALE OF A THOUSAND/Characters/The Writer\|The Writer]]
 > 
-The camera slowly pans down toward the dark wooden floor beside his bed. Hidden in the shadows beneath his nightstand, resting quietly on the carpet... is a **Dark Tome**, its leather cover glowing with a faint, crimson light.
+The camera slowly pans down toward the dark wooden floor beside his bed. Hidden in the shadows beneath his nightstand, resting quietly on the carpet... is a **Red Tome**, its leather cover glowing with a faint, crimson light. It reads "The Tale"
 The screen snaps to black instantly.
 
 

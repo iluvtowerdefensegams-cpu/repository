@@ -127,20 +127,6 @@ The heavy leather harness binding the Dark Tome to your waist violently snaps un
 With a dull, heavy thud, the Dark Tome tumbles out of its holster and hits the wet asphalt, left lying helplessly in the rain right outside the Capital Gates.
 
 (Developer Spec: As the spatial shear snaps the harness, show a brief slow-motion UI notification: [ITEM UNEQUIPPED: THE DARK TOME]. The camera pans down for one second to show the book lying closed on the wet pavement in front of the locked Capital Gates before the portal yanks the MC away).
-### 🌧️ ALONE AT THE START
-*THWACK!*
-You slam hard onto your knees, skidding across cold, wet grass under a gloomy gray sky.
-The roaring sound of spatial displacement dies away. The air is deathly quiet, save for the soft patter of rain against your dark armor.
-Slowly, you stand up, looking around. You are back at the overgrown, crumbling stone altar where your journey first began all those months ago.
-You reach down to your hip to draw upon the Tome's dark magic...
-Your hand grasps empty air.
-The leather holster is completely torn open and bare.
-There are no dark whispers echoing inside your mind. No sarcastic commentary. No ancient spells feeding into your nerve endings. The Dark Tome is miles away, left behind at the walls of the Capital.
-You stand alone in the rain, looking down at your corrupted, purple-marked arm. Then, you glance at the **Dark Sword** still gripped tightly in your right hand. Its blade gleams with a quiet, steady violet pulse—loyal, heavy, and ready.
-You don't need the Tome's guidance anymore. You don't need its permission.
-You turn around, taking your first step back toward the world you left behind...
  * # Soul Count: 75
  * # [[TALE OF A THOUSAND/Part 1/Others/PageStone\|PageStone]] Count: 13
- * # Equipment: Dark Sword, Dark Armor, Dark Wings
- * # Status: The Dark Tome Lost
 # [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 23 The Sweep\|Chapter 23 The Sweep]]

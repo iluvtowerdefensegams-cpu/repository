@@ -37,7 +37,7 @@
 - # 93 [[TALE OF A THOUSAND/Characters/Tengaro, Master of Swordplay\|Tengaro, Master of Swordplay]]
 - # 94 [[TALE OF A THOUSAND/Characters/Vanth, The Nightmare Necromancer\|Vanth, The Nightmare Necromancer]]
 - # 95 [[TALE OF A THOUSAND/Characters/Dani the Dragonrider\|Dani the Dragonrider]]
-- # 96-97 [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]] + [[TALE OF A THOUSAND/Characters/Alice-Aid\|Alice-Aid]]
+- # 96-97 [[TALE OF A THOUSAND/Characters/Wignus The Wizard\|Wignus The Wizard]] + [[TALE OF A THOUSAND/Characters/Alice\|Alice]]
 - # 98 [[TALE OF A THOUSAND/Characters/Dad\|Dad]]
 - # 99 [[TALE OF A THOUSAND/Characters/Mike\|Mike]]
 - # 100 [[TALE OF A THOUSAND/Characters/You\|You]]
