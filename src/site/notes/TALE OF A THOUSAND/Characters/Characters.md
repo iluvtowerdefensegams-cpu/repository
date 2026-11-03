@@ -51,6 +51,7 @@ For Soul order, go to [[TALE OF A THOUSAND/Part 1/Others/Soul\|Soul]]
 - ## [[TALE OF A THOUSAND/Characters/Vanth, The Nightmare Necromancer\|Vanth, The Nightmare Necromancer]]
 - ## [[TALE OF A THOUSAND/Characters/Dani the Dragonrider\|Dani the Dragonrider]]
 - ## [[TALE OF A THOUSAND/Characters/The Writer\|The Writer]]
+- ## [[TALE OF A THOUSAND/Characters/Tyme\|Tyme]]
 # Part 2 Characters
 ## [[TALE OF A THOUSAND/Part 2/Part 2 TOATS\|Part 2 TOATS]]
 

@@ -9,4 +9,3 @@
 - Get Herb quest part 1. Deliver herb and bring back a potion quest part 2.
 - Lotus of Power guarded by Mary with her life.
 
-Btw if the game goes BIG I wanna have a game to explain Salariem's Backstory

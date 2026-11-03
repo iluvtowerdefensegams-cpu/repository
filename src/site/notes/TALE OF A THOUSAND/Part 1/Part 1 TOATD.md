@@ -19,30 +19,71 @@
 (Triggered by finding the book in the Library "How To Get Aura". Instead of PageStones, you get AuraStones. Instead of Souls, Aura. You are the ultimate AuraFarmer. Armours no longer have Defense, they now have +Aura attribute. Better looking = more +Aura. Long capes +1000 +Aura. Carries into Part 2)
 - ## Smelly Route 
 (Triggered by completing a dungeon inside a dumpster before returning medicine to your dad. The dungeon is hard to prevent new players from accidentally playing on this mode. Carries into Part 2)
-# Chapters
-- # [[TALE OF A THOUSAND/Part 1/Chapters/Introduction\|Introduction]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 1 Raiders\|Chapter 1 Raiders]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 2 Fighting Back\|Chapter 2 Fighting Back]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 3 Green Fields\|Chapter 3 Green Fields]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 4 Pirate Docks\|Chapter 4 Pirate Docks]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 5 Dark Forest\|Chapter 5 Dark Forest]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 6 The Curse Dimension\|Chapter 6 The Curse Dimension]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 7 Mike Returns\|Chapter 7 Mike Returns]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 8 A Scientist's HeadQuarters\|Chapter 8 A Scientist's HeadQuarters]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 9 The Fun Begins\|Chapter 9 The Fun Begins]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 10 The Sword Locked In A Tower\|Chapter 10 The Sword Locked In A Tower]]
-- ##  [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 11 In A Place Of La Mancha\|Chapter 11 In A Place Of La Mancha]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 12 Silhouette Of A Soul\|Chapter 12 Silhouette Of A Soul]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 13 From The Beginning\|Chapter 13 From The Beginning]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 14 The Steep Ascent\|Chapter 14 The Steep Ascent]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 15 Back Into The Forest\|Chapter 15 Back Into The Forest]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 16 The Orchid Of Power\|Chapter 16 The Orchid Of Power]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 17 Scrambled Chemistry\|Chapter 17 Scrambled Chemistry]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 18 Frozen Vessel\|Chapter 18 Frozen Vessel]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 19 The Ashland Desert\|Chapter 19 The Ashland Desert]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 20 Core Integrity\|Chapter 20 Core Integrity]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 21 Cyber City\|Chapter 21 Cyber City]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 22 The Long Walk\|Chapter 22 The Long Walk]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 23 The Sweep\|Chapter 23 The Sweep]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 24 The Last Chapter Of The Tale\|Chapter 24 The Last Chapter Of The Tale]]
-- ## [[TALE OF A THOUSAND/Part 1/Chapters/Chapter 25 Epilogue\|Chapter 25 Epilogue]]
+# The Skotos Route Chapters
+- # [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Introduction\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Introduction]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 1 Raiders\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 1 Raiders]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 2 Fighting Back\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 2 Fighting Back]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 3 Green Fields\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 3 Green Fields]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 4 Pirate Docks\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 4 Pirate Docks]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 5 Dark Forest\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 5 Dark Forest]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 6 The Curse Dimension\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 6 The Curse Dimension]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 7 Mike Returns\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 7 Mike Returns]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 8 A Scientist's HeadQuarters\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 8 A Scientist's HeadQuarters]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 9 The Fun Begins\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 9 The Fun Begins]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 10 The Sword Locked In A Tower\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 10 The Sword Locked In A Tower]]
+
+- ##  [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 11 In A Place Of La Mancha\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 11 In A Place Of La Mancha]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 12 Silhouette Of A Soul\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 12 Silhouette Of A Soul]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 13 From The Beginning\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 13 From The Beginning]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 14 The Steep Ascent\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 14 The Steep Ascent]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 15 Back Into The Forest\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 15 Back Into The Forest]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 16 The Orchid Of Power\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 16 The Orchid Of Power]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 17 Scrambled Chemistry\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 17 Scrambled Chemistry]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 18 Frozen Vessel\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 18 Frozen Vessel]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 19 The Ashland Desert\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 19 The Ashland Desert]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 20 Core Integrity\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 20 Core Integrity]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 21 Cyber City\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 21 Cyber City]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 22 The Long Walk\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 22 The Long Walk]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 23 The Sweep\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 23 The Sweep]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 24 The Last Chapter Of The Tale\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 24 The Last Chapter Of The Tale]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 25 Epilogue\|TALE OF A THOUSAND/Part 1/Chapters (Skotos)/Chapter 25 Epilogue]]
+# The Smelly Route Chapters 
+- # [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Introduction\|Introduction]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 1 Raiders (Smelly)\|Chapter 1 Raiders (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 2 Fighting Back (Smelly)\|Chapter 2 Fighting Back (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 3 Green Fields (Smelly)\|Chapter 3 Green Fields (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 4 Pirate Docks (Smelly)\|Chapter 4 Pirate Docks (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 5 The Big Vegetables (Smelly)\|Chapter 5 The Big Vegetables (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 6 Clanker HQ (Smelly)\|Chapter 6 Clanker HQ (Smelly)]]
+
+- ## [[TALE OF A THOUSAND/Part 1/Chapters (Smelly)/Chapter 7 Super Stinker Land (Smelly)\|Chapter 7 Super Stinker Land (Smelly)]]
